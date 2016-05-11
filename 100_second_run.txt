@@ -3,6 +3,11 @@
 May 11th (Day 1!)
 Reset!
 
-git stuff for thee lists
+git stuff for these lists
 https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
+
+More on this:
+https://www.freecodecamp.com/challenges/roman-numeral-converter
+
+
 
