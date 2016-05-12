@@ -9,5 +9,21 @@ https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-lin
 More on this:
 https://www.freecodecamp.com/challenges/roman-numeral-converter
 
+ITIL lynda.com
+Main concepts of the service life cycle
+Summary: Service life cycle
+Quiz
 
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/p/random-walk-exploration
 
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/ciphers-vs-codes
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/shift-cipher
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/what-is-computer-memory-prime-adventure-part-7
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-and-the-one-time-pad
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/p/xor-exploration
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/e/bitwise-operators
+
+Learn jQuery in 15 minutes – Part 1 – Selectors, Animations, Filters
+https://youtu.be/v-RC3kJCL4c?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
