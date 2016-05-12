@@ -27,6 +27,3 @@ https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/e/bi
 
 Learn jQuery in 15 minutes – Part 1 – Selectors, Animations, Filters
 https://youtu.be/v-RC3kJCL4c?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
-
-
-
