@@ -28,5 +28,22 @@ https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/e/bi
 Learn jQuery in 15 minutes – Part 1 – Selectors, Animations, Filters
 https://youtu.be/v-RC3kJCL4c?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
 
+May 12th (day 2)
+
+https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/overview
+Overview: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798894
+Project Intro: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798912
+Installing Nodejs: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798920
+NPM intro and basic HTTP Server: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798924
+Do the exercise: set up node and use git bash to instal npm
+
+from
+http://www.frontendhandbook.com/practice/making-fd.html
+Interview with Kyle Simpson (O'Reilly Fluent Conference 2016)
+https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL
+
+http://www.frontendhandbook.com/learning/internet.html
+https://www.w3.org/wiki/How_does_the_Internet_work
+
 
 
