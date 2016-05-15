@@ -53,5 +53,22 @@ May 13 (Day 3)
 More Node training
 Serving Html Pages: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798930
 
+rewatched this:
+https://www.lynda.com/Higher-Education-tutorials/Neuroscience-Learning/188434-2.html
+
+back to Git:
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/git-clone
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/git-remote-v
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/git-fetch
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/git-merge-II
+https://git-scm.com/docs/git-show-branch
+https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/workflow
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/git-push
+https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/teamwork-review
+
+https://www.codecademy.com/en/courses/deploy-a-website/lessons/create-static-site/exercises/jekyll
+
 
 
