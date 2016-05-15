@@ -130,4 +130,7 @@ https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/overview
 https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/hello-world
 
 https://help.github.com/articles/fetching-a-remote/
+http://railsware.com/blog/2014/08/11/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/
+http://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch
+
 
