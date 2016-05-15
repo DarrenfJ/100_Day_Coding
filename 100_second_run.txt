@@ -1,16 +1,16 @@
 100 Day 2nd run
 
 May 11th (Day 1!)
-Reset!
+// Reset!
 
-git stuff for these lists
+// git stuff for these lists
 https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
 
 More on this:
 https://www.freecodecamp.com/challenges/roman-numeral-converter
 
 ITIL lynda.com
-Main concepts of the service life cycle
+// Main concepts of the service life cycle
 Summary: Service life cycle
 Quiz
 
@@ -50,8 +50,72 @@ More Git
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
 May 13 (Day 3)
-More Node training
+// More Node training
 Serving Html Pages: https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/t/lecture/2798930
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+May 14th (Day 4)
+
+// rewatching these
+https://teamtreehouse.com/library/http-basics/introduction-to-http/introduction-to-http
+https://teamtreehouse.com/library/http-basics/introduction-to-http/building-a-case-for-http
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-requests-using-telnet
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-request-format
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-response-format
+// these from here on are new:
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-get-request
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-get-request-2
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-post-request
+
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/the-browser-as-a-gui-for-http
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/intro-to-chrome-developer-tools
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/html-review-and-uris-vs-urls
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/uris-vs-urls
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-anchors-for-get-requests
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-anchors-for-get-requests-2
+
+May 15 (Day 5)
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-forms-for-get-requests
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/data-in-post-requests
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-forms-for-post-requests
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-forms-for-http-requests
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/wrapup
+
+https://dev.opera.com/articles/adding-meaning-to-http-error-pages/
+https://www.flickr.com/search/?q=404%20page
+https://dev.opera.com/articles/adding-meaning-to-http-error-pages/404.html
+
+lynda.com ITIL vids IT Service Management IT today, IT oportunities
+several videos on this (7)
+
+// links from: http://www.frontendhandbook.com/learning/internet.html
+https://www.khanacademy.org/partner-content/code-org/internet-works
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-wires-cables-and-wifi
+
+https://teamtreehouse.com/library/rest-api-basics
+http://www.webopedia.com/TERM/A/API.html
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/introduction
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/endpoints
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/requests
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/responses
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/security
+https://teamtreehouse.com/library/rest-api-basics/getting-the-rest-you-need/review-rest-api-basics
+
+started: https://teamtreehouse.com/library/using-github-pages-to-host-free-websites-2
+
+https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/courseware/ch-json_data/seq-vid-json_introduction/
+several JSON vids
+
+// and start in on this:
+https://teamtreehouse.com/library/nodejs-basics
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/overview
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/hello-world
+
+https://help.github.com/articles/fetching-a-remote/
+
+
+
 
 
 
