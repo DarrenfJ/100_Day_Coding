@@ -133,4 +133,61 @@ https://help.github.com/articles/fetching-a-remote/
 http://railsware.com/blog/2014/08/11/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/
 http://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch
 
+May 16 (Day 6)
+
+// more links from: http://www.frontendhandbook.com/learning/internet.html
+// and from https://www.khanacademy.org/partner-content/code-org/internet-works
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-ip-addresses-and-dns
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-packet-routers-and-reliability
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-http-and-html
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-encryption-and-public-keys
+https://www.khanacademy.org/partner-content/code-org/internet-works/v/the-internet-cybersecurity-and-crime
+https://www.khanacademy.org/partner-content/code-org/internet-works/a/learn-more-about-the-internet-on-khan-academy
+
+// more on this: https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/hello-world
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/the-console
+https://developer.mozilla.org/en-US/docs/Web/API/Console/dir
+https://developer.mozilla.org/en-US/docs/Web/API/Console/error
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/javascript-without-the-browser
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/why-use-nodejs
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/the-tools-at-our-disposal
+https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/review-introduction-to-nodejs
+
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/e/bitwise-operators
+
+
+
+May 18 (Day 8)
+
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-2
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-3
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/p/time-complexity-exploration
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/p/euler-totient-exploration
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons
+
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/comp-number-theory-introduction
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/primality-test-challenge
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/trial-division
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/what-is-computer-memory-prime-adventure-part-7
+
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/preparation-and-planning
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/making-a-get-request-with-http
+https://nodejs.org/dist/latest-v6.x/docs/api/http.html#http_http_get_options_callback
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/-making-a-get-request-with-http
+
+
+
+
+
+
+
+have a 14 min one to watch!
+lynda.com ITIL vids
+
+
+
 
