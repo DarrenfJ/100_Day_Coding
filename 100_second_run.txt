@@ -155,7 +155,16 @@ https://teamtreehouse.com/library/nodejs-basics/introduction-to-nodejs/review-in
 
 https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/e/bitwise-operators
 
+May 17th (Day 7)
 
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1
+https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem
+
+http://www.tutorialspoint.com/nodejs/nodejs_repl_terminal.htm
+http://www.tutorialspoint.com/nodejs/nodejs_npm.htm
+https://en.wikipedia.org/wiki/Representational_state_transfer
+http://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
 
 May 18 (Day 8)
 
