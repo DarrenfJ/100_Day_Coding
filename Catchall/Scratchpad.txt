@@ -1,0 +1,10 @@
+May 18th (day 8)
+
+http://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
+http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
+
+May 20th
+
+http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+
+From work computer
