@@ -16,3 +16,7 @@
 
 // Do this quiz a few times
 // https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/courseware/ch-json_data/seq-quiz-json/
+
+// revisit these and play around with code
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-3-challenge
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-4-sieve-of-eratosthenes
