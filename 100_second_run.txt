@@ -237,15 +237,8 @@ https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/managi
 May 22 (Day 12)
 //started reading https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
 
-
-
 http://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
-
 http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
-
-
-
-
 http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 
 May 23 (Day 13)
