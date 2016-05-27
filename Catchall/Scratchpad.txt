@@ -1,10 +1,25 @@
-May 18th (day 8)
 
-http://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
-http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
 
-May 20th
+//From work computer
 
-http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+[insert here]
 
-From work computer
+//Get links from this site:
+// https://teamtreehouse.com/library/npm-basics/what-is-npm/introducing-npm
+
+//have more to watch!
+//lynda.com ITIL vids
+
+//npm docs to read
+// https://www.npmjs.com/package/http-server
+// https://docs.npmjs.com/getting-started/fixing-npm-permissions
+
+// Do this quiz a few times
+// https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/courseware/ch-json_data/seq-quiz-json/
+
+// revisit these and play around with code
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-3-challenge
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-4-sieve-of-eratosthenes
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-5-trial-division-using-sieve
+// https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-density-spiral
+// https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/guess-the-coin
