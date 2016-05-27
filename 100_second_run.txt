@@ -187,15 +187,154 @@ https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-applicat
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/making-a-get-request-with-http
 https://nodejs.org/dist/latest-v6.x/docs/api/http.html#http_http_get_options_callback
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/-making-a-get-request-with-http
+http://stackoverflow.com/questions/13006135/copy-last-commits-from-master-to-branch
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-errors-in-node
+https://nodejs.org/dist/latest-v6.x/docs/api/http.html#http_http_request_options_callback
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-errors-in-node-2
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/getting-the-response-body
+
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency
+
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/getting-the-response-body-2
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/parsing-json
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+http://jsonprettyprint.com/
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/parsing-json-2
+
+
+May 19 (Day 9)
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-parsing-and-status-code-errors
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/using-try-and-catch
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-parsing-and-status-code-errors-2
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/organizing-your-code-with-require
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/organizing-your-code-with-require-2
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/perfecting-getting-multiple-profiles
+https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/perfecting-getting-multiple-profiles-2
+
+https://teamtreehouse.com/library/npm-basics
+https://teamtreehouse.com/library/npm-basics/what-is-npm/introducing-npm
+
+May 20 (Day 10)
+https://teamtreehouse.com/library/npm-basics/what-is-npm/how-to-find-and-choose-packages
+https://teamtreehouse.com/library/npm-basics/what-is-npm/npm-and-packages-review
+
+//work on this
+learnyounode: MAKE IT MODULAR (Exercise 6 of 13) 
+
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/installing-local-packages
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/installing-local-packages-2
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/installing-global-packages
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/installing-global-packages-2
+
+Learn jQuery in 15 minutes – Part 2 – Classes, Image Swap, Methods
+https://youtu.be/OqF0kjNwDSI?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
+Learn jQuery in 15 minutes – Part 3 – Event Binding, Dom Traversal
+https://youtu.be/WVvdw-f4Ygo?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
+
+May 21 (Day 11)
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/managing-dependencies-in-the-packagejson-file
+
+May 22 (Day 12)
+//started reading https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
+
+
+
+http://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
+
+http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
 
 
 
 
+http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 
+May 23 (Day 13)
 
+What is an Algorithm?
+https://youtu.be/AVScy7YsKM0
 
-have a 14 min one to watch!
-lynda.com ITIL vids
+//trying to go through a bunch of 'Art of the Problem" vids
+Ulam Spiral Visualization - The Pattern of Prime Number
+https://youtu.be/dux1TBAmndM
+
+Calculate Probablity Visually. The Mathematics of Gambling
+https://youtu.be/9eaOxgT5ys0
+
+Prime Numbers as Building Blocks - Euclid's greatest discovery
+https://youtu.be/5kl28hmhin0
+
+Standford JSON course vids
+https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/courseware/ch-json_data/seq-vid-json_demo/
+https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/courseware/ch-json_data/seq-quiz-json/
+
+//rewatch: https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/managing-dependencies-in-the-packagejson-file
+https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/handling-packagejson-with-npm
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/updating-packages-with-npm
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/updating-local-packages-with-npm
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/updating-global-packages-with-npm
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/uninstalling-packages-with-npm
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/uninstalling-packages-with-npm-2
+https://teamtreehouse.com/library/npm-basics/updating-and-uninstalling-packages-with-npm/npm-basics-review
+
+apparently from a year ago I hadn't completed this quiz!
+https://teamtreehouse.com/library/jquery-basics/creating-a-spoiler-revealer/review
+
+// started in on this as prep for the Node FCC stuff
+// https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs
+
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/overview
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/http-servers
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/preparing-planning
+
+some ITIL vids on ITIL process
+
+May 24th (Day 14)
+// more on this https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/preparing-planning
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/creating-a-simple-server
+
+//haven't done Khan for a while now:
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-3-challenge
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-4-sieve-of-eratosthenes
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/trial-division-primality-test-using-a-sieve-prime-adventure-part-5
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-5-trial-division-using-sieve
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes
+
+May 25th (Day 15)
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-density-spiral
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-gaps
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint
+
+May 26th (Day 16)
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/bayes-theorem-visualized
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/guess-the-coin
+
+// started this a while ago - have a few quizes left to do, but want to rewatch the vids from this vantage point
+// https://www.coursera.org/learn/internet-history
+https://www.coursera.org/learn/internet-history/lecture/H6V0k/high-stakes-research-in-computing-and-communication
+https://www.coursera.org/learn/internet-history/lecture/FNJ1q/alan-turing-and-bletchley-park
+
+May 27 (Day 17)
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9
+
+To do:
+
+// web developer wiki links
+// DevTips
+// funfunFunctions
+// finish nodeschool
+// code abbey
+// hacker rank
+// codeschool
+// C#
+// Udemy
+// Udacity
+// start Open Computer Science courses
+// codecombat
+
 
 
 
