@@ -193,11 +193,7 @@ https://nodejs.org/dist/latest-v6.x/docs/api/http.html#http_http_request_options
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-errors-in-node-2
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/getting-the-response-body
 
-
-May 18 (Day 9)
-
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency
-
 
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/getting-the-response-body-2
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/parsing-json
@@ -206,7 +202,7 @@ http://jsonprettyprint.com/
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/parsing-json-2
 
 
-May 19 (Day 10)
+May 19 (Day 9)
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-parsing-and-status-code-errors
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/using-try-and-catch
 https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-application/handling-parsing-and-status-code-errors-2
@@ -218,7 +214,7 @@ https://teamtreehouse.com/library/nodejs-basics/building-a-command-line-applicat
 https://teamtreehouse.com/library/npm-basics
 https://teamtreehouse.com/library/npm-basics/what-is-npm/introducing-npm
 
-May 20 (Day 11)
+May 20 (Day 10)
 https://teamtreehouse.com/library/npm-basics/what-is-npm/how-to-find-and-choose-packages
 https://teamtreehouse.com/library/npm-basics/what-is-npm/npm-and-packages-review
 
@@ -235,10 +231,10 @@ https://youtu.be/OqF0kjNwDSI?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
 Learn jQuery in 15 minutes – Part 3 – Event Binding, Dom Traversal
 https://youtu.be/WVvdw-f4Ygo?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn
 
-May 21 (Day 12)
+May 21 (Day 11)
 https://teamtreehouse.com/library/npm-basics/installing-packages-with-npm/managing-dependencies-in-the-packagejson-file
 
-May 22 (Day 13)
+May 22 (Day 12)
 //started reading https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
 
 
@@ -252,7 +248,7 @@ http://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
 
 http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 
-May 23 (Day 14)
+May 23 (Day 13)
 
 What is an Algorithm?
 https://youtu.be/AVScy7YsKM0
@@ -292,7 +288,7 @@ https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creati
 
 some ITIL vids on ITIL process
 
-May 24th (Day 15)
+May 24th (Day 14)
 // more on this https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/preparing-planning
 https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/creating-a-simple-server
 
@@ -305,13 +301,13 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-5-trial-division-using-sieve
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes
 
-May 25th (Day 16)
+May 25th (Day 15)
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-density-spiral
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-gaps
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint
 
-May 26th (Day 17)
+May 26th (Day 16)
 https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8
 https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/bayes-theorem-visualized
 https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/guess-the-coin
@@ -321,11 +317,8 @@ https://www.khanacademy.org/computing/computer-science/cryptography/random-algor
 https://www.coursera.org/learn/internet-history/lecture/H6V0k/high-stakes-research-in-computing-and-communication
 https://www.coursera.org/learn/internet-history/lecture/FNJ1q/alan-turing-and-bletchley-park
 
-May 27 (Day 18)
+May 27 (Day 17)
 https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9
-
-
-
 
 To do:
 
