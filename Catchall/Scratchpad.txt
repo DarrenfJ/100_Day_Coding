@@ -4,6 +4,23 @@
 
 [insert here]
 
+May 26th (Day XX)
+
+Algorithm using Flowchart and Pseudo code Level 1 Flowchart
+https://youtu.be/vOEN65nm4YU
+
+
+http://www.tutorialspoint.com/nodejs/nodejs_buffers.htm
+// this is quite literally one of the more interesting things I've read about node.js so far.
+
+May 27 (Day XX)
+
+// Watch and Code --> trying out Gordon's course
+http://watchandcode.com/courses/practical-javascript/lectures/896960
+http://watchandcode.com/courses/practical-javascript/lectures/900443
+
+[done inserting work]
+
 //Get links from this site:
 // https://teamtreehouse.com/library/npm-basics/what-is-npm/introducing-npm
 
