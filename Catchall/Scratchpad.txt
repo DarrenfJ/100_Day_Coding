@@ -4,38 +4,6 @@
 
 [insert here]
 
-June 6th
-https://watchandcode.com/courses/practical-javascript/lectures/900177
-https://watchandcode.com/courses/practical-javascript/lectures/900193
-
-June 7th
-https://watchandcode.com/courses/practical-javascript/lectures/900186
-https://watchandcode.com/courses/practical-javascript/lectures/903236
-https://watchandcode.com/courses/practical-javascript/lectures/900191
-https://watchandcode.com/courses/practical-javascript/lectures/900198
-https://watchandcode.com/courses/practical-javascript/lectures/900206
-
-
-
-June 9th
-https://watchandcode.com/courses/practical-javascript/lectures/900200
-https://watchandcode.com/courses/practical-javascript/lectures/900202
-
-// for this challenge: https://www.freecodecamp.com/challenges/inventory-update
-http://stackoverflow.com/questions/3524827/sort-a-2d-array-by-the-second-value
-https://www.sitepoint.com/sophisticated-sorting-in-javascript/
-
-June 10th
-// for: https://www.freecodecamp.com/challenges/friendly-date-ranges
-http://stackoverflow.com/questions/1643320/get-month-name-from-date
-http://stackoverflow.com/questions/17964170/get-the-weekday-name-from-yyyy-mm-dd-format-using-javascript
-http://javascript.info/tutorial/datetime-functions
-http://stackoverflow.com/questions/11346069/how-to-get-difference-in-year-where-dates-are-in-yyyy-mm-dd
-http://stackoverflow.com/questions/24880064/converting-a-date-from-dd-mm-yyyy-to-dd-mm-yyyy-in-javascript-and-finding-the-di
-http://momentjs.com/
-
-
-
 [done inserting work]
 
 //Get links from this site:
