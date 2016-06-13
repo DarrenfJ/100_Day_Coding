@@ -4,6 +4,8 @@
 
 [insert here]
 
+[done inserting work]
+
 //Get links from this site:
 // https://teamtreehouse.com/library/npm-basics/what-is-npm/introducing-npm
 
@@ -23,3 +25,5 @@
 // https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/level-5-trial-division-using-sieve
 // https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/p/prime-density-spiral
 // https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/guess-the-coin
+// https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/level-9-trial-divison-vs-random-division
+// https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/level-10-fermat-primality-test
