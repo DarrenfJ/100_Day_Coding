@@ -312,6 +312,157 @@ https://www.coursera.org/learn/internet-history/lecture/FNJ1q/alan-turing-and-bl
 
 May 27 (Day 17)
 https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/level-9-trial-divison-vs-random-division
+
+
+// Watch and Code --> trying out Gordon's course
+
+http://watchandcode.com/courses/practical-javascript/lectures/896960
+
+http://watchandcode.com/courses/practical-javascript/lectures/900443
+
+May 28 (Day 18)
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-s-little-theorem-visualization
+
+
+Algorithm using Flowchart and Pseudo code Level 1 Flowchart
+
+https://youtu.be/vOEN65nm4YU
+
+
+
+http://www.tutorialspoint.com/nodejs/nodejs_buffers.htm
+
+// this is quite literally one of the more interesting things I've read about node.js so far.
+
+May 29 (Day 19)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/creating-a-simple-server
+https://nodejs.org/en/about/
+https://github.com/nodejs/node/blob/master/doc/topics/blocking-vs-non-blocking.md
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-simple-server-in-nodejs/http-server-review
+
+http://watchandcode.com/courses/practical-javascript/lectures/900282
+http://watchandcode.com/courses/practical-javascript/lectures/900182
+http://watchandcode.com/courses/practical-javascript/lectures/900180
+ 
+http://www.tutorialspoint.com/nodejs/nodejs_streams.htm
+
+3 HTML Coding mistakes Everyone makes
+https://youtu.be/GhbaVaev9Oo
+
+May 30 (Day 20)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/handling-routes-in-nodejs/home-route
+
+May 31 (Day 21)
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-primality-test-prime-adventure-part-10
+https://www.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/p/level-10-fermat-primality-test
+
+// start on: https://www.khanacademy.org/computing/computer-science/informationtheory
+https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory
+https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/language-of-coins-2-8-proto-writing
+
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/handling-routes-in-nodejs/user-route
+
+June 1st (day 22)
+// had to rewatch the user-route video and debug it.. 
+
+https://www.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/a/ee-preparing-to-study-electrical-engineering
+https://www.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/a/ee-numbers-in-electrical-engineering
+
+June 2nd (day 23)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/handling-routes-in-nodejs/populating-user-information
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/handling-routes-in-nodejs/handling-routes-review
+
+June 3rd (day 24)
+the usual FCC and codecademy
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+June 4th (Day 25)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-basic-template-engine-in-nodejs/making-our-views-dry
+
+June 5th (Day 26)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-basic-template-engine-in-nodejs/reading-from-files
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-basic-template-engine-in-nodejs/reading-files-review
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-basic-template-engine-in-nodejs/binding-values
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/creating-a-basic-template-engine-in-nodejs/a-simple-merge-utility
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/http-methods-and-headers/sending-content-type-headers-in-nodejs
+
+June 6th (day 27)
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/http-methods-and-headers/dealing-with-the-post-body
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/http-methods-and-headers/redirection-headers-in-nodejs
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/http-methods-and-headers/perfection-suggestions
+https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs/http-methods-and-headers/http-methods-and-headers-review
+
+June 7th (day 28)
+https://watchandcode.com/courses/practical-javascript/lectures/900177
+https://watchandcode.com/courses/practical-javascript/lectures/900193
+https://watchandcode.com/courses/practical-javascript/lectures/900186
+https://watchandcode.com/courses/practical-javascript/lectures/903236
+
+JUne 8th (day 29)
+https://watchandcode.com/courses/practical-javascript/lectures/900191
+https://watchandcode.com/courses/practical-javascript/lectures/900198
+https://watchandcode.com/courses/practical-javascript/lectures/900206
+
+June 9th (day 30)
+https://watchandcode.com/courses/practical-javascript/lectures/900200
+https://watchandcode.com/courses/practical-javascript/lectures/900202
+
+// for this challenge: https://www.freecodecamp.com/challenges/inventory-update
+http://stackoverflow.com/questions/3524827/sort-a-2d-array-by-the-second-value
+https://www.sitepoint.com/sophisticated-sorting-in-javascript/
+
+June 10th (day 31)
+// for: https://www.freecodecamp.com/challenges/friendly-date-ranges
+http://stackoverflow.com/questions/1643320/get-month-name-from-date
+http://stackoverflow.com/questions/17964170/get-the-weekday-name-from-yyyy-mm-dd-format-using-javascript
+http://javascript.info/tutorial/datetime-functions
+http://stackoverflow.com/questions/11346069/how-to-get-difference-in-year-where-dates-are-in-yyyy-mm-dd
+http://stackoverflow.com/questions/24880064/converting-a-date-from-dd-mm-yyyy-to-dd-mm-yyyy-in-javascript-and-finding-the-di
+http://momentjs.com/
+
+June 11th (day 32)
+// for the node challenges: https://www.freecodecamp.com/challenges/start-a-nodejs-server
+https://howtonode.org/creating-custom-modules
+http://www.hacksparrow.com/how-to-write-node-js-modules.html
+https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+
+http://ericsteinborn.com/github-for-cats/#/
+
+Introduction of Node JS by Ryan Dahl (Creator of Node Js)
+https://youtu.be/dO1zf4RXsTg
+
+// as part of: https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs
+HELLO WORLD!
+ Exercise 1 of 8 
+STATIC
+ Exercise 2 of 8
+// supporting reading
+https://www.npmjs.com/package/pug
+http://jade-lang.com/tutorial/
+http://evanhahn.com/understanding-express/
+https://github.com/npm/npm-www#design-philosophy
+https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)
+https://stephensugden.com/middleware_guide/
+// and more of this: Introduction of Node JS by Ryan Dahl (Creator of Node Js)
+https://youtu.be/dO1zf4RXsTg
+
+June 12th (day 33)
+https://docs.nodejitsu.com/articles/getting-started/what-is-require/
+// more of this: https://github.com/azat-co/expressworks
+https://nodejs.org/api/repl.html
+https://www.npmjs.com/package/repl.history
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+
+June 13 (Day 34)
+// from: https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git
+GIT + GITHUB : VERSION CONTROL + SOCIAL CODING
+GET GIT
+REPOSITORY
+COMMIT TO IT
+GITHUBBIN
+REMOTE CONTROL
+
 
 To do:
 
@@ -327,6 +478,10 @@ To do:
 // Udacity
 // start Open Computer Science courses
 // codecombat
+
+// some links in here:
+http://ericsteinborn.com/github-for-cats/#/80
+http://ericsteinborn.com/github-for-cats/#/81
 
 
 
