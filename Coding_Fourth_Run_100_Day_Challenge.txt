@@ -1,6 +1,9 @@
 Coding Fourth Run 100 Day Challenge
 
 Nov 30 (day 1)
+Committing Changes in Git and Pushing to a GitHub Repository:
+https://youtu.be/ruieT3Nkg2M
+
 
 
 // always/daily helping in the FCC helproom since July.. https://gitter.im/FreeCodeCamp/Help
