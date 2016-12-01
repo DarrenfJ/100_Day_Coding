@@ -1,8 +1,11 @@
 Coding Fourth Run 100 Day Challenge
 
-Nov 30 (day 1)
+Nov 30 (Day 1)
 Committing Changes in Git and Pushing to a GitHub Repository:
 https://youtu.be/ruieT3Nkg2M
+
+Dec 1st (Day 2)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/color-declarations
 
 
 
