@@ -7,11 +7,15 @@ https://youtu.be/ruieT3Nkg2M
 Dec 1st (Day 2)
 https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/color-declarations
 
+// from: Version control with Git and GitHub
+// https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
+
+What is the difference between Git and GitHub?
+https://youtu.be/xKVlZ3wFVKA
+
 
 
 // always/daily helping in the FCC helproom since July.. https://gitter.im/FreeCodeCamp/Help
-
-
 
 ==========
 
