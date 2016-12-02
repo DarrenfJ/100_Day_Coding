@@ -1,0 +1,487 @@
+100 days of coding third run
+
+Aug 19 (Day 1 all over!)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/select-ii
+
+Aug 20th (Day 2)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/select-distinct
+
+Aug 21 (day 3)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/where
+// and need to review Ajax for a FCC quote generator
+// from: https://teamtreehouse.com/library/ajax-basics
+https://teamtreehouse.com/library/ajax-basics/ajax-concepts/introducing-ajax
+https://teamtreehouse.com/library/review-ajax-basics
+https://teamtreehouse.com/library/ajax-basics/ajax-concepts/how-ajax-works
+https://teamtreehouse.com/library/review-how-ajax-works
+
+// work on Portfolio a bit
+// using thie library: http://semantic-ui.com/
+http://codepen.io/DarrenfJ/full/NAENZJ/
+http://semantic-ui.com/modules/sidebar.html
+http://semantic-ui.com/collections/menu.html
+http://help.typepad.com/anchor-tags.html
+http://stackoverflow.com/questions/4647098/adding-a-class-on-click-of-anchor-tag
+https://www.w3.org/Style/Examples/007/center.en.html#text
+https://learn.jquery.com/using-jquery-core/document-ready/
+
+Aug 22 (Day 4)
+// a bit more on the Portfolio
+and
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/like-i
+
+Aug 23 none
+
+Aug 24 (Day 5)
+// for my profile page
+http://stackoverflow.com/questions/7381150/how-to-send-an-email-from-javascript
+http://www.javascript-coder.com/javascript-form/javascript-email-form.phtml
+http://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
+https://css-tricks.com/nice-and-simple-contact-form/
+
+and codecademy
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/between
+
+// and more profile: http://codepen.io/DarrenfJ/pen/Bzgpgm
+http://semantic-ui.com/collections/menu.html
+and for emails contacts Wufoo
+
+Aug 25 (Day 6)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/and?
+http://www.htmlgoodies.com/tutorials/web_graphics/article.php/3480031/So-You-Want-A-Thumb-Nail-Image-Huh.htm
+
+Aug 26th (day 7)
+// working on the profile page
+http://stackoverflow.com/questions/16235974/show-a-webpage-as-thumbnail-on-mouse-over
+
+and
+
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/or
+
+Aug 27 (day 8)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/order-by
+
+// cleaning up a bunch of open coding articles
+https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52#.q3wq824nr
+https://medium.com/teach-yourself-web-development/your-first-day-learning-html-and-how-a-webpage-is-laid-out-41558ff08264#.cd90937bd
+// a great diagram of web learning paths: https://coggle.it/diagram/V6RoHowPmtdATsp5
+https://medium.freecodecamp.com/5-things-you-should-keep-in-mind-when-learning-to-program-and-shouldn-t-repeat-when-teaching-it-1ed8e734b04f#.5azhg4vtz
+
+Aug 28 (Day 9)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/queries-generalizations
+
+//work on my linkfarm: https://darrenfj.github.io/Lazywaytolinkfarm/
+http://stackoverflow.com/questions/22289583/what-version-of-jquery-should-i-actually-use
+http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master
+// have to review this: https://teamtreehouse.com/library/how-to-make-a-website/adding-pages-to-a-website/add-a-new-page
+
+Aug 29 30 (nothing on this computer but a bit of Portfolio coding)
+
+Aug 31 (day 12)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/groupby
+
+Sept 1st (Day 13)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/sum
+
+Sept 2 (day 14)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/max
+
+Sept 3 (day 15)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/min
+
+// loading this into Cloud9: https://github.com/substack/stream-adventure
+
+// set up a Semantic UI playground in CodePen: http://codepen.io/DarrenfJ/pen/dpyxkx
+http://fontawesome.io/icon/bars/
+http://api.jquery.com/toggleclass/
+http://stackoverflow.com/questions/37604363/struggling-with-semantic-ui-sidebars
+https://github.com/Semantic-Org/Semantic-UI/issues/945
+http://stackoverflow.com/questions/27350646/semantic-ui-sidebar-implementation
+// turn off sidebar dim: https://github.com/Semantic-Org/Semantic-UI/issues/1284
+
+Sept 4 (Day 16)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/avg
+
+// various open web pages on stuff I needed for exercises:
+
+http://stackoverflow.com/questions/1910794/what-is-the-difference-between-jquery-text-and-html
+
+https://teamtreehouse.com/library/ajax-basics/ajax-concepts/a-simple-ajax-example
+
+https://learn.jquery.com/using-jquery-core/document-ready/
+
+http://www.hongkiat.com/blog/codepen-tips-beginners/
+
+Sept 5 (day 17)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/round
+https://www.codecademy.com/courses/learn-sql/lessons/aggregate-functions/exercises/generalizations-aggregate-functions
+
+Sept 6 (day 18)
+http://www.howtogeek.com/howto/windows-vista/what-is-rundll32exe-and-why-is-it-running/
+
+Sept 7 (day 19)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/primary-key
+
+Sept 8 (day 20)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/foreign-key
+
+Sept 9 (day 21)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/cross-join
+
+Sept 10 (day 22)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/inner-join
+
+Sept 11 (day 23)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/left-outer-join
+
+Sept 12 (day 24)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/generalizations-multiple-tables
+
+// more on JSON and Ajax: https://teamtreehouse.com/library/ajax-basics/ajax-concepts/get-and-post
+https://teamtreehouse.com/library/review-http-methods
+https://teamtreehouse.com/library/ajax-basics/ajax-concepts/ajax-response-formats
+https://teamtreehouse.com/library/review-ajax-response-formats
+https://teamtreehouse.com/library/create-an-xml-file
+https://teamtreehouse.com/library/finish-the-xml-document
+https://teamtreehouse.com/library/ajax-basics/ajax-concepts/ajax-security-limitations
+https://teamtreehouse.com/library/review-ajax-security-limitations
+https://teamtreehouse.com/library/ajax-basics/programming-ajax/introducing-the-project
+https://teamtreehouse.com/library/ajax-basics/programming-ajax/ajax-callbacks
+https://teamtreehouse.com/library/review-ajax-callbacks-2
+https://teamtreehouse.com/library/create-a-callback
+
+Sept 13 (day 25)
+// continuing the 'deploy a website' codecademy
+https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/exercises/deploying-overview
+https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/exercises/jekyll-install
+
+// mixing gitHub and Treehouse:
+https://teamtreehouse.com/library/github-in-workspaces-2
+
+// reviewing projects: https://teamtreehouse.com/library/how-to-review-projects
+https://teamtreehouse.com/library/what-is-peer-review
+https://teamtreehouse.com/library/what-makes-a-good-review
+https://teamtreehouse.com/library/review-etiquette
+https://teamtreehouse.com/library/how-to-write-a-review
+
+// learning the mailchimp api: https://teamtreehouse.com/library/mailchimp-api
+https://teamtreehouse.com/library/mailchimp-api/mailchimp-api/how-to-use-the-mailchimp-api
+https://teamtreehouse.com/library/mailchimp-api/mailchimp-api/review-what-is-the-mailchimp-api
+https://teamtreehouse.com/library/mailchimp-api/mailchimp-api/layout-and-documentation
+
+Sept 14 (day 26)
+https://www.codecademy.com/en/courses/deploy-a-website/lessons/create-static-site/exercises/generate-site
+
+// more from DevTips:
+How does the internet work? - Part 1 (It's like a bad drawing.): https://youtu.be/XZIMEoUhOA8
+
+Sept 15 (day 27)
+https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/exercises/local-preview
+
+Sept 16 (Day 28)
+https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/exercises/directory-structure
+https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/exercises/review-site
+
+Sept 17 (Day 29)
+https://www.codecademy.com/en/courses/deploy-a-website/lessons/github-pages/exercises/create-account
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/create-repo
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/git-init
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/add-remote
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/git-commit
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/deploy
+https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/exercises/review-deploy
+
+// gonna learn me some jekyll: https://jekyllrb.com/docs/home/
+https://jekyllrb.com/docs/quickstart/
+https://jekyllrb.com/docs/installation/
+https://jekyllrb.com/docs/usage/
+https://jekyllrb.com/docs/structure/
+// stopped at: https://jekyllrb.com/docs/configuration/
+
+Sept 18 (day 30)
+https://www.codecademy.com/en/courses/deploy-a-website/lessons/aws-route-53/exercises/domain-names
+
+Sept 19 (day 31)
+// ITIL: https://www.lynda.com/Network-Administration-tutorials/Business-case/184459/188289-4.html
+
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/custom-domain-i
+
+// some stuff open I want to watch
+Weekly Code Vlog {01} Simon Game https://youtu.be/TM46h5m3YM8
+How does the internet work? - Part 2 (Organize your HTML Project): https://youtu.be/8b7wObfC8VM
+How does the internet work? - Part 3 (It's like a cupcake): https://youtu.be/caOIrCS3Nrw
+
+// these are for the express FCC challenge: 
+ExpressWorks: Setup: https://youtu.be/C2IqQOLCCoU?list=PLguYmmjtxbWGwQRxXqMTQCj6FNb55aFVo
+http://evanhahn.com/understanding-express/
+
+Sept 20 (day 32)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/custom-domain-ii
+
+Sept 21 (day 33)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/custom-domain-iii
+
+Sept 22 (day 34)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/domain-setup
+// FCC vids on mathematics: https://www.youtube.com/watch?v=G4AMHRcLtvM&list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47
+
+Sept 23 (day 35)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/hosted-zone-i
+
+// worked on this earlier but want to rereview: ExpressWorks: Setup
+https://www.youtube.com/watch?v=C2IqQOLCCoU&index=1&list=PLguYmmjtxbWGwQRxXqMTQCj6FNb55aFVo
+ExpressWorks: 1. Hello World [Solution]: https://www.youtube.com/watch?v=Bh4GftR--n0&list=PLguYmmjtxbWGwQRxXqMTQCj6FNb55aFVo&index=2
+
+Sept 24 (Day 36)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/hosted-zone-ii
+
+What is Middleware? User Experience and Portal: https://youtu.be/bY56iIaqLq4?list=PLlqhIsxvN4u5DMCtupY9-aL2mVRnK-pTz
+What is Middleware? Business Process Management: https://youtu.be/OPY86RHTD8Q?list=PLlqhIsxvN4u5DMCtupY9-aL2mVRnK-pTz
+
+// ExpressWorks stuff
+ExpressWorks: 2. Static Middleware [Solution]: https://youtu.be/tlCvw-p5Ysw?list=PLguYmmjtxbWGwQRxXqMTQCj6FNb55aFVo
+
+// treehouse workshops: https://teamtreehouse.com/library/using-treehouse-workspaces
+https://teamtreehouse.com/library/launching-a-workspace
+https://teamtreehouse.com/library/working-with-files
+https://teamtreehouse.com/library/editing-text
+https://teamtreehouse.com/library/managing-workspaces
+https://teamtreehouse.com/library/previews-and-snapshots
+
+// review this again: https://teamtreehouse.com/library/github-in-workspaces
+
+// finish this one up: https://teamtreehouse.com/library/using-github-pages-to-host-free-websites-2
+
+// and this: https://teamtreehouse.com/library/share-your-projects-with-github-desktop
+https://teamtreehouse.com/library/introducing-github
+https://teamtreehouse.com/library/setting-up-github-and-github-desktop
+https://teamtreehouse.com/library/putting-a-project-on-github
+https://teamtreehouse.com/library/adding-changes-to-a-project-on-github
+
+// and for FCC helpnotes: https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/course-overview
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/hey-jekyll
+https://teamtreehouse.com/library/installing-jekyll
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/getting-started-with-jekyll-review
+
+// and to actually intall it: 
+http://jekyllrb.com/docs/windows/
+http://jekyll-windows.juthilo.com/
+http://rubyinstaller.org/downloads/
+http://jekyll-windows.juthilo.com/1-ruby-and-devkit/
+http://jekyll-windows.juthilo.com/2-jekyll-gem/
+http://jekyll-windows.juthilo.com/3-syntax-highlighting/
+http://jekyll-windows.juthilo.com/4-wdm-gem/
+http://jekyll-windows.juthilo.com/5-running-jekyll/
+
+// back to the treehouse course:
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/creating-a-jekyll-project
+
+// looks like I need python to run a local server to view the page locally..
+http://jekyll-windows.juthilo.com/3-syntax-highlighting/
+
+con't
+http://stackoverflow.com/questions/33389632/jekyll-serve-error
+
+Sept 25 (Day 37)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/a-record
+
+Sept 26 (day 38)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/cname-record
+
+// more on jekyll:
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/creating-a-jekyll-project
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/configuration-settings
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/getting-started-with-jekyll/jekyll-project-and-configuration-settings-review
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/yaml-front-matter
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/liquid-templates
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/creating-and-accessing-custom-variables
+
+nothing Sept 27 (day 39)
+
+Sept 28 (day 40)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/dns-overview
+
+Sept 29 nothing on this computer
+
+Sept 30 (Day 42)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/dns-records
+
+October 1 (day 43)
+https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/exercises/review-domains
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-video
+
+Oct 2 (day 44)
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/create-list
+https://en.wikipedia.org/wiki/YAML
+https://jekyllrb.com/docs/configuration/
+
+Oct 3rd (day 45)
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/parent-child
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-div
+
+Oct 4th (day 46)
+nothing on this comp
+
+Oct 5th (day 47)
+https://www.codecademy.com/en/courses/make-a-website/lessons/closer-look-css/exercises/why-use-css
+
+// trying to finish the jekyll stuff from a few weeks ago:
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/liquid-templates
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/front-matter-and-liquid-review
+https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages/building-and-customizing-the-blog/creating-and-accessing-custom-variables
+
+Oct 6th (Day 48)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/link-stylesheet
+
+// catching up on some youtubes I flagged a while back to watch:
+Bootstrap Tutorial For Beginners - Responsive Design with Bootstrap 3 - Responsive HTML, CSS: https://youtu.be/no-Ntkc836w
+
+Oct 7th (day 49)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/anatomy-css-rule
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/font-family
+
+Oct 8th (Day 50)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/font-color
+https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/ //(the first part)
+https://blog.codinghorror.com/the-php-singularity/
+
+Oct 9 (day 51)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/class-selectors
+
+Oct 10 (day 52)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/font-size
+
+Oct 11 (Day 53)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/background-image
+
+Oct 12, 13th (day 54 55) nothing on this computer
+
+Oct 14 (day 56)
+nothing on this computer
+
+Oct 15 (day 57)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/margin
+
+Oct 16 (day 58)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/more-margins
+
+Nothing on this computer until Oct 27
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/doctype
+
+Oct 28 (nothing)
+
+Oct 29 
+https://www.codecademy.com/en/courses/learn-html-css/lessons/structure/exercises/html-prepare#
+
+Oct 30 (Day 72?)
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/html-anatomy
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/html-head
+
+Oct 31 (nothing, other computer)
+
+Nov 1st (nothing)
+
+Nov 2nd (Day 75)
+
+Nov 3rd (day 76)
+
+nov 4th (day 77)
+
+Nov 5th (Day 77)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/unordered-lists
+
+https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd#.3pwwuhjzc
+
+Nov 6th (day 78)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/ordered-lists
+
+Nov 7th (day 79)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/links
+
+Nov 8th (Day 80) nothing
+
+Nov 9th (day 81)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/img-src
+
+Nov 10th (Day 82)
+
+Nov 11th nothing
+
+Nov 12th (Day 83)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/common-elements/exercises/white-space
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/line-breaks
+
+//articles: 
+https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.j1vix2ede
+https://medium.freecodecamp.com/a-gentle-introduction-to-data-structures-how-queues-work-f8b871938e64#.sv3rg9h0v
+(just read it and might need to come back to it and his other articles: https://medium.com/@michaelolo)
+
+//podcast:
+http://learntocodewith.me/podcast/starting-free-code-camp-with-quincy-larson/
+http://learntocodewith.me/podcast/teacher-to-github-employee-with-briana-swift/
+http://learntocodewith.me/podcast/introducing-the-ltcwm-podcast/
+http://learntocodewith.me/podcast/earn-money-with-your-skills-with-adda-birnir/
+
+Nov 13 (day 84)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/indentation
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/html-comments
+
+Nothing on this computer until 
+
+Nov 26 (Day 90something)
+"C" Programming Language: Brian Kernighan - Computerphile:
+https://youtu.be/de2Hsvxaf8M
+
+Nov 27 (day 90X)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/rgb-colors
+
+// prep to do a git tutorial
+http://gitimmersion.com/
+http://gitimmersion.com/lab_01.html
+
+// got it immersion: https://www.ruby-lang.org/en/documentation/installation/
+http://rubyinstaller.org/
+
+http://gitimmersion.com/lab_02.html
+http://gitimmersion.com/lab_03.html
+
+Nov 28  nothing
+
+Nov 29 nothing
+
+Nov 30 (day 90XX)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/alpha-value
+
+To do:
+
+// web developer wiki links
+// DevTips
+// funfunFunctions
+// finish nodeschool
+// code abbey
+// hacker rank
+// codeschool
+// C#
+// Udemy
+// Udacity
+// start Open Computer Science courses
+// codecombat
+
+// some links in here:
+http://ericsteinborn.com/github-for-cats/#/80
+http://ericsteinborn.com/github-for-cats/#/81
+
+recommended:
+http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+http://codecondo.com/becoming-a-better-javascript-developer/
+http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
+http://programmers.stackexchange.com/questions/95353/how-to-become-a-javascript-ninja
+https://www.linkedin.com/pulse/20141005063512-158516115-how-to-be-a-professional-javascript-developer
+http://www.guyellisrocks.com/2013/06/8-reasons-you-should-become-javascript.html
+http://justinchmura.com/2014/08/20/become-a-better-javascript-developer/
+http://es6katas.org/
+// need to reread: https://medium.freecodecamp.com/how-to-write-a-jquery-like-library-in-71-lines-of-code-learn-about-the-dom-e9fb99dbc8d2#.qtlga2hw5
+// need to reread: https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c#.cqy2c14uz
+// need tp reread: https://medium.freecodecamp.com/canmaking-it-rain-code-matrix-style-ec6e1386084e#.592xnlt05
+
