@@ -17,6 +17,9 @@ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 http://stackoverflow.com/questions/1443210/updating-a-local-repository-with-changes-from-a-github-repository
 http://stackoverflow.com/questions/14168677/merge-development-branch-with-master
 
+Dec 2nd (Day 3)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/review-colors
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
