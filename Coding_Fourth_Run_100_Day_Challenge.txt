@@ -53,6 +53,12 @@ https://youtu.be/3JluqTojuME
 Dec 5 (day 6)
 https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/more-fonts
 
+// from Udemy course Mastering Computers: https://www.udemy.com/computers/learn/v4/content
+https://www.udemy.com/computers/learn/v4/t/lecture/446256
+Videos: https://www.udemy.com/computers/learn/v4/t/lecture/501294
+more intro schtuff: https://www.udemy.com/computers/learn/v4/t/lecture/516716
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
