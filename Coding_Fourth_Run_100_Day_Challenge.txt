@@ -24,6 +24,35 @@ https://help.github.com/articles/pushing-to-a-remote/
 http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html
 https://git-scm.com/book/en/v2/Git-Branching-Branch-Management
 
+Dec 3rd (day 4)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/fonts-matter
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/font-family
+
+Dec 4th (day 5)
+//from http://gitimmersion.com/
+http://gitimmersion.com/lab_03.html
+http://gitimmersion.com/lab_04.html
+http://gitimmersion.com/lab_05.html
+http://gitimmersion.com/lab_06.html
+http://gitimmersion.com/lab_07.html
+http://gitimmersion.com/lab_08.html
+http://gitimmersion.com/lab_09.html
+http://gitimmersion.com/lab_10.html
+
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/serif-vs-sans
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/fallback-fonts
+
+// from: https://www.youtube.com/user/Computerphile/videos
+Welcome to Computerphile!: https://youtu.be/DW4f1x6IQ9o
+Follow the Cookie Trail - Computerphile: https://youtu.be/LHSSY8QNvew
+
+// some links I have open to watch:
+Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript
+https://youtu.be/3JluqTojuME
+
+Dec 5 (day 6)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/more-fonts
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
