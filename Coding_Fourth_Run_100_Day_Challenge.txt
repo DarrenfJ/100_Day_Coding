@@ -58,6 +58,17 @@ https://www.udemy.com/computers/learn/v4/t/lecture/446256
 Videos: https://www.udemy.com/computers/learn/v4/t/lecture/501294
 more intro schtuff: https://www.udemy.com/computers/learn/v4/t/lecture/516716
 
+Dec 6 (day 7)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/font-size-i
+
+// just playing around with C tutorials for fun... have to learn it eventually for CS50x - http://www.learn-c.org/en/Welcome
+http://www.learn-c.org/en/Hello,_World!
+http://www.learn-c.org/en/Variables_and_Types
+http://www.learn-c.org/en/Arrays
+
+// from Udemy course Mastering Computers: https://www.udemy.com/computers/learn/v4/content
+https://www.udemy.com/computers/learn/v4/t/lecture/422390
+https://www.udemy.com/computers/learn/v4/t/lecture/446192
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
