@@ -70,6 +70,18 @@ http://www.learn-c.org/en/Arrays
 https://www.udemy.com/computers/learn/v4/t/lecture/422390
 https://www.udemy.com/computers/learn/v4/t/lecture/446192
 
+Dec 7 (day 8)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/font-size-ii
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/line-height
+
+// from Udemy course Mastering Computers: https://www.udemy.com/computers/learn/v4/content
+https://www.udemy.com/computers/learn/v4/t/lecture/446194
+
+// from: http://www.learn-c.org/
+http://www.learn-c.org/en/Strings
+https://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
