@@ -82,6 +82,11 @@ http://www.learn-c.org/en/Strings
 https://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
 
 
+Dec 8 (day 9)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/css-fonts/exercises/line-height-anatomy
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/word-spacing
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
