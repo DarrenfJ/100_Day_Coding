@@ -1,0 +1,708 @@
+Coding third run 100 day challenge from this computer
+
+August 19th (day 1!)
+// regex again to refresh! someone in FCC facebook posted the link again
+https://regexone.com/
+https://regexone.com/lesson/letters_and_digits?
+https://regexone.com/lesson/wildcards_dot?
+https://regexone.com/lesson/matching_characters?
+https://regexone.com/lesson/excluding_characters?
+https://regexone.com/lesson/character_ranges?
+//stopped after that one above
+
+Aug 20, 21st nothing
+
+August 22 (day 4)
+https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vjcqhotdn
+What is an API?: https://youtu.be/s7wmiS2mSXY
+https://simple.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+DNS Explained: https://youtu.be/72snZctFFtA
+
+Aug 23 (day 5)
+https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/like-ii
+// for https://gitter.im/FreeCodeCamp/Help
+https://getbootstrap.com/examples/grid/
+http://v4-alpha.getbootstrap.com/layout/grid/
+
+https://regexone.com/lesson/character_ranges?
+https://regexone.com/lesson/repeating_characters?
+https://regexone.com/lesson/kleene_operators?
+https://regexone.com/lesson/optional_characters?
+https://regexone.com/lesson/whitespaces?
+https://regexone.com/lesson/line_beginning_end?
+https://regexone.com/lesson/capturing_groups?
+https://regexone.com/lesson/nested_groups?
+https://regexone.com/lesson/more_groups?
+https://regexone.com/lesson/conditionals?
+https://regexone.com/lesson/misc_meta_characters?
+https://regexone.com/lesson/end?
+// stopped at: hhttps://regexone.com/problem/matching_decimal_numbers (still to do)
+
+Aug 24 (day 6)
+https://regexone.com/problem/matching_decimal_numbers
+https://regexone.com/problem/matching_phone_numbers?
+https://regexone.com/problem/matching_emails?
+https://regexone.com/problem/matching_html?
+https://regexone.com/problem/matching_filenames?
+https://regexone.com/problem/trimming_whitespace?
+https://regexone.com/problem/extracting_log_data?
+// stopped at: https://regexone.com/problem/extracting_url_data?
+
+Aug 25th (Day 7)
+nothing on this computer
+
+Aug 26 (day 8)
+//back to some regex: https://regexone.com/
+https://regexone.com/problem/extracting_url_data?
+https://regexone.com/problem/complete?
+
+What Should You Learn Next? – The Challenge Graph, a framework for understanding growth: https://youtu.be/mUrrym5VR5g
+// rewatch to get back into the Devtips flow: HTML5 Basics - The DOM (Part3) https://youtu.be/vpqm2fPEzbI
+HTML5 Basics - Tags (Part4): https://youtu.be/1SLB-vCqR0g
+
+
+Aug 27, 28 nothing (on other computer)
+
+Aug 29 (day 11)
+// spent more time in the FCC helpChatRoom: https://gitter.im/FreeCodeCamp/Help
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/intro-to-aggregate-functions
+
+// redo some early exercises to prep for helping in helpRoom: https://www.freecodecamp.com/challenges/add-different-margins-to-each-side-of-an-element
+https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element
+https://www.freecodecamp.com/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element
+https://www.freecodecamp.com/challenges/style-the-html-body-element
+https://www.freecodecamp.com/challenges/inherit-styles-from-the-body-element
+https://www.freecodecamp.com/challenges/prioritize-one-style-over-another
+// stopped at: https://www.freecodecamp.com/challenges/override-styles-in-subsequent-css
+
+// have to finish this up too: https://courses.nodecasts.io/courses/javascript-es6
+
+Aug 30 (day 12)
+https://www.codecademy.com/en/courses/learn-sql/lessons/aggregate-functions/exercises/count
+
+Aug 31 (day 13)
+// more of the early FCC's
+https://www.freecodecamp.com/challenges/override-styles-in-subsequent-css
+https://www.freecodecamp.com/challenges/override-class-declarations-by-styling-id-attributes
+https://www.freecodecamp.com/challenges/override-class-declarations-with-inline-styles
+https://www.freecodecamp.com/challenges/override-all-other-styles-by-using-important
+https://www.freecodecamp.com/challenges/use-hex-code-for-specific-colors
+// stopped at: https://www.freecodecamp.com/challenges/use-hex-code-to-mix-colors
+
+// a fun js coding game: http://alexnisnevich.github.io/untrusted/
+
+Sept 1 (Day 13 in my other list)
+// a fun js coding game: http://alexnisnevich.github.io/untrusted/
+
+Sept 2 (Day 14)
+https://www.freecodecamp.com/challenges/use-hex-code-to-mix-colors
+https://www.freecodecamp.com/challenges/use-abbreviated-hex-code
+https://www.freecodecamp.com/challenges/use-rgb-values-to-color-elements
+https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors
+https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers
+// stopped at: https://www.freecodecamp.com/challenges/make-images-mobile-responsive
+
+Sept 3, 4, 5th nothing (other computer)
+
+Sept 6th (Day 18)
+https://www.codecademy.com/en/courses/learn-sql/lessons/multiple-tables/exercises/multiple-tables
+
+http://www.checkupdown.com/status/E500.html
+
+Sept 7 (day 19)
+// to try it out: https://www.codecademy.com/learn/react-101/
+https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-intro/exercises/why-react
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/hello-world
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/mystery-revealed
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/what-is-jsx
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/jsx-elements
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/jsx-elements-and-surroundings
+// stopped on this one: https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/attributes-in-jsx
+
+Sept 8 (day 20)
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/attributes-in-jsx
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/nested-jsx
+
+Spet 9 (day 21)
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/jsx-outer-elements
+
+Sept 10 (day 22)
+// stuff while helping in the FCC helpChatRoom: https://gitter.im/FreeCodeCamp/Help
+https://www.freecodecamp.com/challenges/make-images-mobile-responsive
+https://www.freecodecamp.com/challenges/center-text-with-bootstrap
+https://www.freecodecamp.com/challenges/create-a-bootstrap-button
+https://www.freecodecamp.com/challenges/create-a-block-element-bootstrap-button
+https://www.freecodecamp.com/challenges/taste-the-bootstrap-button-color-rainbow
+// stopped here: https://www.freecodecamp.com/challenges/call-out-optional-actions-with-button-info
+
+// tons for working in the FCC help chat room 9saved for future use): https://github.com/DarrenfJ/FCC_Lessons
+// and a bunch of open stuff I want to read... see next items
+
+https://medium.freecodecamp.com/user-experience-explained-in-5-minutes-for-newbie-front-end-developers-1293c1521407#.2cwqq73vj
+
+Sept 12 (day 24)
+// more FCC intro exercises for helping in chat room
+https://www.freecodecamp.com/challenges/call-out-optional-actions-with-button-info
+https://www.freecodecamp.com/challenges/warn-your-users-of-a-dangerous-action
+https://www.freecodecamp.com/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
+https://www.freecodecamp.com/challenges/ditch-custom-css-for-bootstrap
+https://www.freecodecamp.com/challenges/use-spans-for-inline-elements
+// stopped at: https://www.freecodecamp.com/challenges/create-a-custom-heading
+
+HTML5 Basics - Display Types (Part5): https://youtu.be/u-3aQpZD3_Q
+HTML5 Basics - HTML5 Tags (Part6): https://youtu.be/gb8SzwkM6Lo
+
+Sept 13 (Day 25)
+// to support the FCC helpChatRoom: https://www.sitepoint.com/javascript-truthy-falsy/
+
+// videos form this free course: http://commandlinepoweruser.com/
+Command Line Power User - Free Video Series! (1/11): https://youtu.be/rl7PzPAZDyY
+
+// just some random open stuff: http://www.pcworld.com/article/260524/networking/how-to-fix-your-wi-fi-network-7-tips.html
+
+// codecademy react course, did htis a few days ago: https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/jsx-outer-elements
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/render-jsx
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/reactdom-render-i
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/reactdom-render-ii
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/reactdom-render-variable
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/virtual-dom
+https://www.codecademy.com/articles/react-virtual-dom
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/jsx-one-recap
+// stopped here: https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-classname-class
+
+// related readings: 
+http://callmenick.com/post/basics-javascript-dom-manipulation
+http://eloquentjavascript.net/13_dom.html (need to reread this)
+
+Sept 14 (day 26)
+https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-classname-class
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/self-closing-tags
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/javascript-jsx-injection-intro
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-curly-braces
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-pi-20-digits
+// stopped here: https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variables
+
+Sept 15 (day 27)
+// redo for knowing exercises in the helproom
+https://www.freecodecamp.com/challenges/create-a-custom-heading
+https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons
+https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-all-of-our-buttons
+https://www.freecodecamp.com/challenges/responsively-style-radio-buttons
+https://www.freecodecamp.com/challenges/responsively-style-checkboxes
+// stopped at: https://www.freecodecamp.com/challenges/style-text-inputs-as-form-controls
+
+// Codecademy for react
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variables
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-invalid-if
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-valid-if
+// stopped at: https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-ternary
+
+// for work: http://steve-jansen.github.io/guides/windows-batch-scripting/
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-1-getting-started.html
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-2-variables.html
+
+Sept 16 (Day 28)
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-ternary
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-and-operator
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-map
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-keys
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/react-createelement
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-recap
+
+https://www.freecodecamp.com/challenges/style-text-inputs-as-form-controls
+https://www.freecodecamp.com/challenges/line-up-form-elements-responsively-with-bootstrap
+https://www.freecodecamp.com/challenges/create-a-bootstrap-headline
+https://www.freecodecamp.com/challenges/house-our-page-within-a-bootstrap-container-fluid-div
+https://www.freecodecamp.com/challenges/create-a-bootstrap-row
+// stopped at: https://www.freecodecamp.com/challenges/split-your-bootstrap-row
+
+Sept 17 (day 29)
+https://www.freecodecamp.com/challenges/split-your-bootstrap-row
+https://www.freecodecamp.com/challenges/create-bootstrap-wells
+https://www.freecodecamp.com/challenges/add-elements-within-your-bootstrap-wells
+https://www.freecodecamp.com/challenges/apply-the-default-bootstrap-button-style
+https://www.freecodecamp.com/challenges/create-a-class-to-target-with-jquery-selectors
+// stopped at: https://www.freecodecamp.com/challenges/add-id-attributes-to-bootstrap-elements
+
+https://www.codecademy.com/en/courses/react-101/lessons/your-first-react-component/exercises/hello-world-component
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/import-react
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/import-reactdom
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class-name
+
+Sept 18th (nothing on this computer)
+
+Sept 19th (day 31)
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class-instructions
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/render-function
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-instructions-function
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/create-component-instance
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/render-react-component
+// stopped here: https://www.codecademy.com/en/courses/react-101/lessons/react-components-advanced-jsx/exercises/render-multiline-jsx
+
+// FCC exercises to support in gitter helpchat room
+https://www.freecodecamp.com/challenges/add-id-attributes-to-bootstrap-elements
+https://www.freecodecamp.com/challenges/label-bootstrap-wells
+https://www.freecodecamp.com/challenges/give-each-element-a-unique-id
+https://www.freecodecamp.com/challenges/label-bootstrap-buttons
+https://www.freecodecamp.com/challenges/use-comments-to-clarify-code
+// stopped at: https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
+
+Sept 20th (day 32)
+https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
+https://www.freecodecamp.com/challenges/target-html-elements-with-selectors-using-jquery
+https://www.freecodecamp.com/challenges/target-elements-by-class-using-jquery
+https://www.freecodecamp.com/challenges/target-elements-by-id-using-jquery
+https://www.freecodecamp.com/challenges/delete-your-jquery-functions
+// stopped at: https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jquery-selectors
+
+https://www.codecademy.com/en/courses/react-101/lessons/react-components-advanced-jsx/exercises/render-multiline-jsx
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/component-variable-attribute
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/render-function-calculations
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/render-function-if-statement
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/components-and-this
+// stopped at: https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/component-event-listener
+
+Sept 21st (day 33)
+// for helping in the FCC gitter help room
+https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jquery-selectors
+https://www.freecodecamp.com/challenges/remove-classes-from-an-element-with-jquery
+https://www.freecodecamp.com/challenges/change-the-css-of-an-element-using-jquery
+https://www.freecodecamp.com/challenges/disable-an-element-using-jquery
+https://www.freecodecamp.com/challenges/change-text-inside-an-element-using-jquery
+// stopped at: https://www.freecodecamp.com/challenges/remove-an-element-using-jquery
+
+Sept 22nd (day 34)
+https://www.freecodecamp.com/challenges/remove-an-element-using-jquery
+https://www.freecodecamp.com/challenges/use-appendto-to-move-elements-with-jquery
+https://www.freecodecamp.com/challenges/clone-an-element-using-jquery
+https://www.freecodecamp.com/challenges/target-the-parent-of-an-element-using-jquery
+https://www.freecodecamp.com/challenges/target-the-children-of-an-element-using-jquery
+// stopped at: https://www.freecodecamp.com/challenges/target-a-specific-child-of-an-element-using-jquery
+
+Sept 23 (day 35)
+https://www.freecodecamp.com/challenges/target-a-specific-child-of-an-element-using-jquery
+https://www.freecodecamp.com/challenges/target-even-numbered-elements-using-jquery
+https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page
+https://www.freecodecamp.com/challenges/comment-your-javascript-code
+https://www.freecodecamp.com/challenges/declare-javascript-variables
+// stopped at: https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator
+
+Sept 24th 25th nothing on this computer
+
+Sept 26 (day 38) -nothing
+
+Sept 27 (day 39)
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/component-event-listener
+https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/components-recap
+https://www.codecademy.com/en/courses/react-101/lessons/components-render-each-other/exercises/components-interacting-intro
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/component-in-render-function
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/component-in-render-function-apply
+// stopped at: https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/require-files
+
+// for FCC helpRoom:
+https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator
+https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator
+https://www.freecodecamp.com/challenges/understanding-uninitialized-variables
+https://www.freecodecamp.com/challenges/understanding-case-sensitivity-in-variables
+https://www.freecodecamp.com/challenges/add-two-numbers-with-javascript
+// stopped at: https://www.freecodecamp.com/challenges/subtract-one-number-from-another-with-javascript
+
+Sept 28 (day 40)
+// for FCC helpRoom:
+https://www.freecodecamp.com/challenges/subtract-one-number-from-another-with-javascript
+https://www.freecodecamp.com/challenges/multiply-two-numbers-with-javascript
+https://www.freecodecamp.com/challenges/divide-one-number-by-another-with-javascript
+https://www.freecodecamp.com/challenges/increment-a-number-with-javascript
+https://www.freecodecamp.com/challenges/decrement-a-number-with-javascript
+// stopped at: https://www.freecodecamp.com/challenges/create-decimal-numbers-with-javascript
+
+Sept 29 (day 41)
+// trying to see what i still have to complete in Codecademy: https://www.codecademy.com/learn/make-a-website
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/html-css
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/html-element
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-heading
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-paragraph
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/anchor-elements
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/anchor-tags
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-image
+// stopped at: https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/add-video
+
+// codecademy react course:
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/require-files
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/module-exports
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/component-render-action
+// stopped at: https://www.codecademy.com/en/courses/react-101/lessons/this-props/exercises/this-props-intro
+
+Sept 30 (day 42) nothing
+
+Oct 1st (day 43) nothing
+
+Oct 2nd (day 44) nothing
+
+Oct 3rd (day 45)
+https://www.codecademy.com/en/courses/react-101/lessons/this-props/exercises/this-props-intro
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/access-props
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/pass-props-component
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/render-component-props
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/pass-props-inter-component
+// stopped at: https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/render-ui-based-props
+
+// more for the FCC helpRoom
+https://www.freecodecamp.com/challenges/create-decimal-numbers-with-javascript
+https://www.freecodecamp.com/challenges/multiply-two-decimals-with-javascript
+https://www.freecodecamp.com/challenges/divide-one-decimal-by-another-with-javascript
+https://www.freecodecamp.com/challenges/finding-a-remainder-in-javascript
+https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-addition
+https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-subtraction
+https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-multiplication
+https://www.freecodecamp.com/challenges/compound-assignment-with-augmented-division
+// stopped at: https://www.freecodecamp.com/challenges/convert-celsius-to-fahrenheit
+
+Oct 4 (day 46)
+https://www.codecademy.com/en/courses/make-a-website/lessons/site-structure/exercises/add-div
+https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/metadata
+
+// some stuff on SysOps/DevOps
+http://steve-jansen.github.io/guides/windows-batch-scripting/index.html
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-1-getting-started.html
+
+Oct 5 (day 47)
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-2-variables.html
+
+Oct 6 (day 48)
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-3-return-codes.html
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-4-stdin-stdout-stderr.html
+http://steve-jansen.github.io/guides/windows-batch-scripting/part-5-if-then-conditionals.html
+
+Oct 7 (day 49)
+// from: https://www.codecademy.com/learn/sql-table-transformation
+https://www.codecademy.com/courses/sql-table-transformation/lessons/subqueries/exercises/table-transformation
+https://www.codecademy.com/courses/sql-table-transformation/lessons/subqueries/exercises/non-correlated-i
+
+// not coding but related:
+https://medium.com/operation-code/what-are-employers-looking-for-in-a-developer-95df809a57a4#.xrttm31wt
+https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.t4gqr3lg8
+https://medium.com/@roneesh/lessons-learned-while-learning-algorithms-cfe4e0ea4a23#.r19l69ug9
+https://medium.com/bradfield-cs/the-cost-of-forsaking-c-113986438784#.tbwvwo8ks
+https://medium.com/bradfield-cs/how-to-learn-c-59222a627a4c#.pxf4qmhh9
+
+
+Oct 8, 9th nothing on this comp
+
+Oct 10th (day 52)
+https://medium.com/@roneesh/adventures-in-learning-recursion-2abbd17cda6a#.fq5j1bvs4
+
+Oct 11th (day 53)
+https://www.codecademy.com/courses/sql-table-transformation/lessons/subqueries/exercises/non-correlated-i
+https://www.codecademy.com/courses/sql-table-transformation/lessons/subqueries/exercises/non-correlated-ii
+// stopped at: https://www.codecademy.com/courses/sql-table-transformation/lessons/subqueries/exercises/non-correlated-iii
+
+Oct 12th (day 54)
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/id-selectors
+https://www.codecademy.com/courses/make-a-website/lessons/closer-look-css/exercises/css-review
+
+Oct 13 (day 55)
+https://www.codecademy.com/en/courses/make-a-website/lessons/boundaries-space/exercises/box-model
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/create-border
+
+Oct 14 (day 56)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/padding
+
+Oct 15 (day 57)
+https://www.hackerrank.com/challenges/kangaroo
+https://www.hackerrank.com/challenges/compare-the-triplets
+https://www.hackerrank.com/challenges/circular-array-rotation
+https://www.hackerrank.com/challenges/divisible-sum-pairs
+https://www.hackerrank.com/challenges/cut-the-sticks
+http://stackoverflow.com/questions/5817756/delete-zero-values-from-array-with-javascript
+
+// lynda.com courses on technology: https://www.lynda.com/IT-tutorials/Building-Your-Technology-Skills/432862-2.html
+Working with switches: https://www.lynda.com/PowerShell-tutorials/Working-switches/432862/477589-4.html
+
+// lynda on data:
+Techniques and Concepts of Big Data: Human-generated data: https://www.lynda.com/Hadoop-tutorials/Human-generated-data/158656/190788-4.html
+
+Oct 16 (day 58)
+// finished watching this: https://www.lynda.com/Hadoop-tutorials/Human-generated-data/158656/190788-4.html
+(got completely sucked into: https://immersion.media.mit.edu/)
+
+// lynda.com courses on technology: https://www.lynda.com/IT-tutorials/Building-Your-Technology-Skills/432862-2.html
+Working with routers: https://www.lynda.com/PowerShell-tutorials/Working-routers/432862/477591-4.html
+
+https://www.hackerrank.com/challenges/sock-merchant
+
+Oct 17 (day 59)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/understand-display
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/keep-inline
+
+Oct 18 (day 60)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/using-float
+
+Oct 19 (day 61)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/display-flex
+
+Oct 20 (Day 62)
+https://www.codecademy.com/courses/make-a-website/lessons/boundaries-space/exercises/position
+
+// lynda course - Building Your Technology Skills: IT Network Administration Working with firewalls
+https://www.lynda.com/PowerShell-tutorials/Working-firewalls/432862/477593-4.html
+
+// starting in on: https://www.hackerrank.com/challenges/strange-advertising
+https://www.hackerrank.com/challenges/non-divisible-subset
+
+// starting in on design principles; https://www.lynda.com/Higher-Education-tutorials/Welcome/193717/419012-4.html
+
+// medium articles: 
+https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.1obhcah0z
+
+Oct 21 (day 63)
+https://www.codecademy.com/en/courses/make-a-website/lessons/bootstrap/exercises/css-frameworks
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/connect-bootstrap
+
+// from lynda on technology: Authentication and authorization: How they work together
+https://www.lynda.com/PowerShell-tutorials/Authentication-authorization-How-work-together/432862/477595-4.html
+
+// start in on: hackerrank
+https://www.hackerrank.com/challenges/lonely-integer
+
+Oct 22 (day 64)
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/on-the-grid
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/header-nav
+
+Oct 23 (day 65)
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/jumbotron
+
+Oct 24 (day 66)
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/supporting-content
+
+Oct 25 (day 67)
+https://www.codecademy.com/courses/make-a-website/lessons/bootstrap/exercises/footers
+
+Oct 26 (day 68)
+// start in on the new codecademy HTML; https://www.codecademy.com/learn/learn-html-css
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/what-is-html
+
+// from lynda.com Building Your Technology Skills: IT Network Administration - Microsoft Certification exam tips
+https://www.lynda.com/PowerShell-tutorials/Microsoft-Certification-exam-tips/432862/490065-4.html
+
+// from https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+https://www.hackerrank.com/challenges/s10-basic-statistics/tutorial
+The Mean, Median and Mode Toads
+https://youtu.be/5C9LBF3b65s
+https://www.hackerrank.com/challenges/s10-basic-statistics
+
+
+Oct 27 (day 69)
+https://medium.com/@mykia/sexy-cool-recursion-post-997935cab6ec#.uj2fvuslq
+https://en.wikipedia.org/wiki/Call_stack
+https://medium.com/@roneesh/how-to-start-writing-complex-code-8f2b4c18c8ed#.7s6k4ffxk
+
+// lynda.com from Building Your Technology Skills IT: Network Administration - Vocabulary and buzzwords
+https://www.lynda.com/PowerShell-tutorials/Vocabulary-buzzwords/432862/493067-4.html
+
+// lynda.com from Techniques and Concepts of Big Data: Machine-generated data
+https://www.lynda.com/Hadoop-tutorials/Machine-generated-data/158656/190789-4.html
+Big Data: Structured data: https://www.lynda.com/Hadoop-tutorials/Structured-data/158656/190790-4.html
+
+// lynda.com from Universal Principles of Design: Flexibility Trade-Offs
+https://www.lynda.com/Higher-Education-tutorials/Flexibility-Trade-Offs/193717/419013-4.html
+
+// from lynda.com Developer - Programming Foundations: Foundations of Programming: Fundamentals (understanding strong, weak and duck type languages)
+https://www.lynda.com/Programming-Foundations-tutorials/Understanding-strong-weak-duck-typed-languages/83603/90440-4.html
+
+Oct 28 (Day 70)
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/doctype
+
+Oct 29 - 30 (nothing)
+
+Oct 31 (Day 73)
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/html-title
+
+Nov 1st (day 74)
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/html-title-browser
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/html-body
+
+https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd#.4u6kp6gr4
+https://medium.freecodecamp.com/networking-at-meet-ups-getting-hired-f0f7c4f4681a#.u59rmexfl
+
+Nov 2nd (Day 75)
+https://www.codecademy.com/courses/learn-html-css/lessons/structure/exercises/review-structure
+
+lynda.com IT Network Administration: Understanding RAID (from: Building Your Technology Skills)
+https://www.lynda.com/PowerShell-tutorials/Understanding-RAID/432862/494445-4.html
+
+https://medium.com/@kitze/how-it-actually-feels-to-write-javascript-in-2016-46b5dda17bb5#.sq1la2jyo
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.1ow6wxi0j
+
+Nov 3 (day 76)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/common-elements/exercises/visible-content
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/headings
+
+https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.xd91qz790
+
+// lynda.com IT: Network Administration - Overview of DNS (from: Building Your Technology Skills)
+https://www.lynda.com/PowerShell-tutorials/Overview-DNS/432862/496469-4.html
+
+Nov 4 (day 77)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/paragraph
+
+Nov 5th (Day 78) 
+nothing on this computer
+
+Nov 6th (day 79)
+// coding or js articles
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6#.3yim88d32
+https://www.smashingmagazine.com/2010/04/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/
+http://lifehacker.com/the-case-for-learning-c-as-your-first-programming-langu-1682070792
+
+// from lynda.com IT Network Administration: Creating users (from Building Your Technology Skills)
+https://www.lynda.com/Network-Administration-tutorials/Creating-Users/432862/497654-4.html
+
+// from lynda.com IT Big Data: Unstructured data (from - Techniques and Concepts of Big Data)
+https://www.lynda.com/Hadoop-tutorials/Unstructured-data/158656/190791-4.html
+
+Nov 7th (day 80)
+// continue reading: https://www.smashingmagazine.com/2010/04/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/
+
+
+Nov 8 (day 81)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/link-attributes
+
+Nov 9th (Day 82)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/img-src
+
+Nov 10 (day 83)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/img-alt
+
+// from: IT Network Administration: Working with DHCP (from: Building Your Technology Skills)
+https://www.lynda.com/Network-Administration-tutorials/Working-DHCP/432862/499758-4.html
+
+Nov 11th (day 84)
+https://www.codecademy.com/courses/learn-html-css/lessons/common-elements/exercises/link-at-will
+
+Retiring Python as a Teaching Language: http://prog21.dadgum.com/203.html
+
+Nov 12th nothing on this computer
+
+Nov 13 nothing
+
+Nov 14th (Day 87)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/common-elements/exercises/review-common-elements
+https://www.codecademy.com/en/courses/learn-html-css/lessons/css-setup/exercises/what-is-css
+
+Nov 15th (day 86)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/css-setup/exercises/what-is-css
+https://www.codecademy.com/courses/learn-html-css/lessons/css-setup/exercises/style
+
+// from: lynda.com IT Network Administration: Exploring a troubleshooting methodology - from Building Your Technology Skills
+https://www.lynda.com/PowerShell-tutorials/Exploring-Troubleshooting-Methodology/432862/499759-4.html
+
+Nov 16 (Day 87)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-setup/exercises/structure-style
+https://www.codecademy.com/courses/learn-html-css/lessons/css-setup/exercises/css-file
+
+Nov 17 (day 88)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-setup/exercises/html-link-css
+
+
+Nov 18 (day 89)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-setup/exercises/review-css-setup
+
+Nov 19 (day 90)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/css-structure-syntax/exercises/css
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/element-selectors
+
+Nov 20 (day 91)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/css-declarations-anatomy
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/css-declarations
+
+Nov 21 (day 92)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/multiple-element-selectors
+
+Nov 22 (day 93)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/universal-selector
+
+Nov 23 (day 94)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/css-indentation-spacing
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/css-comments
+
+http://superuser.com/questions/529719/how-to-open-sql-file-as-a-table
+
+Nov 24 (Day 95)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-structure-syntax/exercises/review-css-structure-syntax
+
+// hackerank alogrythm challenges:
+https://www.hackerrank.com/challenges/mini-max-sum
+
+https://www.hackerrank.com/challenges/designer-pdf-viewer
+http://stackoverflow.com/questions/20474257/split-string-into-two-parts
+http://stackoverflow.com/questions/22624379/how-to-convert-letters-to-numbers-with-javascript
+http://www.w3schools.com/jsref/jsref_charat.asp
+
+worked on: https://www.hackerrank.com/challenges/apple-and-orange
+
+Nov 25 (day 96)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/css-colors/exercises/power-colors
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/foreground-background
+
+// hackerank alogrythm challenges:
+https://www.hackerrank.com/challenges/between-two-sets
+
+Nov 26 (Day 97)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/named-colors
+
+Nov 27 (Day 98) nothing on this ocmputer
+
+Nov 28 (Day 99)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-colors/exercises/hex-colors
+
+Nov 29 nothing on this computer
+
+Nov 30 (day 101!)
+Start new count!
+
+Whoooooooooo
+
+// always/daily helping in the FCC helproom since July.. https://gitter.im/FreeCodeCamp/Help
+
+==========
+
+// to do: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+// codecademy react course do!
+
+// want to redo the git and regex in Code School
+
+Brought over from other Coding..
+
+XXXX
+
+Stuff still to watch
+
+GitHub
+
+Everything I Wish I Knew When I Started Using GitHub
+https://youtu.be/KDUtjZHIx44
+
+DevTips
+
+start from the back and watch forward: https://www.youtube.com/user/DevTipsForDesigners/videos?sort=da&flow=grid&view=0
+
+Still to watch this
+
+C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 1 of 13
+https://www.youtube.com/watch?v=UIUlFQH4Cvo
+
+// need to reread: https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.rbfrbo33f
+// https://auth0.com/ and https://help.github.com/articles/connecting-with-third-party-applications/
+
+Further Study:
+
+http://materializecss.com/
+
+http://eloquentjavascript.net/10_modules.html
+
+
