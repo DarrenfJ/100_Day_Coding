@@ -88,6 +88,9 @@ https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/wo
 // from: http://www.learn-c.org/
 http://www.learn-c.org/en/For_loops
 
+Dec 9 (day 10)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/letter-spacing
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
