@@ -91,6 +91,22 @@ http://www.learn-c.org/en/For_loops
 Dec 9 (day 10)
 https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/letter-spacing
 
+// from: http://www.learn-c.org/
+http://www.learn-c.org/en/While_loops
+
+// from: https://openhatch.org/missions/ - contributing to open source projects
+https://openhatch.org/missions/windows-setup/
+https://openhatch.org/missions/windows-setup/install-git-bash
+https://openhatch.org/missions/windows-setup/understand-prompt
+https://openhatch.org/missions/windows-setup/navigating
+
+https://openhatch.org/missions/shell/about
+https://openhatch.org/missions/shell/file-and-directory
+https://openhatch.org/missions/shell/ls
+
+Dec 10 (day 11)
+
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
