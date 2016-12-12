@@ -105,6 +105,34 @@ https://openhatch.org/missions/shell/file-and-directory
 https://openhatch.org/missions/shell/ls
 
 Dec 10 (day 11)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/font-weight
+
+Dec 11 (day 12)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/font-style
+
+// work on Portfolio page - make it Boostrap
+// set up git repo
+https://guides.github.com/introduction/getting-your-project-on-github/
+https://help.github.com/articles/creating-a-new-repository/
+https://help.github.com/articles/importing-a-git-repository-using-the-command-line/
+https://help.github.com/articles/importing-a-repository-with-github-importer/
+https://help.github.com/articles/cloning-a-repository/
+// Bootstrap etc links
+http://fontawesome.io/
+http://fontawesome.io/get-started/
+https://startbootstrap.com/
+https://startbootstrap.com/template-overviews/simple-sidebar/ 
+https://lipis.github.io/bootstrap-social/
+https://getbootstrap.com/components/#btn-groups
+
+Dec 12 (day 13)
+
+// more on the Portfolio page:
+http://stackoverflow.com/questions/12061139/making-button-go-full-width
+https://v4-alpha.getbootstrap.com/layout/grid/
+https://github.com/twbs/bootstrap/issues/9249
+http://stackoverflow.com/questions/22262311/container-fluid-vs-container
+// various other links I glanced at
 
 
 
