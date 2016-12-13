@@ -132,7 +132,13 @@ http://stackoverflow.com/questions/12061139/making-button-go-full-width
 https://v4-alpha.getbootstrap.com/layout/grid/
 https://github.com/twbs/bootstrap/issues/9249
 http://stackoverflow.com/questions/22262311/container-fluid-vs-container
-// various other links I glanced at
+// various other links I glanced at as well (not saved here, but similar to above)
+
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/text-transform
+
+Dec 13 (day 14)
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/text-align
+https://www.codecademy.com/courses/learn-html-css/lessons/css-fonts/exercises/review-fonts
 
 
 
