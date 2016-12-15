@@ -150,6 +150,11 @@ https://www.lynda.com/PowerShell-tutorials/Understanding-Ping-Error-Messages/432
 https://blog.devmastery.com/copy-paste-code-6ed9bb841cd4#.r13gq4ihh
 https://blog.devmastery.com/i-hate-servers-68334f3de41c#.9sjojvcmw
 
+Dec 15 (day 16)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/maintainable-code continued
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/html-ids
+
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
