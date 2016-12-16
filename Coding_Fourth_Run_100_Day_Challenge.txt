@@ -154,6 +154,19 @@ Dec 15 (day 16)
 https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/maintainable-code continued
 https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/html-ids
 
+Dec 16 (day 17)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/id-selectors
+
+// my first-timer issue!
+https://github.com/FreeCodeCamp/FreeCodeCamp/issues/12067
+https://help.github.com/articles/fork-a-repo/
+https://github.com/blog/1969-create-pull-requests-in-github-for-windows
+https://help.github.com/articles/github-flow-in-the-browser/
+https://guides.github.com/introduction/flow/
+https://help.github.com/articles/creating-a-pull-request/
+https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md#creating-a-pull-request
+// plus some more
+
 
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
