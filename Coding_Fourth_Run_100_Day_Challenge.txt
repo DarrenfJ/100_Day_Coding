@@ -167,7 +167,24 @@ https://help.github.com/articles/creating-a-pull-request/
 https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md#creating-a-pull-request
 // plus some more
 
+Dec 17 (day 18)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/html-classes
 
+Dec 18 (day 19)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/class-selectors-i
+
+Dec 19 (Day 20)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/class-selectors-ii
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/multiple-selectors
+
+//from http://gitimmersion.com/
+http://gitimmersion.com/lab_10.html
+// lots of info on git log in here
+http://gitimmersion.com/lab_11.html
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+http://gitimmersion.com/lab_12.html
+http://gitimmersion.com/lab_13.html
+http://gitimmersion.com/lab_14.html
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
