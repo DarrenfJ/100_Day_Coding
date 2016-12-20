@@ -186,6 +186,14 @@ http://gitimmersion.com/lab_12.html
 http://gitimmersion.com/lab_13.html
 http://gitimmersion.com/lab_14.html
 
+//from IT Network Administration: Using the OSI network model (from: Building Your Technology Skills) lynda.com
+https://www.lynda.com/Network-Administration-tutorials/Using-OSI-Network-Model/432862/499761-4.html
+
+https://medium.freecodecamp.com/full-stack-between-reality-and-wishful-thinking-43110005f2a2#.7zondv622
+
+// from: https://www.learn-c.org/
+http://www.learn-c.org/en/Functions
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
