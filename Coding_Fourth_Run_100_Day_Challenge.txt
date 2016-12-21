@@ -194,6 +194,13 @@ https://medium.freecodecamp.com/full-stack-between-reality-and-wishful-thinking-
 // from: https://www.learn-c.org/
 http://www.learn-c.org/en/Functions
 
+Dec 20 (day 21)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/multiple-classes-html
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/div
+
+Dec 21 (Day 22)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/divs-classes
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
