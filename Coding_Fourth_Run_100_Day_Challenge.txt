@@ -207,7 +207,15 @@ https://www.lynda.com/Operating-Systems-tutorials/What-DevOps/508618/555077-4.ht
 https://www.lynda.com/Operating-Systems-tutorials/DevOps-core-values-CAMS/508618/555078-4.html
 
 Dec 22 (Day 23)
-https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/why-divs 
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/why-divs
+
+//used to redo FCC exercises for helproom but got to Js and stopped.. will restart that:
+ http://stackoverflow.com/questions/20998159/what-is-the-meaning-of-literal-in-the-phrase-object-literal-notation
+https://www.freecodecamp.com/challenges/declare-string-variables
+https://www.freecodecamp.com/challenges/escaping-literal-quotes-in-strings
+https://www.freecodecamp.com/challenges/quoting-strings-with-single-quotes
+https://www.freecodecamp.com/challenges/escape-sequences-in-strings
+https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
