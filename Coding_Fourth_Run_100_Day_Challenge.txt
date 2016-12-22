@@ -206,6 +206,8 @@ https://www.lynda.com/Operating-Systems-tutorials/DevOps-Fundamentals/508618-2.h
 https://www.lynda.com/Operating-Systems-tutorials/What-DevOps/508618/555077-4.html
 https://www.lynda.com/Operating-Systems-tutorials/DevOps-core-values-CAMS/508618/555078-4.html
 
+Dec 22 (Day 23)
+https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/why-divs 
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
