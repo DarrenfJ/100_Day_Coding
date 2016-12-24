@@ -220,6 +220,11 @@ https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 Dec 23 (day 24)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/ids-classes-divs/exercises/review-class-id-divs
 
+Dec 24 (day 25)
+https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/what-is-box-model
+https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/box-width-height
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
