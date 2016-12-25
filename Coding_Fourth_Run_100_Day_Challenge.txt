@@ -224,6 +224,8 @@ Dec 24 (day 25)
 https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/what-is-box-model
 https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/box-width-height
 
+Dec 25 (day 26)
+https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/width-max-min
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
