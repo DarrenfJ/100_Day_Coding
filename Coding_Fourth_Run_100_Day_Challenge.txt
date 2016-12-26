@@ -227,6 +227,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/bo
 Dec 25 (day 26)
 https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/width-max-min
 
+Dec 26 (day 27)
+https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/height-max-min
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
