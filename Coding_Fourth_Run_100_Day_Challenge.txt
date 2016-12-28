@@ -233,6 +233,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/he
 Dec 27 (day 28)
 https://www.codecademy.com/courses/learn-html-css/lessons/box-model/exercises/overflow
 
+Dec 28 (day 29)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/box-model/exercises/review-box-model
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
