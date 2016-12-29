@@ -239,6 +239,10 @@ https://www.codecademy.com/en/courses/learn-html-css/lessons/box-model/exercises
 //from lynda.com IT - Network Administration: Understanding Windows implicit groups (From: Building Your Technology Skills)
 https://www.lynda.com/PowerShell-tutorials/Understanding-Windows-Implicit-Groups/432862/506473-4.html
 
+Dec 29 (day 30)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/borders/exercises/box-borders
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-style
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
