@@ -243,6 +243,8 @@ Dec 29 (day 30)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/borders/exercises/box-borders
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-style
 
+Dec 30 (day 31)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-width-i
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
