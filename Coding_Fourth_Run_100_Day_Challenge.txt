@@ -246,6 +246,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/bord
 Dec 30 (day 31)
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-width-i
 
+// try this out: https://thoughtbot.com/upcase/mastering-git
+https://thoughtbot.com/upcase/videos/git-getting-to-confident
+http://www.linfo.org/touch.html
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
