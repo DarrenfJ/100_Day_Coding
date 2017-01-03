@@ -201,7 +201,7 @@ https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exerc
 Dec 21 (Day 22)
 https://www.codecademy.com/courses/learn-html-css/lessons/ids-classes-divs/exercises/divs-classes
 
-// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals
+// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals)
 https://www.lynda.com/Operating-Systems-tutorials/DevOps-Fundamentals/508618-2.html
 https://www.lynda.com/Operating-Systems-tutorials/What-DevOps/508618/555077-4.html
 https://www.lynda.com/Operating-Systems-tutorials/DevOps-core-values-CAMS/508618/555078-4.html
@@ -271,9 +271,14 @@ https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/bord
 Jan 2 (Day 34)
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-color
 
-Jan 4 (Day 35)
+Jan 3 (Day 35)
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-shorthand
 
+// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals)
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-principles-three-ways/508618/555079-4.html
+
+// from: https://hackernoon.com/five-mostly-stackexchange-links-to-bookmark-right-now-5152cf16bd1#.6rq1zq6uw
+http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
