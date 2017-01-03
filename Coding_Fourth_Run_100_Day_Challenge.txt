@@ -250,6 +250,31 @@ https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/bord
 https://thoughtbot.com/upcase/videos/git-getting-to-confident
 http://www.linfo.org/touch.html
 
+Dec 31 (day 32)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-width-ii
+
+// investigating the color scheme of social media buttons for Bootstrap to create FCC button
+//from: https://lipis.github.io/bootstrap-social/
+//and
+//https://github.com/lipis/bootstrap-social
+https://github.com/lipis/bootstrap-social/blob/gh-pages/bootstrap-social.css
+http://www.rapidtables.com/convert/color/hex-to-rgb.htm
+
+//for FCC helpRoom
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/My_first_HTML_form
+http://stackoverflow.com/questions/22262311/container-fluid-vs-container
+
+Jan 1 (Day 33)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-width-iii
+
+Jan 2 (Day 34)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-color
+
+Jan 4 (Day 35)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-shorthand
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
