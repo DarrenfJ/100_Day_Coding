@@ -280,6 +280,10 @@ https://www.lynda.com/Operating-Systems-tutorials/DevOps-principles-three-ways/5
 // from: https://hackernoon.com/five-mostly-stackexchange-links-to-bookmark-right-now-5152cf16bd1#.6rq1zq6uw
 http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants
 
+Jan 4th (day 36)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-radius
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
