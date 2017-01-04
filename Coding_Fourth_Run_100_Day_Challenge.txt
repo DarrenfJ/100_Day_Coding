@@ -283,6 +283,17 @@ http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-
 Jan 4th (day 36)
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/border-radius
 
+// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals) - Your DevOps playbook
+https://www.lynda.com/Operating-Systems-tutorials/Your-DevOps-playbook/508618/555080-4.html
+
+http://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes/
+http://getbootstrap.com/css/#grid-options
+
+//to copy for trying to make a FCC button: https://lipis.github.io/bootstrap-social/
+https://github.com/lipis/bootstrap-social
+http://fontawesome.io/
+http://fontawesome.io/icon/free-code-camp/
+http://codepen.io/DarrenfJ/pen/oBgLbx
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
