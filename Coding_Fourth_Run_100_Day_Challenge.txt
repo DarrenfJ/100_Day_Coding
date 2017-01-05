@@ -295,6 +295,18 @@ http://fontawesome.io/
 http://fontawesome.io/icon/free-code-camp/
 http://codepen.io/DarrenfJ/pen/oBgLbx
 
+//evening work on it:
+http://www.rapidtables.com/convert/color/hex-to-rgb.htm
+http://www.color-hex.com/color/006400
+http://www.hexcolortool.com/
+http://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp
+
+http://codepen.io/DarrenfJ/full/oBgLbx/
+
+Jan 5th (Day 37)
+https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/review-borders
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
