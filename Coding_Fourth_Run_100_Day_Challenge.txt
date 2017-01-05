@@ -306,6 +306,11 @@ http://codepen.io/DarrenfJ/full/oBgLbx/
 Jan 5th (Day 37)
 https://www.codecademy.com/courses/learn-html-css/lessons/borders/exercises/review-borders
 
+// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals)
+//10 practices for DevOps success: 10 through 6
+https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-10-through-6/508618/555081-4.html
+//10 practices for DevOps success: 5 through 1
+https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-5-through-1/508618/555082-4.html
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
