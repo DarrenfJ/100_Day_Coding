@@ -312,6 +312,19 @@ https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-10
 //10 practices for DevOps success: 5 through 1
 https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-5-through-1/508618/555082-4.html
 
+Jan 6th (Day 38)
+// from Lynda.com course on DevOps (IT Cloud Computing: DevOps Fundamentals)
+//DevOps tools: The cart or the horse?
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-tools-cart-horse/508618/555083-4.html
+
+//gonna retry this 15 min tutorial.. probably redoign it TBH
+https://try.github.io/levels/1/challenges/1
+...etc up to...
+https://try.github.io/levels/1/challenges/19
+
+//gonna try to do pull requests to upload status instead of just 'git push'
+https://help.github.com/articles/about-pull-requests/
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
