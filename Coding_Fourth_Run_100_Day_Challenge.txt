@@ -312,6 +312,26 @@ https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-10
 //10 practices for DevOps success: 5 through 1
 https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-5-through-1/508618/555082-4.html
 
+//working on my Portfolio
+http://codepen.io/DarrenfJ/full/WogvGK/
+http://stackoverflow.com/questions/7560832/how-to-center-a-button-within-a-div
+https://css-tricks.com/snippets/jquery/smooth-scrolling/
+http://stackoverflow.com/questions/37851790/make-an-image-in-container-fill-the-half-of-the-page
+https://v4-alpha.getbootstrap.com/layout/grid/
+http://stackoverflow.com/questions/18153234/center-a-column-using-twitter-bootstrap-3
+http://v4-alpha.getbootstrap.com/content/images/
+http://stackoverflow.com/questions/17479912/how-to-change-link-color-when-clicked
+
+//Built form maker for project
+https://codepen.io/DarrenfJ/full/rjaggQ/
+
+Jan 6th (Day 38)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/content-inside
+
+//git stuff for changing master to branch for pull requests..
+http://stackoverflow.com/questions/1351567/putting-uncommitted-changes-at-master-to-a-new-branch-by-git
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
