@@ -342,6 +342,41 @@ https://try.github.io/levels/1/challenges/19
 
 //git stuff for changing master to branch for pull requests..
 http://stackoverflow.com/questions/1351567/putting-uncommitted-changes-at-master-to-a-new-branch-by-git
+http://stackoverflow.com/questions/14168677/merge-development-branch-with-master
+http://stackoverflow.com/questions/292357/difference-between-git-pull-and-git-fetch
+http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+
+//research exporting CodePen to GitHub
+https://blog.codepen.io/2013/09/09/link-unlink-your-github-and-codepen-account-anytime/
+https://blog.codepen.io/documentation/faq/how-do-i-log-in-with-twitter-facebook-github/
+https://blog.codepen.io/documentation/features/exporting-pens/
+http://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist
+
+Jan 7th (Day 39)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-i
+
+//for FCC forum: https://forum.freecodecamp.com/t/check-for-palindromes-why-is-slice-needed-in-my-code/73819/1
+https://davidwalsh.name/javascript-clone-array
+http://stackoverflow.com/questions/6612385/why-does-changing-an-array-in-javascript-affect-copies-of-the-array
+
+//for porting your CodePen for FCC social button to GitHub
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+https://help.github.com/articles/adding-a-remote/
+https://help.github.com/articles/which-remote-url-should-i-use/
+
+//and for another Q in th forum
+https://www.frontendhandbook.com/
+
+Jan 8th (Day 40)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-ii
+
+// GitHub for wikis
+https://guides.github.com/features/wikis/
+
+Jan 9th (Day 41)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-iii
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
