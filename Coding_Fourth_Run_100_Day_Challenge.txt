@@ -347,6 +347,10 @@ http://stackoverflow.com/questions/292357/difference-between-git-pull-and-git-fe
 http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 
+//general git stuff
+http://stackoverflow.com/questions/1394797/move-existing-uncommited-work-to-a-new-branch-in-git
+http://stackoverflow.com/questions/2569459/git-create-a-branch-from-unstaged-uncommited-changes-on-master
+
 //research exporting CodePen to GitHub
 https://blog.codepen.io/2013/09/09/link-unlink-your-github-and-codepen-account-anytime/
 https://blog.codepen.io/documentation/faq/how-do-i-log-in-with-twitter-facebook-github/
@@ -377,6 +381,19 @@ https://guides.github.com/features/wikis/
 Jan 9th (Day 41)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-iii
 
+//stack-overflow related:
+http://stackoverflow.com/help/privileges/comment
+http://stackoverflow.com/help/privileges/docs-commenting
+
+// from lynda.com: IT- Network Administration: Working with Windows Server 2016 management tools (From: Building Your Technology Skills)
+https://www.lynda.com/PowerShell-tutorials/Working-Windows-2016-Server-Management-Tools/432862/508950-4.html
+
+// lynda.com: course on DevOps (IT Cloud Computing: DevOps Fundamentals)
+// The IT crowd and the coming storm
+https://www.lynda.com/Operating-Systems-tutorials/IT-crowd-coming-storm/508618/555085-4.html
+
+//for treehouse forum
+http://kirkstrobeck.github.io/whatismarkdown.com/
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
