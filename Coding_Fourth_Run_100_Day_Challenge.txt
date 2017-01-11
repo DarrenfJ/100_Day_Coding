@@ -401,6 +401,17 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padd
 Jan 11 (Day 43)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-i
 
+// more git and GitHub Q's through using it regularly
+http://stackoverflow.com/questions/38582388/what-does-github-for-windows-mac-publish-do
+http://stackoverflow.com/questions/12104513/what-does-github-for-windows-sync-do
+https://guides.github.com/introduction/getting-your-project-on-github/
+http://haacked.com/archive/2012/05/21/introducing-github-for-windows.aspx/#87318
+
+//other junk I had open from suggested reading in forums and FB groups
+http://www.sitepoint.stfi.re/mind-tricks-to-learn-javascript-faster/?sf=ooywyxl
+https://medium.freecodecamp.com/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b#.w1lsq195c
+https://techcrunch.com/2017/01/01/wtf-is-a-vpn/
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
