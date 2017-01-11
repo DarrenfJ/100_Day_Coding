@@ -395,6 +395,13 @@ https://www.lynda.com/Operating-Systems-tutorials/IT-crowd-coming-storm/508618/5
 //for treehouse forum
 http://kirkstrobeck.github.io/whatismarkdown.com/
 
+Jan 10 (day 42)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-iv
+
+Jan 11 (Day 43)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-i
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
