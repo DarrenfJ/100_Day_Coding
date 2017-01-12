@@ -415,6 +415,16 @@ https://techcrunch.com/2017/01/01/wtf-is-a-vpn/
 Jan 12 (Day 44)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/margin-ii
 
+//for FCC gitter helpChat - for @diomed
+http://stackoverflow.com/questions/39803874/convert-txt-file-to-json
+http://www.jsoneditoronline.org/
+http://www.objgen.com/json
+http://stackoverflow.com/questions/8963693/how-to-create-json-string-in-javascript
+
+//might have to learn Java for testing (work) start back into intro vids from treehouse: https://teamtreehouse.com/library/java-basics
+https://teamtreehouse.com/library/introduction-to-your-tools
+https://teamtreehouse.com/library/strings-and-variables
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
