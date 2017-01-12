@@ -401,6 +401,9 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padd
 Jan 11 (Day 43)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-i
 
+Jan 12 (Day 44)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/margin-ii
+
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
