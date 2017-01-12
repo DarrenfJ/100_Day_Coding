@@ -412,6 +412,8 @@ http://www.sitepoint.stfi.re/mind-tricks-to-learn-javascript-faster/?sf=ooywyxl
 https://medium.freecodecamp.com/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b#.w1lsq195c
 https://techcrunch.com/2017/01/01/wtf-is-a-vpn/
 
+Jan 12 (Day 44)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/margin-ii
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
