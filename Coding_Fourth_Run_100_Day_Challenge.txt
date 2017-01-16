@@ -425,6 +425,15 @@ http://stackoverflow.com/questions/8963693/how-to-create-json-string-in-javascri
 https://teamtreehouse.com/library/introduction-to-your-tools
 https://teamtreehouse.com/library/strings-and-variables
 
+Jan 13 (Day 45)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/margin-iii
+
+//treehouse java for work:
+https://teamtreehouse.com/library/java-basics/getting-started-with-java/strings-variables-and-formatting
+https://teamtreehouse.com/library/receiving-input-2
+https://teamtreehouse.com/library/java-basics/getting-started-with-java/io
+
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
