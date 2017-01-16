@@ -425,6 +425,31 @@ http://stackoverflow.com/questions/8963693/how-to-create-json-string-in-javascri
 https://teamtreehouse.com/library/introduction-to-your-tools
 https://teamtreehouse.com/library/strings-and-variables
 
+Jan 13 (Day 45)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-iii
+
+Jan 14 (day 46)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-iv
+
+Jan 15 (day 47)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-auto
+
+// more on fCC portfolio
+http://stackoverflow.com/questions/7188768/how-to-remove-underline-from-a-name-on-hover
+http://stackoverflow.com/questions/27989672/why-is-link-underline-appearing-after-clicking-the-link
+http://www.rapidtables.com/web/color/gray-color.htm
+http://stackoverflow.com/questions/15685666/changing-image-sizes-proportionally-using-css
+
+Jan 16 (Day 48)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-margin-reset
+
+//in fCC helpRoom
+http://stackoverflow.com/questions/30595321/how-to-scale-image-to-fit-the-container
+http://stackoverflow.com/questions/25211090/how-to-auto-adjust-the-div-size-for-all-mobile-tablet-display-formats
+http://alvarotrigo.com/fullPage/#firstPage
+
+//continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
+
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
