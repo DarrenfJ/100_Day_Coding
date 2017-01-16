@@ -426,12 +426,17 @@ https://teamtreehouse.com/library/introduction-to-your-tools
 https://teamtreehouse.com/library/strings-and-variables
 
 Jan 13 (Day 45)
-https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-iii
+https://www.codecademy.com/en/courses/learn-html-css/lessons/content/exercises/margin-iii
 
-Jan 14 (day 46)
+//treehouse java for work:
+https://teamtreehouse.com/library/java-basics/getting-started-with-java/strings-variables-and-formatting
+https://teamtreehouse.com/library/receiving-input-2
+https://teamtreehouse.com/library/java-basics/getting-started-with-java/io
+
+Jan 14 (Day 46)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-iv
 
-Jan 15 (day 47)
+Jan 15 (Day 47)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-auto
 
 // more on fCC portfolio
@@ -447,6 +452,24 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padd
 http://stackoverflow.com/questions/30595321/how-to-scale-image-to-fit-the-container
 http://stackoverflow.com/questions/25211090/how-to-auto-adjust-the-div-size-for-all-mobile-tablet-display-formats
 http://alvarotrigo.com/fullPage/#firstPage
+
+//treehouse java for work:
+https://teamtreehouse.com/library/multiple-strings
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/multiple-format-strings
+https://teamtreehouse.com/library/errors-2
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/errors-2
+https://teamtreehouse.com/library/coding-the-prototype
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/fix-the-errors
+
+//for tribute Page fCC: http://codepen.io/DarrenfJ/full/jAxadd/
+http://www.colorcombos.com/gray-color-schemes.html
+http://www.colorcombos.com/color-schemes/12/ColorCombo12.html
+http://www.colorcombos.com/colors/003366
+http://www.colorcombos.com/colors/CCCC99
+&&
+http://www.colorcombos.com/color-schemes/36/ColorCombo36.html
+http://www.colorcombos.com/colors/669999
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
