@@ -453,6 +453,24 @@ http://stackoverflow.com/questions/30595321/how-to-scale-image-to-fit-the-contai
 http://stackoverflow.com/questions/25211090/how-to-auto-adjust-the-div-size-for-all-mobile-tablet-display-formats
 http://alvarotrigo.com/fullPage/#firstPage
 
+//treehouse java for work:
+https://teamtreehouse.com/library/multiple-strings
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/multiple-format-strings
+https://teamtreehouse.com/library/errors-2
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/errors-2
+https://teamtreehouse.com/library/coding-the-prototype
+https://teamtreehouse.com/library/java-basics/using-your-new-tools/fix-the-errors
+
+//for tribute Page fCC: http://codepen.io/DarrenfJ/full/jAxadd/
+http://www.colorcombos.com/gray-color-schemes.html
+http://www.colorcombos.com/color-schemes/12/ColorCombo12.html
+http://www.colorcombos.com/colors/003366
+http://www.colorcombos.com/colors/CCCC99
+&&
+http://www.colorcombos.com/color-schemes/36/ColorCombo36.html
+http://www.colorcombos.com/colors/669999
+
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
