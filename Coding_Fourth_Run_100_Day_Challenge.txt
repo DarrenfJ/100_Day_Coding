@@ -433,6 +433,27 @@ https://teamtreehouse.com/library/java-basics/getting-started-with-java/strings-
 https://teamtreehouse.com/library/receiving-input-2
 https://teamtreehouse.com/library/java-basics/getting-started-with-java/io
 
+Jan 14 (Day 46)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-iv
+
+Jan 15 (Day 47)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/margin-auto
+
+// more on fCC portfolio
+http://stackoverflow.com/questions/7188768/how-to-remove-underline-from-a-name-on-hover
+http://stackoverflow.com/questions/27989672/why-is-link-underline-appearing-after-clicking-the-link
+http://www.rapidtables.com/web/color/gray-color.htm
+http://stackoverflow.com/questions/15685666/changing-image-sizes-proportionally-using-css
+
+Jan 16 (Day 48)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/padding-margin-reset
+
+//in fCC helpRoom
+http://stackoverflow.com/questions/30595321/how-to-scale-image-to-fit-the-container
+http://stackoverflow.com/questions/25211090/how-to-auto-adjust-the-div-size-for-all-mobile-tablet-display-formats
+http://alvarotrigo.com/fullPage/#firstPage
+
+//continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
