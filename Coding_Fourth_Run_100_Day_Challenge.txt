@@ -470,6 +470,8 @@ http://www.colorcombos.com/colors/CCCC99
 http://www.colorcombos.com/color-schemes/36/ColorCombo36.html
 http://www.colorcombos.com/colors/669999
 
+Jan 17 (day 50)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/display
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
