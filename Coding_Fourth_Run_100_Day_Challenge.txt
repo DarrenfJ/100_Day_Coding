@@ -473,6 +473,9 @@ http://www.colorcombos.com/colors/669999
 Jan 17 (day 50)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/display
 
+Jan 18 (Day 51)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/visibility
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
