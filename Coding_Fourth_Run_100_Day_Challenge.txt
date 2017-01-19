@@ -479,6 +479,13 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/visi
 // lynda.com: IT - Network Administration: Service portfolio, pipeline, and catalog (from - ITIL Foundations)
 https://www.lynda.com/Network-Administration-tutorials/Service-portfolio-pipeline-catalog/184459/188291-4.html
 
+Jan 19 (Day 52)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/review-content
+https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exercises/why-change-model
+
+//for fCC helpGitter:
+http://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
