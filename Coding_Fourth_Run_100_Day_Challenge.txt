@@ -476,6 +476,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/disp
 Jan 18 (Day 51)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/visibility
 
+// lynda.com: IT - Network Administration: Service portfolio, pipeline, and catalog (from - ITIL Foundations)
+https://www.lynda.com/Network-Administration-tutorials/Service-portfolio-pipeline-catalog/184459/188291-4.html
+
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
