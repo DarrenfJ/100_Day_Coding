@@ -476,6 +476,13 @@ https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/disp
 Jan 18 (Day 51)
 https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/visibility
 
+Jan 19 (Day 52)
+https://www.codecademy.com/courses/learn-html-css/lessons/content/exercises/review-content
+https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exercises/why-change-model
+
+//for fCC helpGitter:
+http://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
