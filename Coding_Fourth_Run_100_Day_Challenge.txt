@@ -486,6 +486,13 @@ https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exerc
 //for fCC helpGitter:
 http://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
 
+//hackerrank challenges
+https://www.hackerrank.com/challenges/camelcase
+http://stackoverflow.com/questions/8334606/check-if-first-letter-of-word-is-a-capital-letter
+https://www.hackerrank.com/challenges/mars-exploration
+http://stackoverflow.com/questions/7033639/split-large-string-in-n-size-chunks-in-javascript
+https://www.hackerrank.com/challenges/equality-in-a-array <-- need to come back to this one
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
