@@ -496,6 +496,11 @@ https://www.hackerrank.com/challenges/equality-in-a-array <-- need to come back 
 Jan 20 (Day 53)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exercises/content-box
 
+// working on: https://www.hackerrank.com/challenges/equality-in-a-array <-- need to come back to this one
+http://stackoverflow.com/questions/1053843/get-the-element-with-the-highest-occurrence-in-an-array
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+http://stackoverflow.com/questions/1133770/how-do-i-convert-a-string-into-an-integer-in-javascript
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
