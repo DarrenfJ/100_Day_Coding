@@ -493,6 +493,9 @@ https://www.hackerrank.com/challenges/mars-exploration
 http://stackoverflow.com/questions/7033639/split-large-string-in-n-size-chunks-in-javascript
 https://www.hackerrank.com/challenges/equality-in-a-array <-- need to come back to this one
 
+Jan 20 (Day 53)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exercises/content-box
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
