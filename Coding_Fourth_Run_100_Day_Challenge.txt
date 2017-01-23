@@ -501,6 +501,38 @@ http://stackoverflow.com/questions/1053843/get-the-element-with-the-highest-occu
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 http://stackoverflow.com/questions/1133770/how-do-i-convert-a-string-into-an-integer-in-javascript
 
+Jan 21 (Day 54)
+https://www.codecademy.com/courses/learn-html-css/lessons/new-box-model/exercises/border-box
+https://www.codecademy.com/courses/learn-html-css/lessons/new-box-model/exercises/updated-box-model
+
+//test running the beta of the new fCC curriculum
+http://beta.freecodecamp.com/en/challenges/basic-css/change-the-color-of-text
+http://beta.freecodecamp.com/en/challenges/basic-css/use-css-selectors-to-style-elements
+http://beta.freecodecamp.com/en/challenges/basic-css/use-a-css-class-to-style-an-element
+http://beta.freecodecamp.com/en/challenges/basic-css/style-multiple-elements-with-a-css-class
+http://beta.freecodecamp.com/en/challenges/basic-css/change-the-font-size-of-an-element
+
+Jan 22 (Day 55)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/new-box-model/exercises/review-new-box-model
+https://www.codecademy.com/en/courses/learn-html-css/lessons/layout/exercises/page-layout
+
+//for fCC gitterHelp
+http://stackoverflow.com/questions/5765398/whats-the-best-way-to-convert-a-number-to-a-string-in-javascript
+
+//for fCC beta new curriculum
+http://beta.freecodecamp.com/en/challenges/basic-css/set-the-font-family-of-an-element
+http://beta.freecodecamp.com/en/challenges/basic-css/import-a-google-font
+
+Jan 23 (Day 56)
+https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/position
+
+//for fCC beta new curriculum
+http://beta.freecodecamp.com/en/challenges/basic-css/specify-how-fonts-should-degrade
+http://beta.freecodecamp.com/en/challenges/basic-css/size-your-images
+http://beta.freecodecamp.com/en/challenges/basic-css/add-borders-around-your-elements
+http://beta.freecodecamp.com/en/challenges/basic-css/add-rounded-corners-with-a-border-radius
+http://beta.freecodecamp.com/en/challenges/basic-css/make-circular-images-with-a-border-radius
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
