@@ -533,6 +533,13 @@ http://beta.freecodecamp.com/en/challenges/basic-css/add-borders-around-your-ele
 http://beta.freecodecamp.com/en/challenges/basic-css/add-rounded-corners-with-a-border-radius
 http://beta.freecodecamp.com/en/challenges/basic-css/make-circular-images-with-a-border-radius
 
+//treehouse:
+https://teamtreehouse.com/community/chchchchanges-changes-to-the-treehouse-navigation
+https://teamtreehouse.com/library/reviewing-our-feedback
+https://teamtreehouse.com/library/java-basics/perfecting-the-prototype/conditional-ints
+https://teamtreehouse.com/library/parsing-integers
+https://teamtreehouse.com/library/java-basics/perfecting-the-prototype/parsing-integers-2
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
