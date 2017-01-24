@@ -540,6 +540,14 @@ https://teamtreehouse.com/library/java-basics/perfecting-the-prototype/condition
 https://teamtreehouse.com/library/parsing-integers
 https://teamtreehouse.com/library/java-basics/perfecting-the-prototype/parsing-integers-2
 
+Jan 24 (Day 57)
+https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/position-relative
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/basic-css/give-a-background-color-to-a-div-element
+http://beta.freecodecamp.com/en/challenges/basic-css/set-the-id-of-an-element
+
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
