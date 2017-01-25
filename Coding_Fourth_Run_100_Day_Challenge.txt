@@ -559,6 +559,14 @@ https://www.lynda.com/Operating-Systems-tutorials/Do-unto-others/508618/555087-4
 Jan 25 (Day 58)
 https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/position-absolute
 
+//fCC beta
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-visual-balance-with-the-height-of-an-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-strong-tag-to-make-text-bold
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-u-tag-to-underline-text
+
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
