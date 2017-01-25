@@ -556,6 +556,9 @@ https://www.lynda.com/Operating-Systems-tutorials/Use-your-words/508618/555086-4
 //do unto other
 https://www.lynda.com/Operating-Systems-tutorials/Do-unto-others/508618/555087-4.html
 
+Jan 25 (Day 58)
+https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/position-absolute
+
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
