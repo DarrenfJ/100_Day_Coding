@@ -546,8 +546,15 @@ https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/posit
 //fCC beta:
 http://beta.freecodecamp.com/en/challenges/basic-css/give-a-background-color-to-a-div-element
 http://beta.freecodecamp.com/en/challenges/basic-css/set-the-id-of-an-element
+http://beta.freecodecamp.com/en/challenges/basic-css/use-an-id-attribute-to-style-an-element
+http://beta.freecodecamp.com/en/challenges/basic-css/adjusting-the-padding-of-an-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/introduction-to-the-applied-visual-design-challenges
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-visual-balance-using-the-textalign-property
 
-
+// from: IT Cloud Computing: Use your words (From: DevOps Fundamentals) lynda.com
+https://www.lynda.com/Operating-Systems-tutorials/Use-your-words/508618/555086-4.html
+//do unto other
+https://www.lynda.com/Operating-Systems-tutorials/Do-unto-others/508618/555087-4.html
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
