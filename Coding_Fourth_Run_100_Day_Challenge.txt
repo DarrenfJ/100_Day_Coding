@@ -566,6 +566,9 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-visual-b
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-strong-tag-to-make-text-bold
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-u-tag-to-underline-text
 
+Jan 26 (Day 59)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/layout/exercises/position-fixed
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
