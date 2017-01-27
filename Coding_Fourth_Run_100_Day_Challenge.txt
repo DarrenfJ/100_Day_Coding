@@ -581,6 +581,8 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-a-horizo
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-backgroundcolor-property-of-text
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-size-of-a-header-versus-a-paragraph-tag
 
+Jan 27 (day 60)
+https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/z-index
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
