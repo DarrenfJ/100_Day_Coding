@@ -593,6 +593,25 @@ https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/clear
 Jan 30 (Day 63)
 https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/review-layout
 
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/add-a-boxshadow-to-a-cardlike-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/decrease-the-opacity-of-an-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-texttransform-property-to-make-text-uppercase
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-a-google-font
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/set-the-fontsize-for-multiple-heading-elements
+
+Jan 31 (Day 64)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/why-images
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-width-height
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/set-the-fontweight-for-multiple-heading-elements
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/set-the-fontsize-of-paragraph-text
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/set-the-lineheight-of-paragraphs
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-color-of-an-anchor-tag
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag
+
+// next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
