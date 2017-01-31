@@ -569,7 +569,7 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-u-tag-t
 Jan 26 (Day 59)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/layout/exercises/position-fixed
 
-//treehouse coursesfor work.. from: https://teamtreehouse.com/library/unit-testing-in-java
+//treehouse courses for work.. from: https://teamtreehouse.com/library/unit-testing-in-java
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/introduction
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/defining-a-unit
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/how-we-define-units
@@ -592,6 +592,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/clear
 
 Jan 30 (Day 63)
 https://www.codecademy.com/courses/learn-html-css/lessons/layout/exercises/review-layout
+
+Jan 31 (Day 64)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/why-images
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-width-height
 
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
