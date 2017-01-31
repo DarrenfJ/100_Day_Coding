@@ -569,7 +569,7 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-u-tag-t
 Jan 26 (Day 59)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/layout/exercises/position-fixed
 
-//treehouse coursesfor work.. from: https://teamtreehouse.com/library/unit-testing-in-java
+//treehouse courses for work.. from: https://teamtreehouse.com/library/unit-testing-in-java
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/introduction
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/defining-a-unit
 https://teamtreehouse.com/library/unit-testing-in-java/why-test/how-we-define-units
