@@ -613,6 +613,8 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-hove
 Feb 1st (Day 65)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-width-height
 
+//played a bit with this: http://flexboxfroggy.com/
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
