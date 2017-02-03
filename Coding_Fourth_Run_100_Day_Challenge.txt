@@ -619,6 +619,26 @@ Feb 2nd (Day 66)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-align
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-images
 
+Feb 3rd (Day 67)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/background-repeat
+
+// for portfolio page
+http://stackoverflow.com/questions/10327231/position-div-entire-width-of-viewport-in-twitter-bootstrap
+http://stackoverflow.com/questions/16189917/make-divs-width-and-height-equal-to-viewport-with-javascript
+http://stackoverflow.com/questions/6693956/square-div-where-height-is-equal-to-viewport/6694821
+https://en.wikipedia.org/wiki/Viewport
+http://stackoverflow.com/questions/12829608/bootstrap-text-align-class
+http://v4-alpha.getbootstrap.com/components/buttons/#sizes
+https://www.w3.org/wiki/CSS_absolute_and_fixed_positioning
+http://stackoverflow.com/questions/7421775/css-i-want-a-div-to-be-on-top-of-everything#7421801
+http://stackoverflow.com/questions/19469495/css-slow-hover-effect
+http://stackoverflow.com/questions/16832334/stick-button-to-right-side-of-div
+https://www.sitepoint.com/creating-css-animations-using-move-js/
+https://css-tricks.com/almanac/selectors/l/link/
+
+// for work: automated testing
+http://www.seleniumhq.org/docs/01_introducing_selenium.jsp
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
