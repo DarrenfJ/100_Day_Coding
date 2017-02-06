@@ -639,6 +639,20 @@ https://css-tricks.com/almanac/selectors/l/link/
 // for work: automated testing
 http://www.seleniumhq.org/docs/01_introducing_selenium.jsp
 
+Feb 4th (Day 68)
+http://beta.freecodecamp.com/en/challenges/applied-responsive-web-design-projects/build-a-survey-form
+
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-position
+
+//for portfolio page
+http://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link
+http://stackoverflow.com/questions/15821278/how-to-make-a-html-page-to-show-content-from-another-url
+//go through this tutorial fro my contacts section:
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/My_first_HTML_form
+
+Feb 5th (Day 69)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-shorthand
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
