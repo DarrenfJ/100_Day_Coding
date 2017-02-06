@@ -653,7 +653,18 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/My_first_HTML_form
 Feb 5th (Day 69)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-shorthand
 
-// next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
+Feb 6th (Day 70)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-size
+
+// beta fCC:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-an-elements-relative-position
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/push-elements-left-or-right-with-the-float-property
+
+// next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
+
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
