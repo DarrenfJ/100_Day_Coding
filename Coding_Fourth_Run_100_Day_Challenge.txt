@@ -663,6 +663,10 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/lock-an-element
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/push-elements-left-or-right-with-the-float-property
 
+Feb 7 (Day 71)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-attachment
+
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
 
