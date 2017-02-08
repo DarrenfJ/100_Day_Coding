@@ -666,6 +666,24 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/push-elements-l
 Feb 7 (Day 71)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-attachment
 
+// for gitter and slack rooms, and bots
+https://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/
+https://www.edsurge.com/news/2016-03-04-could-slack-be-the-next-online-learning-platform
+http://fortune.com/2015/11/13/slack-media/
+https://hubot.github.com/
+
+Feb 8th (day 72)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/background-color
+
+// more on bots:
+http://www.theverge.com/2016/1/6/10718282/internet-bots-messaging-slack-facebook-m
+https://api.slack.com/bot-users
+https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.7e6kgztsa
+https://get.slack.help/hc/en-us/articles/217626558-Keep-up-with-what-s-important
+https://slackhq.com/the-inevitable-rise-of-the-bots-36d9993e7bf5#.b093pv4tz
+https://slackapi.github.io/hubot-slack/
+Getting Started with Hubot: https://youtu.be/A7fh6RIzGrw
+
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
