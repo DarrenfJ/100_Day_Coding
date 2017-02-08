@@ -684,6 +684,25 @@ https://slackhq.com/the-inevitable-rise-of-the-bots-36d9993e7bf5#.b093pv4tz
 https://slackapi.github.io/hubot-slack/
 Getting Started with Hubot: https://youtu.be/A7fh6RIzGrw
 
+// for fCC gitter help
+http://stackoverflow.com/questions/16443380/common-css-media-queries-break-points
+https://css-tricks.com/css-media-queries/
+http://stackoverflow.com/questions/18424798/twitter-bootstrap-3-how-to-use-media-queries
+
+// Slack help for OISE course - online learning
+https://get.slack.help/hc/en-us/articles/203950418-Composing-a-Post
+https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages
+https://get.slack.help/hc/en-us/articles/209774578-Formatting-for-Posts
+https://oiseteam.slack.com/apps/category/At0EFT6813-brilliant-bots
+https://github.com/sillygwailo/Slack-Twitter
+
+// for playing aroun with a webdesign:
+http://semantic-ui.com/introduction/advanced-usage.html
+https://css-tricks.com/when-using-important-is-the-right-choice/
+http://stackoverflow.com/questions/6637161/how-do-you-specify-alink-style-in-a-div-class-implementation
+http://www.lotripsum.com/
+https://css-tricks.com/centering-css-complete-guide/
+
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
