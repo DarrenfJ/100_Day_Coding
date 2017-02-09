@@ -696,12 +696,13 @@ https://get.slack.help/hc/en-us/articles/209774578-Formatting-for-Posts
 https://oiseteam.slack.com/apps/category/At0EFT6813-brilliant-bots
 https://github.com/sillygwailo/Slack-Twitter
 
-// for playing aroun with a webdesign:
+// for playing around with a webdesign:
 http://semantic-ui.com/introduction/advanced-usage.html
 https://css-tricks.com/when-using-important-is-the-right-choice/
 http://stackoverflow.com/questions/6637161/how-do-you-specify-alink-style-in-a-div-class-implementation
 http://www.lotripsum.com/
 https://css-tricks.com/centering-css-complete-guide/
+http://www.colorcombos.com/color-schemes/7626/ColorCombo7626.html
 
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
