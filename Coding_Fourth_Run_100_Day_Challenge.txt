@@ -703,6 +703,12 @@ http://stackoverflow.com/questions/6637161/how-do-you-specify-alink-style-in-a-d
 http://www.lotripsum.com/
 https://css-tricks.com/centering-css-complete-guide/
 http://www.colorcombos.com/color-schemes/7626/ColorCombo7626.html
+http://semantic-ui.com/elements/segment.html
+http://semantic-ui.com/elements/image.html
+
+Feb 9th (Day 73)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-vs-div-background
+
 
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
