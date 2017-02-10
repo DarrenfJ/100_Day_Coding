@@ -709,7 +709,16 @@ http://semantic-ui.com/elements/image.html
 Feb 9th (Day 73)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/img-vs-div-background
 
+// more for the improv website:
+http://stackoverflow.com/questions/42074702/semantic-ui-bottom-sidebar-with-always-visible-button
+http://stackoverflow.com/questions/21910566/attach-button-to-semantic-ui-sidebar
+http://stackoverflow.com/questions/5214893/right-align-an-image-using-css-html
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+http://stackoverflow.com/questions/10771481/css-background-image-fit-to-div
 
+// for slack:
+https://github.com/sillygwailo/Slack-Twitter
+https://my.slack.com/services/new
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
