@@ -720,6 +720,14 @@ http://stackoverflow.com/questions/10771481/css-background-image-fit-to-div
 https://github.com/sillygwailo/Slack-Twitter
 https://my.slack.com/services/new
 
+// evening work:
+https://css-tricks.com/the-how-and-why-of-clearing-floats/
+https://css-tricks.com/all-about-floats/
+
+Feb 10th (Day 74)
+https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/review-images
+
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
 
