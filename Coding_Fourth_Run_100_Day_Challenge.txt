@@ -720,6 +720,21 @@ http://stackoverflow.com/questions/10771481/css-background-image-fit-to-div
 https://github.com/sillygwailo/Slack-Twitter
 https://my.slack.com/services/new
 
+Feb 10 (Day 74)
+
+
+/// for CompTIA A++ course: https://www.cybrary.it/course/comptia-aplus/
+https://www.cybrary.it/video/anthony-harris/
+
+// more for Slack OISE course:
+https://medium.com/@julianmartinez/how-to-write-a-slack-bot-end-to-end-d6a8542c854b#.oefozjr5i
+http://readwrite.com/2014/09/23/heroku-for-beginners-app-hosting-101/
+https://www.wired.com/2012/12/github-bots/
+https://medium.com/@julianmartinez/how-to-write-a-slack-bot-with-python-code-examples-4ed354407b98#.rh15oypf1
+
+// for my CodePen:
+https://css-tricks.com/almanac/properties/o/opacity/
+
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
 
