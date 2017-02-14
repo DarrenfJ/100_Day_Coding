@@ -740,6 +740,11 @@ https://medium.com/@julianmartinez/how-to-write-a-slack-bot-with-python-code-exa
 https://css-tricks.com/almanac/properties/o/opacity/
 
 Feb 11 (Day 75)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/tables/exercises/why-tables
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/create-table
+
+Feb 12th (Day 76)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-rows
 
 
 // for Slack
