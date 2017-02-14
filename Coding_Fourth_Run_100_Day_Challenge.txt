@@ -746,9 +746,11 @@ https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/creat
 Feb 12th (Day 76)
 https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-rows
 
-
 // for Slack
 http://www.birdybot.com/
+
+Feb 14th (Day 78)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/background-color
 
 // next beta: http://beta.freecodecamp.com/en/challenges/applied-visual-design/change-the-position-of-overlapping-elements-with-the-zindex-property
 
