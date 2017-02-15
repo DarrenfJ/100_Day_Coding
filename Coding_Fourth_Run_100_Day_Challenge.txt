@@ -774,8 +774,22 @@ https://teamtreehouse.com/library/censoring-words-using-string-equality
 Feb 14th (Day 78)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/background-color
 
-// next beta: 
+Feb 15th (Day 79)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/adding-images/exercises/img-vs-div-background
+
+// for fCC beta:
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-hue-of-a-color
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/adjust-the-tone-of-a-color
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-a-gradual-css-linear-gradient
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image
+
+// for TreeHouse: Java for work
+https://teamtreehouse.com/library/java-basics/perfecting-the-prototype/string-equality
+
+To Do:
+// next beta: 
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
 
 // more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
 
