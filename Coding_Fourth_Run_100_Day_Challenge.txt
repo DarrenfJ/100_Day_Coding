@@ -797,6 +797,9 @@ https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercise
 What Should You Learn Next? – The Challenge Graph, a framework for understanding growth
 https://youtu.be/mUrrym5VR5g
 
+Feb 17th (Day 81)
+https://www.codecademy.com/en/courses/learn-html-css/lessons/tables/exercises/create-table
+
 To Do:
 // next beta: 
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
