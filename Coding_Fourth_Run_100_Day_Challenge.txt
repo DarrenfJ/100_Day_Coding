@@ -793,6 +793,10 @@ https://github.com/mccreath/isitup-for-slack/blob/master/docs/TUTORIAL.md
 Feb 16th (Day 80)
 https://www.codecademy.com/courses/learn-html-css/lessons/adding-images/exercises/review-images
 
+// from DevTip (I like to be reminded of the path forward): https://www.youtube.com/user/DevTipsForDesigners
+What Should You Learn Next? – The Challenge Graph, a framework for understanding growth
+https://youtu.be/mUrrym5VR5g
+
 To Do:
 // next beta: 
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
