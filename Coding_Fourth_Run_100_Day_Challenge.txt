@@ -800,6 +800,42 @@ https://youtu.be/mUrrym5VR5g
 Feb 17th (Day 81)
 https://www.codecademy.com/en/courses/learn-html-css/lessons/tables/exercises/create-table
 
+Feb 18th (Day 82)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-rows
+
+//other junk:
+http://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project
+http://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github
+
+Feb 19th (Day 83)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-data
+
+Feb 20th (Day 84)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-headings
+
+// ruby for selenium add on watir: https://watir.com/
+http://tryruby.org/levels/1/challenges/0
+to http://tryruby.org/levels/1/challenges/5
+http://tryruby.org/levels/2/challenges/1
+to http://tryruby.org/levels/2/challenges/7
+http://tryruby.org/levels/3/challenges/1
+to http://tryruby.org/levels/3/challenges/5
+http://tryruby.org/levels/4/challenges/1
+to http://tryruby.org/levels/4/challenges/5
+http://tryruby.org/levels/5/challenges/1
+to http://tryruby.org/levels/5/challenges/7
+http://tryruby.org/levels/6/challenges/1
+to http://tryruby.org/levels/6/challenges/6
+
+// more Ruby:
+https://www.ruby-lang.org/en/documentation/quickstart/
+https://www.ruby-lang.org/en/documentation/quickstart/2/
+
+Feb 21 (Day 85)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-borders
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/colspan
+
+
 To Do:
 // next beta: 
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
@@ -807,6 +843,8 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-tra
 // more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
 
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
+
+// next ruby rails: https://www.codeschool.com/courses/rails-for-zombies-redux
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
