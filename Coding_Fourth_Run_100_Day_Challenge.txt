@@ -852,6 +852,14 @@ https://www.ruby-lang.org/en/documentation/quickstart/4/
 // more more ruby: from https://rubymonk.com/
 https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects
 
+//more more more Ruby: from http://poignant.guide/
+http://poignant.guide/book/chapter-1.html
+http://poignant.guide/book/chapter-2.html
+
+// more ruby for Watir testing:
+http://ruby-doc.com/docs/ProgrammingRuby/html/roadmap.html
+// next: http://ruby-doc.com/docs/ProgrammingRuby/html/intro.html
+
 //
 To Do:
 
