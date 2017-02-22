@@ -829,12 +829,20 @@ to http://tryruby.org/levels/6/challenges/6
 
 // more Ruby:
 https://www.ruby-lang.org/en/documentation/quickstart/
-https://www.ruby-lang.org/en/documentation/quickstart/2/
 
 Feb 21 (Day 85)
 https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-borders
 https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/colspan
 
+// more ruby for Watir testing:
+http://ruby-doc.com/docs/ProgrammingRuby/html/preface.html
+
+// from DevTips re: learning
+"How Do You Learn Something Totally New?" #AskTravisAnything
+https://youtu.be/f5fxAja7aqk
+
+
+// Ruby to do: https://www.ruby-lang.org/en/documentation/quickstart/2/
 
 To Do:
 // next beta: 
