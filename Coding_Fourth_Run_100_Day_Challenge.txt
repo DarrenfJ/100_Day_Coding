@@ -841,10 +841,23 @@ http://ruby-doc.com/docs/ProgrammingRuby/html/preface.html
 "How Do You Learn Something Totally New?" #AskTravisAnything
 https://youtu.be/f5fxAja7aqk
 
+Feb 22 (Day 86)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/rowspan
 
-// Ruby to do: https://www.ruby-lang.org/en/documentation/quickstart/2/
+// more ruby:
+https://www.ruby-lang.org/en/documentation/quickstart/2/
+https://www.ruby-lang.org/en/documentation/quickstart/3/
+https://www.ruby-lang.org/en/documentation/quickstart/4/
 
+// more more ruby: from https://rubymonk.com/
+https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects
+
+//
 To Do:
+
+// Ruby to do: https://www.ruby-lang.org/en/documentation/
+// and: https://rubymonk.com/ and http://rubykoans.com/
+
 // next beta: 
 http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
 
