@@ -860,6 +860,19 @@ http://poignant.guide/book/chapter-2.html
 http://ruby-doc.com/docs/ProgrammingRuby/html/roadmap.html
 // next: http://ruby-doc.com/docs/ProgrammingRuby/html/intro.html
 
+Feb 23 (Day 87)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-body
+
+// finish:
+http://poignant.guide/book/chapter-3.html
+http://ruby-doc.com/docs/ProgrammingRuby/html/intro.html
+
+// more lynda.com for work - IT Network Administration: Understanding IP Addressing
+https://www.lynda.com/iP-tutorials/Understanding-IP-Addressing/184145-2.html
+https://www.lynda.com/iP-tutorials/How-configure-verify-IP-address/184145/187973-4.html
+http://trendblog.net/ever-wondered-use-192-168-x-x-ip-addresses-home/
+
+
 //
 To Do:
 
