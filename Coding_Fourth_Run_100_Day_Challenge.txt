@@ -875,6 +875,13 @@ http://trendblog.net/ever-wondered-use-192-168-x-x-ip-addresses-home/
 Feb 24 (day 88)
 https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-head
 
+// still on
+http://poignant.guide/book/chapter-3.html
+http://ruby-doc.com/docs/ProgrammingRuby/html/intro.html
+
+//more lynda.com for work - IT: Network Administration - Static vs. dynamic IP addressing (From: Understanding IP Addressing)
+https://www.lynda.com/iP-tutorials/Static-vs-dynamic-IP-addressing/184145/187974-4.html
+
 
 //
 To Do:
