@@ -916,8 +916,10 @@ https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/revie
 //new course: https://www.codecademy.com/learn/ruby
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/1?curriculum_id=5059f8619189a5000201fbcb
 
-
-
+// treehouse Ruby:
+https://teamtreehouse.com/library/ruby-basics/ruby-strings/string-creation
+https://teamtreehouse.com/library/ruby-basics/ruby-strings/whitespace
+https://teamtreehouse.com/library/whitespace-quiz
 
 //
 To Do:
