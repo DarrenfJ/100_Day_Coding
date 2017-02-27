@@ -882,6 +882,42 @@ http://ruby-doc.com/docs/ProgrammingRuby/html/intro.html
 //more lynda.com for work - IT: Network Administration - Static vs. dynamic IP addressing (From: Understanding IP Addressing)
 https://www.lynda.com/iP-tutorials/Static-vs-dynamic-IP-addressing/184145/187974-4.html
 
+// fCC about changes to the site:
+https://github.com/FreeCodeCamp/FreeCodeCamp/issues/9826 (cloud9 hosting replacement)
+
+// other junk:
+https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/
+
+Feb 25 (Day 89)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-footer
+
+// more ruby:
+finish: http://poignant.guide/book/chapter-3.html
+http://ruby-doc.com/docs/ProgrammingRuby/html/tut_classes.html
+
+// more more Ruby - from: https://teamtreehouse.com/library/ruby-basics
+https://teamtreehouse.com/library/ruby-basics/how-ruby-works/the-ruby-programming-language
+https://teamtreehouse.com/library/the-ruby-programming-language
+https://teamtreehouse.com/library/ruby-basics/how-ruby-works/hello-world
+https://teamtreehouse.com/library/ruby-syntax-quiz
+https://teamtreehouse.com/library/ruby-basics/how-ruby-works/setting-variables
+https://teamtreehouse.com/library/ruby-basics/how-ruby-works/input-and-output
+https://teamtreehouse.com/library/ruby-basics/how-ruby-works/input-and-output-2
+
+Feb 26 (Day 90)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/table-css
+
+// and Ruby
+https://teamtreehouse.com/library/what-are-strings
+
+Feb 27 (Day 91)
+https://www.codecademy.com/courses/learn-html-css/lessons/tables/exercises/review-html-tables
+
+//new course: https://www.codecademy.com/learn/ruby
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+
+
 
 //
 To Do:
