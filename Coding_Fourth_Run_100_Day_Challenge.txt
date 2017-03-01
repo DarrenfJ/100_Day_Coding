@@ -927,6 +927,12 @@ https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/2?curriculum_id=5059
 March 1 (Day 93)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/3?curriculum_id=5059f8619189a5000201fbcb
 
+// more ruby:
+https://teamtreehouse.com/library/ruby-basics/ruby-strings/string-methods
+https://teamtreehouse.com/library/ruby-basics/ruby-strings/string-methods-2
+https://teamtreehouse.com/library/ruby-basics/ruby-strings/string-documentation
+https://teamtreehouse.com/library/review-quiz-9
+
 //
 To Do:
 
