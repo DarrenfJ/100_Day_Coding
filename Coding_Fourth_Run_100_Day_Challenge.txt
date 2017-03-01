@@ -922,7 +922,10 @@ https://teamtreehouse.com/library/ruby-basics/ruby-strings/whitespace
 https://teamtreehouse.com/library/whitespace-quiz
 
 Feb 28 (Day 92)
-https://www.codecademy.com/en/courses/ruby-beginner-en-d1Ylq/0/2?curriculum_id=5059f8619189a5000201fbcb
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+March 1 (Day 93)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/3?curriculum_id=5059f8619189a5000201fbcb
 
 //
 To Do:
