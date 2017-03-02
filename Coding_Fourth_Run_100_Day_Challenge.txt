@@ -936,6 +936,9 @@ https://teamtreehouse.com/library/review-quiz-9
 March 2 (Day 94)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/4?curriculum_id=5059f8619189a5000201fbcb
 
+// for slack integration and bots.. and project scryNet
+Heroku Hitchhiker's Guide webinar
+
 //
 To Do:
 
