@@ -967,6 +967,17 @@ https://teamtreehouse.com/library/the-media-queries-solution
 March 6th (Day 98)
 https://www.codecademy.com/en/courses/ruby-beginner-en-d1Ylq/1/3?curriculum_id=5059f8619189a5000201fbcb
 
+// more Ruby:
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/ruby-numbers
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/create-a-number
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/different-kinds-of-numbers
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/creating-different-kinds-of-numbers
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/multiplication-and-division
+https://teamtreehouse.com/library/multiplication-and-division
+https://teamtreehouse.com/library/ruby-basics/ruby-numbers/practicing-with-numbers
+https://teamtreehouse.com/library/number-review
+
+
 To Do:
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
