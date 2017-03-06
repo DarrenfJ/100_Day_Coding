@@ -964,7 +964,9 @@ https://teamtreehouse.com/library/practice-media-queries
 https://teamtreehouse.com/library/lets-practice-media-queries
 https://teamtreehouse.com/library/the-media-queries-solution
 
-//
+March 6th (Day 98)
+https://www.codecademy.com/en/courses/ruby-beginner-en-d1Ylq/1/3?curriculum_id=5059f8619189a5000201fbcb
+
 To Do:
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
