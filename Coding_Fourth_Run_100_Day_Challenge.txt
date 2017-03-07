@@ -977,6 +977,13 @@ https://teamtreehouse.com/library/multiplication-and-division
 https://teamtreehouse.com/library/ruby-basics/ruby-numbers/practicing-with-numbers
 https://teamtreehouse.com/library/number-review
 
+March 7th (Day 99)
+https://www.codecademy.com/en/courses/ruby-beginner-en-d1Ylq/1/4?curriculum_id=5059f8619189a5000201fbcb
+
+// other study:
+http://stackoverflow.com/questions/42034/what-is-a-tuple-useful-for
+http://jtauber.com/blog/2006/04/15/python_tuples_are_not_just_constant_lists/
+
 
 To Do:
 
