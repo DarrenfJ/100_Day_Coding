@@ -987,6 +987,9 @@ http://jtauber.com/blog/2006/04/15/python_tuples_are_not_just_constant_lists/
 March 8 (Day 100!)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/1?curriculum_id=5059f8619189a5000201fbcb
 
+// for slack:
+http://daringfireball.net/linked/2015/11/05/markdown-strikethrough-slack
+
 To Do:
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
