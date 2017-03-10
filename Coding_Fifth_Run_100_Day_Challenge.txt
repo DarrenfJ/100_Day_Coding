@@ -3,6 +3,9 @@ Coding Fifth Run 100 Day Challenge
 March 9 (Day 1)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/2?curriculum_id=5059f8619189a5000201fbcb
 
+March 10 (Day 2)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/3?curriculum_id=5059f8619189a5000201fbcb
+
 To Do:
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
