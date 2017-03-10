@@ -984,12 +984,11 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-d1Ylq/1/4?curriculum_id=5
 http://stackoverflow.com/questions/42034/what-is-a-tuple-useful-for
 http://jtauber.com/blog/2006/04/15/python_tuples_are_not_just_constant_lists/
 
-March 8th (Day 100!)
-
+March 8 (Day 100!)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/1?curriculum_id=5059f8619189a5000201fbcb
 
 // for slack:
 http://daringfireball.net/linked/2015/11/05/markdown-strikethrough-slack
-
 
 To Do:
 
