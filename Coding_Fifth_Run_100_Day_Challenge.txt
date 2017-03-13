@@ -6,6 +6,30 @@ https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/2?curriculum_id=5059
 March 10 (Day 2)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/2/3?curriculum_id=5059f8619189a5000201fbcb
 
+March 11th (Day 3)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/3/1?curriculum_id=5059f8619189a5000201fbcb
+
+March 12th (Day 4)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/3/2?curriculum_id=5059f8619189a5000201fbcb
+
+March 13th (Day 5)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/3/3?curriculum_id=5059f8619189a5000201fbcb
+
+// some watch and code stuff I missed first pass:
+https://watchandcode.com/courses/60264/lectures/1972728
+https://watchandcode.com/courses/60264/lectures/900186
+https://watchandcode.com/courses/60264/lectures/903236
+
+//more lynda.com: IT Network Administration: Public and private IPv4 addresses (From: Understanding IP Addressing)
+https://www.lynda.com/iP-tutorials/Public-private-IPv4-addresses/184145/187975-4.html
+
+// trying to look over some fCC vids
+FreeCodeCamp - Math for Programmers
+https://www.youtube.com/playlist?list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47
+https://www.youtube.com/watch?v=G4AMHRcLtvM&list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47&index=1
+https://www.youtube.com/watch?v=5dw5_tpwshw&index=2&list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47
+
+
 To Do:
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
