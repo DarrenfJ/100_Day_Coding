@@ -29,6 +29,9 @@ https://www.youtube.com/playlist?list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47
 https://www.youtube.com/watch?v=G4AMHRcLtvM&list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47&index=1
 https://www.youtube.com/watch?v=5dw5_tpwshw&index=2&list=PLO5FxPaO7RAjIRodP5jUHCQeqh5zKWE47
 
+March 14 (day 6)
+https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/3/4?curriculum_id=5059f8619189a5000201fbcb
+
 
 To Do:
 
