@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=5dw5_tpwshw&index=2&list=PLO5FxPaO7RAjIRodP5jUHC
 March 14 (day 6)
 https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/3/4?curriculum_id=5059f8619189a5000201fbcb
 
+March 15 (Day 7)
+https://www.codecademy.com/courses/ruby-beginner-en-MxXx5/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+
 
 To Do:
 
