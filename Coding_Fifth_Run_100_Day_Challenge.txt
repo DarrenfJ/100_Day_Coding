@@ -36,12 +36,16 @@ March 15 (Day 7)
 https://www.codecademy.com/courses/ruby-beginner-en-MxXx5/0/1?curriculum_id=5059f8619189a5000201fbcb
 
 March 16 (day 8)
+https://www.codecademy.com/courses/ruby-beginner-en-MxXx5/0/2?curriculum_id=5059f8619189a5000201fbcb
 
 March 17 (Day 9)
 https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/3?curriculum_id=5059f8619189a5000201fbcb
 
 
+
 To Do:
+
+//some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
 // and: https://rubymonk.com/ and http://rubykoans.com/
