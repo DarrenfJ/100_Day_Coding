@@ -41,7 +41,55 @@ https://www.codecademy.com/courses/ruby-beginner-en-MxXx5/0/2?curriculum_id=5059
 March 17 (Day 9)
 https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/3?curriculum_id=5059f8619189a5000201fbcb
 
+March 18 (Day 10)
+https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/4?curriculum_id=5059f8619189a5000201fbcb
 
+March 19th (day 11)
+https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/5?curriculum_id=5059f8619189a5000201fbcb
+
+// more ruby for work - testing
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/methods-in-ruby
+https://teamtreehouse.com/library/methods-in-ruby
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-arguments
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-arguments-part-1
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-arguments-part-2
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-returns
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-returns-part-1
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/method-returns-part-2
+https://teamtreehouse.com/library/ruby-basics/ruby-methods/practice-makes-perfect
+// next one: https://teamtreehouse.com/library/ruby-operators-and-control-structures
+https://teamtreehouse.com/library/ruby-assignment-operators-2
+https://teamtreehouse.com/library/ruby-assignment-operators
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/assignment-operators
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/ruby-comparison-operators-equality-and-inequality
+https://teamtreehouse.com/library/equality-operators
+https://teamtreehouse.com/library/comparison-operators-greater-than-and-less-than
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/greater-than
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/less-than
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/ruby-comparison-operators-greater-and-less-than-or-equal-to
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/greater-than-or-equal-to
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-operators/less-than-or-equal-to
+// next
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/the-ruby-if-statement
+https://teamtreehouse.com/library/if-challenge
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/the-ruby-else-statement
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/else-challenge
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/the-ruby-elsif-statement
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/elsif-challenge
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/the-ruby-case-statement
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/ruby-control-structures/review-quiz
+// more
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/multiple-conditions-with-and
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/the-and-operator
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/the-or-operator
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/the-not-operator
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/the-not-operator-2
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/operator-precedence
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/operator-precedence-2
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/practice-time-operators-and-control-structures
+https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-operators/review-quiz
+
+// next course: https://teamtreehouse.com/library/ruby-collections
 
 To Do:
 
