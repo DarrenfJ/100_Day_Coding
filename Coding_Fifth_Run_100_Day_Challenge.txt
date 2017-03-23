@@ -119,7 +119,6 @@ https://www.codecademy.com/courses/ruby-beginner-en-NFCZ7/0/1?curriculum_id=5059
 //some JS follow-up
 https://watchandcode.com/courses/60264/lectures/2368421
 
-
 March 23rd (Day 15)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/2?curriculum_id=5059f8619189a5000201fbcb
 
