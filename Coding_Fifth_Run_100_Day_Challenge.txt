@@ -94,6 +94,18 @@ https://teamtreehouse.com/library/ruby-operators-and-control-structures/logical-
 March 20 (Day 12)
 https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/6?curriculum_id=5059f8619189a5000201fbcb
 
+//more network stuff...
+// IT - Network Administration: IPv4 addresses (From: Understanding IP Addressing)
+https://www.lynda.com/iP-tutorials/IPv4-addresses/184145/187976-4.html
+// Determining classes of IP addresses
+https://www.lynda.com/iP-tutorials/Determining-classes-IP-addresses/184145/187977-4.html
+// What DNS lookups do for you
+https://www.lynda.com/iP-tutorials/What-DNS-lookups-do-you/184145/187978-4.html
+
+// from IT - Network Administration: Introduction to Networking
+https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
+
+
 
 March 23rd (Day 15)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/2?curriculum_id=5059f8619189a5000201fbcb
@@ -101,6 +113,8 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/2?curriculum_id=5
 To Do:
 
 //some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
+
+// https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
 
 // Ruby to do: https://www.ruby-lang.org/en/documentation/
 // and: https://rubymonk.com/ and http://rubykoans.com/
