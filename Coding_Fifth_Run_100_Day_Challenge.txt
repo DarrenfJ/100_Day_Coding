@@ -105,6 +105,19 @@ https://www.lynda.com/iP-tutorials/What-DNS-lookups-do-you/184145/187978-4.html
 // from IT - Network Administration: Introduction to Networking
 https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
 
+March 21 (Day 13)
+https://www.codecademy.com/en/courses/ruby-beginner-en-MxXx5/0/7?curriculum_id=5059f8619189a5000201fbcb
+
+// Mock-ups training - Balsamiq: https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/overview
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3598084
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/1854662
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3598290
+
+March 22 (day 14)
+https://www.codecademy.com/courses/ruby-beginner-en-NFCZ7/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+//some JS follow-up
+https://watchandcode.com/courses/60264/lectures/2368421
 
 
 To Do:
