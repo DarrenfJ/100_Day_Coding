@@ -120,6 +120,9 @@ https://www.codecademy.com/courses/ruby-beginner-en-NFCZ7/0/1?curriculum_id=5059
 https://watchandcode.com/courses/60264/lectures/2368421
 
 
+March 23rd (Day 15)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/2?curriculum_id=5059f8619189a5000201fbcb
+
 To Do:
 
 //some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
