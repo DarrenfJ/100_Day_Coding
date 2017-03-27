@@ -125,6 +125,32 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/2?curriculum_id=5
 March 24 (Day 16)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/3?curriculum_id=5059f8619189a5000201fbcb
 
+// starting some of https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027
+// https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
+
+// working on the survey exercise from the fCC beta: http://beta.freecodecamp.com/en/challenges/applied-responsive-web-design-projects/build-a-survey-form
+
+// working example: http://codepen.io/freeCodeCamp/full/VPaoNP
+// http://codepen.io/DarrenfJ/full/dvXVWQ/
+https://www.bootstrapcdn.com/
+
+March 25 (day 17)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/4?curriculum_id=5059f8619189a5000201fbcb
+
+March 26th (Day 18)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/5?curriculum_id=5059f8619189a5000201fbcb
+
+// practice building forms for Survey Project
+//from: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form
+http://codepen.io/DarrenfJ/pen/YZjdXO
+https://www.smashingmagazine.com/tag/forms/
+https://www.smashingmagazine.com/2015/05/designing-for-explicit-choice/
+https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/getting-started/index.html
+http://stackoverflow.com/questions/12829608/bootstrap-text-align-class
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form
+
+March 27th (Day 19)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/1?curriculum_id=5059f8619189a5000201fbcb
 
 To Do:
 
