@@ -151,7 +151,6 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HT
 March 27th (Day 19)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/1?curriculum_id=5059f8619189a5000201fbcb
 
-<<<<<<< HEAD
 // for work: wireframes
 https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3809126?start=0
 https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3598298?start=0
@@ -162,13 +161,18 @@ https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/39937
 March 28th (Day 20)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/2?curriculum_id=5059f8619189a5000201fbcb
 
-// Lynda.com for networking:
+// Lynda.com for networking: IT Network Administration: Introduction to network topologies (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/Introduction-network-topologies/184144/187962-4.html?autoplay=true
+// IT Network Administration:How do I know which cable to use?
+https://www.lynda.com/Network-Administration-tutorials/How-do-I-know-which-cable-use/184144/187963-4.html?autoplay=true
 
-=======
-March 28th (Day 20)
-https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/2?curriculum_id=5059f8619189a5000201fbcb
+// for scrynet
+http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
 
->>>>>>> refs/remotes/origin/master
+// general computer schtuff:
+https://hbr.org/2017/02/a-brief-history-of-blockchain
+
+
 To Do:
 
 //some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
