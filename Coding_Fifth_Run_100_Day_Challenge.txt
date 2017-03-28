@@ -129,7 +129,6 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/0/3?curriculum_id=5
 // https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
 
 // working on the survey exercise from the fCC beta: http://beta.freecodecamp.com/en/challenges/applied-responsive-web-design-projects/build-a-survey-form
-
 // working example: http://codepen.io/freeCodeCamp/full/VPaoNP
 // http://codepen.io/DarrenfJ/full/dvXVWQ/
 https://www.bootstrapcdn.com/
@@ -151,6 +150,18 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HT
 
 March 27th (Day 19)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/1?curriculum_id=5059f8619189a5000201fbcb
+
+// for work: wireframes
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3809126?start=0
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3598298?start=0
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/1854676?start=0
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/1854660?start=0
+https://www.udemy.com/wireframing-with-balsamiq-mockups/learn/v4/t/lecture/3993718?start=0
+
+
+March 28th (Day 20)
+
+// Lynda.com for networking:
 
 To Do:
 
