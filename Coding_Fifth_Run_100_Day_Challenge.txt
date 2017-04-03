@@ -206,8 +206,18 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/3?curriculum_id=5
 April 2 (Day 25)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/4?curriculum_id=5059f8619189a5000201fbcb
 
-// Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
-add link
+April 3 (Day 26)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/1?curriculum_id=5059f8619189a5000201fbcb
+
+// Lynda.com for networking: IT Network Administration: Understanding collision domains (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/Understanding-collision-domains/184144/187966-4.html?autoplay=true
+// Lynda.com for networking: IT Network Administration: How switches move traffic (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/How-switches-move-traffic/184144/187967-4.html?autoplay=true
+// Lynda.com for networking: IT Network Administration: IPv4 message types (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/IPv4-message-types/184144/187968-4.html?autoplay=true
+// Lynda.com for networking: IT Network Administration: Troubleshooting switch media issues (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/Troubleshooting-switch-media-issues/184144/187969-4.html?autoplay=true
+
 
 [next day] (Day XX)
 // Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
