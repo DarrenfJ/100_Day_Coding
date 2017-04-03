@@ -172,6 +172,16 @@ http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and
 // general computer schtuff:
 https://hbr.org/2017/02/a-brief-history-of-blockchain
 
+March 30 (Day 22)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/1?curriculum_id=5059f8619189a5000201fbcb#
+
+April 1 (Day 24)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/3?curriculum_id=5059f8619189a5000201fbcb
+
+April 2 (Day 25)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/4?curriculum_id=5059f8619189a5000201fbcb
+
+ 
 
 To Do:
 
