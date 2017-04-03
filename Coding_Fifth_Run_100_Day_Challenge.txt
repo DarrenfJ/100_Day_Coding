@@ -172,8 +172,33 @@ http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and
 // general computer schtuff:
 https://hbr.org/2017/02/a-brief-history-of-blockchain
 
+March 29th (Day 21)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/1/3?curriculum_id=5059f8619189a5000201fbcb
+
+// Lynda.com for networking: IT Network Administration: The Open Systems Interconnection (OSI) model (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/Open-Systems-Interconnection-OSI-model/184144/187964-4.html?autoplay=true
+
+// other study from lynda.com - Developer: Programming Foundations Welcome (From: Getting Started with Technology: Think Like an Engineer)
+https://www.lynda.com/Software-Development-tutorials/Welcome/574696/584864-4.html
+What you should know: https://www.lynda.com/Software-Development-tutorials/What-you-should-know/574696/584865-4.html
+Coding languages: https://www.lynda.com/Software-Development-tutorials/Coding-languages/574696/584867-4.html
+Making a website: What it's like: https://www.lynda.com/Software-Development-tutorials/Making-website-What-its-like/574696/584868-4.html
+Making a mobile app: What it's like: https://www.lynda.com/Software-Development-tutorials/Making-mobile-app-What-its-like/574696/584869-4.html
+Why an analytics tool: https://www.lynda.com/Software-Development-tutorials/Why-analytics-tool/574696/584870-4.html
+
 March 30 (Day 22)
-https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/1?curriculum_id=5059f8619189a5000201fbcb#
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/1?curriculum_id=5059f8619189a5000201fbcb
+
+// Lynda.com for networking: IT Network Administration: The functionality of various networking devices (From: Introduction to Networking)
+https://www.lynda.com/Network-Administration-tutorials/functionality-various-networking-devices/184144/187965-4.html?autoplay=true
+
+// other study from lynda.com - Developer: Efficiency is key (From: Getting Started with Technology: Think Like an Engineer)
+https://www.lynda.com/Software-Development-tutorials/Efficiency-key/574696/584872-4.html
+Problem solving: Think systematically: https://www.lynda.com/Software-Development-tutorials/Problem-solving-Think-systematically/574696/584873-4.html
+Coding: Readable, shareable, and color-coded: https://www.lynda.com/Software-Development-tutorials/Coding-Readable-shareable-color-coded/574696/584874-4.html
+
+March 31 (Day 23)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/2?curriculum_id=5059f8619189a5000201fbcb#
 
 April 1 (Day 24)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/3?curriculum_id=5059f8619189a5000201fbcb
@@ -181,7 +206,14 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/3?curriculum_id=5
 April 2 (Day 25)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/4?curriculum_id=5059f8619189a5000201fbcb
 
- 
+// Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
+add link
+
+[next day] (Day XX)
+// Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
+add link
+
+// always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 To Do:
 
@@ -200,8 +232,6 @@ http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-tra
 //continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
 
 // next ruby rails: https://www.codeschool.com/courses/rails-for-zombies-redux
-
-// always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 
 ==========
 
