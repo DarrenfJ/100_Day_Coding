@@ -218,6 +218,25 @@ https://www.lynda.com/Network-Administration-tutorials/IPv4-message-types/184144
 // Lynda.com for networking: IT Network Administration: Troubleshooting switch media issues (From: Introduction to Networking)
 https://www.lynda.com/Network-Administration-tutorials/Troubleshooting-switch-media-issues/184144/187969-4.html?autoplay=true
 
+// other junk
+https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/foreword.md
+https://github.com/getify/You-Dont-Know-JS/blob/master/preface.md
+
+April 4th (Day 27)
+
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+https://www.lynda.com/Web-User-Experience-tutorials/Welcome/174989/367146-4.html
+//from Web - User Experience: What is this course about, and who is it for? (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/What-course-about-who/174989/367147-4.html
+//from Web - User Experience: What do we mean when we say "web design"? (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/What-do-we-mean-when-we-say-web-design/174989/367149-4.html
+//from Web - User Experience: Creating informational user experiences (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/Creating-informational-user-experiences/174989/367150-4.html
+//from Web - User Experience: A guide to the web design process (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/guide-web-design-process/174989/367151-4.html
+//from Web - User Experience: The only thing that matters (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/only-thing-matters/174989/367153-4.html
 
 [next day] (Day XX)
 // Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
