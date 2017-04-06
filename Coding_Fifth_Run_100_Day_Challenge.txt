@@ -223,7 +223,7 @@ https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/foreword
 https://github.com/getify/You-Dont-Know-JS/blob/master/preface.md
 
 April 4th (Day 27)
-
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/2?curriculum_id=5059f8619189a5000201fbcb
 
 // from lynda.com Web- User Experience: Mapping the Modern Web Design Process
 https://www.lynda.com/Web-User-Experience-tutorials/Welcome/174989/367146-4.html
@@ -245,6 +245,10 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/2/4?curriculum_id=5
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input
 
 // for scrynet review materializecss.com
+
+April 6th (day 29)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/3?curriculum_id=5059f8619189a5000201fbcb#
+
 
 [next day] (Day XX)
 // Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
