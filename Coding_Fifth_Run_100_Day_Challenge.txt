@@ -241,6 +241,9 @@ https://www.lynda.com/Web-User-Experience-tutorials/only-thing-matters/174989/36
 April 6th (day 29)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/3?curriculum_id=5059f8619189a5000201fbcb#
 
+April 7th (Day 30)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/4?curriculum_id=5059f8619189a5000201fbcb
+
 [next day] (Day XX)
 // Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
 add link
