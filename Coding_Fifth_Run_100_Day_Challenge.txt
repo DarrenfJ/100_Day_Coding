@@ -252,8 +252,18 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/3?curriculum_id=5
 April 7th (Day 30)
 https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/4?curriculum_id=5059f8619189a5000201fbcb
 
+// from lynda.com Developer - Virtualization Welcome (From: Learning Virtualization)
+https://www.lynda.com/Fusion-tutorials/Welcome/163066/175155-4.html
+// What you should know before watching this course
+https://www.lynda.com/Fusion-tutorials/What-you-should-know-before-watching-course/163066/175156-4.html
+// Overview of virtualization
+https://www.lynda.com/Fusion-tutorials/Overview-virtualization/163066/175158-4.html
+// Understanding different types of hypervisors
+https://www.lynda.com/Fusion-tutorials/Understanding-different-types-hypervisors/163066/175159-4.html
+
+
 [next day] (Day XX)
-// Lynda.com for networking: IT Network Administration: [add section info] (From: Introduction to Networking)
+// Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
 add link
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
