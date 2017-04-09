@@ -261,6 +261,11 @@ https://www.lynda.com/Fusion-tutorials/Overview-virtualization/163066/175158-4.h
 // Understanding different types of hypervisors
 https://www.lynda.com/Fusion-tutorials/Understanding-different-types-hypervisors/163066/175159-4.html
 
+April 8th (Day 31)
+https://www.codecademy.com/en/courses/ruby-beginner-en-NFCZ7/3/5?curriculum_id=5059f8619189a5000201fbcb
+
+April 9th (Day 32)
+https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/1?curriculum_id=5059f8619189a5000201fbcb
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
