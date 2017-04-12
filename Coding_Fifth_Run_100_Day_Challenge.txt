@@ -270,6 +270,12 @@ https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/1?curriculum_id=5059
 April 10th (Day 33)
 https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/2?curriculum_id=5059f8619189a5000201fbcb
 
+April 11th (Day 34)
+https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+APril 12th (Day 35)
+https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/4?curriculum_id=5059f8619189a5000201fbcb 
+
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
 add link
