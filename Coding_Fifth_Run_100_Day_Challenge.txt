@@ -276,6 +276,20 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/3?curriculum_id=5
 April 12th (Day 35)
 https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/4?curriculum_id=5059f8619189a5000201fbcb
 
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+
+//from Web - User Experience: All the things the end user does not care about (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/All-things-end-user-does-care-about/174989/367154-4.html
+// Asking what the web can do for you
+https://www.lynda.com/Web-User-Experience-tutorials/Asking-what-web-can-do-you/174989/367155-4.html
+
+and 
+
+/ from lynda.com Developer - Virtualization (From: Learning Virtualization)
+
+// Understanding the cloud
+https://www.lynda.com/Fusion-tutorials/Understanding-cloud/163066/175160-4.html
+
 April 13th (Day 36)
 https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/5?curriculum_id=5059f8619189a5000201fbcb 
 
