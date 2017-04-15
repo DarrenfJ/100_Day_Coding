@@ -11,12 +11,23 @@ https://www.lynda.com/Web-User-Experience-tutorials/Asking-what-web-can-do-you/1
 
 and 
 
-/ from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
 
 // Understanding the cloud
 https://www.lynda.com/Fusion-tutorials/Understanding-cloud/163066/175160-4.html
 
-April 13th
+April 15th
 
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Using virtualization for more efficient utilization of hardware
+https://www.lynda.com/Fusion-tutorials/Using-virtualization-more-efficient-utilization-hardware/163066/175162-4.html
+// Using virtualization to increase availability
+https://www.lynda.com/Fusion-tutorials/Using-virtualization-increase-availability/163066/175163-4.html
+
+and
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//from Web - User Experience: Roles and responsibilities (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/Roles-responsibilities/174989/367157-4.html
 
 
