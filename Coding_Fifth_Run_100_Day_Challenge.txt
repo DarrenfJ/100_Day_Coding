@@ -317,6 +317,8 @@ https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/1?curriculum_id=5059
 April 18th (Day 40)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/2?curriculum_id=5059f8619189a5000201fbcb
 
+April 19th (day 41)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/3?curriculum_id=5059f8619189a5000201fbcb
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
