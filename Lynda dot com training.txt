@@ -31,3 +31,43 @@ and
 https://www.lynda.com/Web-User-Experience-tutorials/Roles-responsibilities/174989/367157-4.html
 
 
+April 17th
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//from Web - User Experience: Establishing baseline documentation (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/Establishing-baseline-documentation/174989/367158-4.html
+// Version control
+https://www.lynda.com/Web-User-Experience-tutorials/Version-control/174989/367159-4.html
+// Content strategy
+https://www.lynda.com/Web-User-Experience-tutorials/Content-strategy/174989/367161-4.html
+// Establishing user personas
+https://www.lynda.com/Web-User-Experience-tutorials/Establishing-user-personas/174989/367162-4.html
+
+and
+
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Disaster recovery
+https://www.lynda.com/Fusion-tutorials/Disaster-recovery/163066/175164-4.html
+// Just-in-time delivery of resources
+https://www.lynda.com/Fusion-tutorials/Just-time-delivery-resources/163066/175165-4.html
+// Saving energy
+https://www.lynda.com/Fusion-tutorials/Saving-energy/163066/175166-4.html
+
+April 19th
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//Content audit
+https://www.lynda.com/Web-User-Experience-tutorials/Content-audit/174989/367163-4.html
+// Content modeling
+https://www.lynda.com/Web-User-Experience-tutorials/Content-modeling/174989/367164-4.html
+
+and 
+
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Increased complexity
+https://www.lynda.com/Fusion-tutorials/Increased-complexity/163066/175168-4.html
+// Expense
+https://www.lynda.com/Fusion-tutorials/Expense/163066/175169-4.html
+// Sprawl
+https://www.lynda.com/Fusion-tutorials/Sprawl/163066/175170-4.html
+
