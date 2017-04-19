@@ -277,7 +277,6 @@ April 12th (Day 35)
 https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/4?curriculum_id=5059f8619189a5000201fbcb
 
 // from lynda.com Web- User Experience: Mapping the Modern Web Design Process
-
 //from Web - User Experience: All the things the end user does not care about (From: Mapping the Modern Web Design Process)
 https://www.lynda.com/Web-User-Experience-tutorials/All-things-end-user-does-care-about/174989/367154-4.html
 // Asking what the web can do for you
@@ -285,13 +284,41 @@ https://www.lynda.com/Web-User-Experience-tutorials/Asking-what-web-can-do-you/1
 
 and 
 
-/ from lynda.com Developer - Virtualization (From: Learning Virtualization)
-
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
 // Understanding the cloud
 https://www.lynda.com/Fusion-tutorials/Understanding-cloud/163066/175160-4.html
 
 April 13th (Day 36)
 https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/5?curriculum_id=5059f8619189a5000201fbcb 
+
+April 14th
+https://www.codecademy.com/en/courses/ruby-beginner-en-JdNDe/0/6?curriculum_id=5059f8619189a5000201fbcb
+
+April 15th (Day 37)
+https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/7?curriculum_id=5059f8619189a5000201fbcb
+
+// for scrynet
+https://guides.github.com/features/wikis/
+https://guides.github.com/features/mastering-markdown/
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+// for fCC help room Q
+http://computer.howstuffworks.com/internet/basics/question180.htm
+
+// general computer interest
+https://www.howtogeek.com/141625/10-things-you-didnt-know-your-web-browser-could-do-yet/
+
+April 16th (Day 38)
+https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/8?curriculum_id=5059f8619189a5000201fbcb
+
+April 17th (Day 39)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+April 18th (Day 40)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+April 19th (day 41)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/3?curriculum_id=5059f8619189a5000201fbcb
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
