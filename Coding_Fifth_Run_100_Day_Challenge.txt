@@ -326,6 +326,13 @@ https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/4?curriculum_id=5059
 April 21 (day 44)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/1/1?curriculum_id=5059f8619189a5000201fbcb
 
+April 22 (Day 45)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/1/2?curriculum_id=5059f8619189a5000201fbcb
+
+April 23 (Day 46)
+https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/1/3?curriculum_id=5059f8619189a5000201fbcb
+
+
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
 add link
