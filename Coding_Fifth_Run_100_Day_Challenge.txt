@@ -308,17 +308,65 @@ http://computer.howstuffworks.com/internet/basics/question180.htm
 // general computer interest
 https://www.howtogeek.com/141625/10-things-you-didnt-know-your-web-browser-could-do-yet/
 
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Using virtualization for more efficient utilization of hardware
+https://www.lynda.com/Fusion-tutorials/Using-virtualization-more-efficient-utilization-hardware/163066/175162-4.html
+// Using virtualization to increase availability
+https://www.lynda.com/Fusion-tutorials/Using-virtualization-increase-availability/163066/175163-4.html
+
+and
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//from Web - User Experience: Roles and responsibilities (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/Roles-responsibilities/174989/367157-4.html
+
 April 16th (Day 39)
 https://www.codecademy.com/courses/ruby-beginner-en-JdNDe/0/8?curriculum_id=5059f8619189a5000201fbcb
 
 April 17th (Day 40)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/1?curriculum_id=5059f8619189a5000201fbcb
 
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//from Web - User Experience: Establishing baseline documentation (From: Mapping the Modern Web Design Process)
+https://www.lynda.com/Web-User-Experience-tutorials/Establishing-baseline-documentation/174989/367158-4.html
+// Version control
+https://www.lynda.com/Web-User-Experience-tutorials/Version-control/174989/367159-4.html
+// Content strategy
+https://www.lynda.com/Web-User-Experience-tutorials/Content-strategy/174989/367161-4.html
+// Establishing user personas
+https://www.lynda.com/Web-User-Experience-tutorials/Establishing-user-personas/174989/367162-4.html
+
+and
+
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Disaster recovery
+https://www.lynda.com/Fusion-tutorials/Disaster-recovery/163066/175164-4.html
+// Just-in-time delivery of resources
+https://www.lynda.com/Fusion-tutorials/Just-time-delivery-resources/163066/175165-4.html
+// Saving energy
+https://www.lynda.com/Fusion-tutorials/Saving-energy/163066/175166-4.html
+
 April 18th (day 41)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/2?curriculum_id=5059f8619189a5000201fbcb
 
 April 19th (day 42)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+// from lynda.com Web- User Experience: Mapping the Modern Web Design Process
+//Content audit
+https://www.lynda.com/Web-User-Experience-tutorials/Content-audit/174989/367163-4.html
+// Content modeling
+https://www.lynda.com/Web-User-Experience-tutorials/Content-modeling/174989/367164-4.html
+
+and 
+
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Increased complexity
+https://www.lynda.com/Fusion-tutorials/Increased-complexity/163066/175168-4.html
+// Expense
+https://www.lynda.com/Fusion-tutorials/Expense/163066/175169-4.html
+// Sprawl
+https://www.lynda.com/Fusion-tutorials/Sprawl/163066/175170-4.html
 
 April 20th (Day 43)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/0/4?curriculum_id=5059f8619189a5000201fbcb
@@ -334,6 +382,37 @@ https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/1/3?curriculum_id=5059
 
 April 24 (Day 47)
 https://www.codecademy.com/courses/ruby-beginner-en-XYcN1/2/1?curriculum_id=5059f8619189a5000201fbcb
+
+// lynda.com Virtualizing desktop computers
+https://www.lynda.com/Fusion-tutorials/Virtualizing-desktop-computers/163066/175172-4.html
+
+//Saas course is getting retired.. finish it up
+// from: https://teamtreehouse.com/tracks/web-design
+// and https://teamtreehouse.com/library/sass-basics-retired
+//have to rewatch some of them..
+
+https://teamtreehouse.com/library/what-is-sass
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/what-is-sass
+https://teamtreehouse.com/library/installing-and-using-sass-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/installing-and-using-sass
+https://teamtreehouse.com/library/nesting-selectors-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/nesting-selectors
+
+April 25th (Day 48)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/2?curriculum_id=5059f8619189a5000201fbcb
+
+April 26 (day 49)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/3?curriculum_id=5059f8619189a5000201fbcb
+
+April 25th
+https://teamtreehouse.com/library/advanced-nesting-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/advanced-nesting
+
+New ones now:
+https://teamtreehouse.com/library/defining-variables-2
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/defining-variables
+https://teamtreehouse.com/library/introducing-mixins-3
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/introducing-mixins
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
