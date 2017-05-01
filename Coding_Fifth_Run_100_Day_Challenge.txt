@@ -401,18 +401,35 @@ https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/
 April 25th (Day 48)
 https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/2?curriculum_id=5059f8619189a5000201fbcb
 
-April 26 (day 49)
-https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/3?curriculum_id=5059f8619189a5000201fbcb
-
-April 25th
+//Saas course is getting retired.. finish it up
+// from: https://teamtreehouse.com/tracks/web-design
+// and https://teamtreehouse.com/library/sass-basics-retired
 https://teamtreehouse.com/library/advanced-nesting-2
 https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/advanced-nesting
 
-New ones now:
+//New ones now:
 https://teamtreehouse.com/library/defining-variables-2
 https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/defining-variables
 https://teamtreehouse.com/library/introducing-mixins-3
 https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/introducing-mixins
+
+April 26 (day 49)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/3?curriculum_id=5059f8619189a5000201fbcb
+
+April 27 (day 50)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/4?curriculum_id=5059f8619189a5000201fbcb
+
+April 28 (Day 51)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/5?curriculum_id=5059f8619189a5000201fbcb
+
+April 29th (Day 52)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/6?curriculum_id=5059f8619189a5000201fbcb
+
+April 30th (day 53)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/1?curriculum_id=5059f8619189a5000201fbcb
+
+May 1st (day 54)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/2?curriculum_id=5059f8619189a5000201fbcb
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)

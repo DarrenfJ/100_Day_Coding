@@ -1,0 +1,48 @@
+Saas course is getting retired.. finish it up
+
+// from: https://teamtreehouse.com/tracks/web-design
+
+// and https://teamtreehouse.com/library/sass-basics-retired
+
+have to rewatch some of them..
+
+April 24th
+https://teamtreehouse.com/library/what-is-sass
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/what-is-sass
+https://teamtreehouse.com/library/installing-and-using-sass-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/installing-and-using-sass
+https://teamtreehouse.com/library/nesting-selectors-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/nesting-selectors
+
+April 25th
+https://teamtreehouse.com/library/advanced-nesting-2
+https://teamtreehouse.com/library/sass-basics-retired/getting-started-with-sass/advanced-nesting
+
+New ones now:
+https://teamtreehouse.com/library/defining-variables-2
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/defining-variables
+https://teamtreehouse.com/library/introducing-mixins-3
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/introducing-mixins
+
+April 26th 
+https://teamtreehouse.com/library/the-power-of-mixins-2
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/the-power-of-mixins
+https://teamtreehouse.com/library/extending-selectors-2
+https://teamtreehouse.com/library/sass-basics-retired/variables-mixins-and-extending-selectors/extending-selectors
+
+April 27th
+https://teamtreehouse.com/library/creating-a-color-palette
+https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-sass/creating-a-color-palette
+https://teamtreehouse.com/library/importing-files-2
+https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-sass/importing-files
+https://teamtreehouse.com/library/working-with-sass-libraries-2
+
+April 30th
+https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-sass/working-with-sass-libraries
+https://teamtreehouse.com/library/sass-functions-2
+https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-sass/sass-functions
+
+
+
+
+

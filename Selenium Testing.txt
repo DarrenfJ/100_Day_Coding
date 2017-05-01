@@ -1,0 +1,13 @@
+Selenium Testing
+
+Web: Web Development- Advanced Selenium: Testing Tools
+https://www.lynda.com/Selenium-tutorials/Mastering-Selenium-Testing-Tools/521207-2.html
+
+//The course overview
+https://www.lynda.com/Selenium-tutorials/course-overview/521207/533021-4.html
+//Selenium tools suite
+https://www.lynda.com/Selenium-tutorials/Selenium-tools-suite/521207/533022-4.html
+//Preparing your environment
+https://www.lynda.com/Selenium-tutorials/Preparing-your-environment/521207/533023-4.html
+
+

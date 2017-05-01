@@ -1,0 +1,12 @@
+Java to study for the Selenium course
+
+April 27th
+//from: http://www.tutorialspoint.com/java/
+// and: https://www.learnjavaonline.org/
+https://www.learnjavaonline.org/en/Hello%2C_World%21
+https://www.learnjavaonline.org/en/Variables_and_Types
+https://www.learnjavaonline.org/en/Conditionals
+
+April 28th
+https://www.learnjavaonline.org/en/Arrays
+https://www.learnjavaonline.org/en/Loops
