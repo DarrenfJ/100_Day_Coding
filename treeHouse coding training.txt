@@ -42,6 +42,43 @@ https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-
 https://teamtreehouse.com/library/sass-functions-2
 https://teamtreehouse.com/library/sass-basics-retired/speeding-up-workflow-with-sass/sass-functions
 
+May 1st
+https://teamtreehouse.com/library/debugging-sass
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/debugging-sass
+https://teamtreehouse.com/library/working-with-media-queries-2
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/working-with-media-queries
+https://teamtreehouse.com/library/interpolation-and-ifelse-loops
+
+May 2nd
+https://teamtreehouse.com/library/creating-loops-with-for-and-each-2
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/creating-loops-with-for-and-each
+
+May 4th
+https://teamtreehouse.com/library/advanced-mixin-arguments-2
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/advanced-mixin-arguments
+
+May 5th
+rewatch for the challenge:
+https://teamtreehouse.com/library/working-with-media-queries-2
+// to do:
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/working-with-media-queries
+//rewatch:
+https://teamtreehouse.com/library/interpolation-and-ifelse-loops
+// to do:
+https://teamtreehouse.com/library/sass-basics-retired/advanced-sass-concepts/interpolating-and-ifelse
+
+May 8th
+as a follow-up to Sass and a prep for further CSS
+from: https://teamtreehouse.com/library/css-layout-basics
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/what-to-expect
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/css-reset-with-normalize
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/creating-a-layout-wrapper
+
+May 11th
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/why-vertical-margins-collapse
+
+May 15th
+
 
 
 
