@@ -428,8 +428,91 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/2/6?curriculum_id=5
 April 30th (day 53)
 https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/1?curriculum_id=5059f8619189a5000201fbcb
 
-May 1st (day 54)
+May 1st (Day 54)
 https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/2?curriculum_id=5059f8619189a5000201fbcb
+
+/from DevTips:
+SASS or LESS? What should you use?
+https://youtu.be/lJclQekSfSM
+
+May 2nd (Day 55)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/3?curriculum_id=5059f8619189a5000201fbcb
+
+May 3rd (Day 56)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/4?curriculum_id=5059f8619189a5000201fbcb
+
+// from the fCC beta
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-xaxis
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-yaxis
+
+// from: DevTips youtube - How I use SASS
+https://youtu.be/1XmUUa_pWw8
+
+May 4th (Day 57)
+https://www.codecademy.com/en/courses/ruby-beginner-en-XYcN1/3/5?curriculum_id=5059f8619189a5000201fbcb
+
+// more beta: mmm that's good beta-sauce
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-a-graphic-using-css
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-a-more-complex-shape-using-css-and-html
+
+May 5th (day 58)
+https://www.codecademy.com/courses/ruby-beginner-en-mzrZ6/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+// more beta:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button
+
+May 6th (day 59)
+https://www.codecademy.com/courses/ruby-beginner-en-mzrZ6/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+May 7th (Day 60)
+https://www.codecademy.com/en/courses/ruby-beginner-en-mzrZ6/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+May 8th (Day 61)
+https://www.codecademy.com/en/courses/ruby-beginner-en-mzrZ6/0/4?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/modify-fill-mode-of-an-animation
+
+May 9th (Day 62)
+https://www.codecademy.com/en/courses/ruby-beginner-en-mzrZ6/0/5?curriculum_id=5059f8619189a5000201fbcb
+
+May 10th (Day 63)
+https://www.codecademy.com/en/courses/ruby-beginner-en-mzrZ6/0/6?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-movement-using-css-animation
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/introduction-to-the-data-visualization-with-d3-challenges
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/add-document-elements-with-d3
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/select-a-group-of-elements-with-d3
+
+May 11th (day 64)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/work-with-data-in-d3
+
+May 12th (day 65)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/work-with-dynamic-data-in-d3
+
+May 13th (Day 66)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+// fCC beta:
+http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/add-inline-styling-to-elements
+
+May 14th (Day 67)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/4?curriculum_id=5059f8619189a5000201fbcb
+
+May 15 (Day 68)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/5?curriculum_id=5059f8619189a5000201fbcb
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
@@ -447,7 +530,7 @@ To Do:
 // and: https://rubymonk.com/ and http://rubykoans.com/
 
 // next beta: 
-http://beta.freecodecamp.com/en/challenges/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
+[insert next beta]
 
 // more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
 

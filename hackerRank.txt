@@ -1,0 +1,35 @@
+// from hackerRank May 2017
+
+May 9th
+https://www.hackerrank.com/challenges/birthday-cake-candles
+https://www.hackerrank.com/challenges/apple-and-orange
+
+working on this one: https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+
+May 10th
+https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+https://www.hackerrank.com/challenges/the-birthday-bar
+
+May 11th
+
+working on this one: https://www.hackerrank.com/challenges/migratory-birds
+http://stackoverflow.com/questions/251402/create-an-empty-object-in-javascript-with-or-new-object#252110
+
+May 12th
+
+working on this one: https://www.hackerrank.com/challenges/migratory-birds
+
+https://www.hackerrank.com/challenges/grading
+
+May 13th
+https://www.hackerrank.com/challenges/bon-appetit
+https://www.hackerrank.com/challenges/counting-valleys
+https://www.hackerrank.com/challenges/electronics-shop
+https://www.hackerrank.com/challenges/cats-and-a-mouse
+
+working on this one: 
+https://www.hackerrank.com/challenges/magic-square-forming
+
+May 14th
+working on:
+https://www.hackerrank.com/challenges/picking-numbers
