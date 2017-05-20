@@ -78,8 +78,20 @@ May 11th
 https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/why-vertical-margins-collapse
 
 May 15th
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/centering-page-content-and-creating-a-fullwidth-header
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/layout-wrapper-challenge
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/using-a-mobile-first-approach
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/creating-a-sticky-footer
+https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout/getting-started-with-css-layout-review
 
+May 16th
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/positioning-elements-sidebyside-with-inline-display
 
+May 18th
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/using-inlineblock-to-set-width-height-top-and-bottom-margin-and-padding
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/removing-gaps-between-inline-and-inlineblock-elements
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/css-display-modes-challenge
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/the-column-layout-challenge
 
 
 
