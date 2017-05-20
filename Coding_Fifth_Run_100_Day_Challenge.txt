@@ -514,6 +514,23 @@ https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/4?curriculum_id=5059
 May 15 (Day 68)
 https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/5?curriculum_id=5059f8619189a5000201fbcb
 
+May 16th (day 69)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/1?curriculum_id=5059f8619189a5000201fbcb
+
+May 17 (day 70)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/2?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/es6/introduction-to-the-es6-challenges
+http://beta.freecodecamp.com/en/challenges/es6/mutate-an-array-declared-with-const
+
+May 18th (day 71)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/3?curriculum_id=5059f8619189a5000201fbcb
+
+May 19th (day 72)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/4?curriculum_id=5059f8619189a5000201fbcb
+
+
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
 add link
