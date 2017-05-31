@@ -77,3 +77,43 @@ May 5th
 // from lynda.com Web- User Experience: Mapping the Modern Web Design Process
 //Creating content priority hierarchies
 https://www.lynda.com/Web-User-Experience-tutorials/Creating-content-priority-hierarchies/174989/367165-4.html
+
+May 20th
+// from lynda.com Developer - Virtualization (From: Learning Virtualization)
+// Virtualizing desktop computers
+https://www.lynda.com/Fusion-tutorials/Virtualizing-desktop-computers/163066/175172-4.html
+// Running a specific program
+https://www.lynda.com/Fusion-tutorials/Running-specific-program/163066/175173-4.html
+// Setting up test and development environments
+https://www.lynda.com/Fusion-tutorials/Setting-up-test-development-environments/163066/175174-4.html
+// Designing a private cloud
+https://www.lynda.com/Fusion-tutorials/Designing-private-cloud/163066/175175-4.html
+// Utilizing a public cloud
+https://www.lynda.com/Fusion-tutorials/Utilizing-public-cloud/163066/175176-4.html
+
+May 21st
+// Choosing the best solution for you
+https://www.lynda.com/Fusion-tutorials/Choosing-best-solution-you/163066/175177-4.html
+// Understanding virtual CPU
+https://www.lynda.com/Fusion-tutorials/Understanding-virtual-CPU/163066/175179-4.html
+// Understanding virtual memory
+https://www.lynda.com/Fusion-tutorials/Understanding-virtual-memory/163066/175180-4.html
+// Understanding virtual storage
+https://www.lynda.com/Fusion-tutorials/Understanding-virtual-storage/163066/175181-4.html
+// Understanding virtual networking
+https://www.lynda.com/Fusion-tutorials/Understanding-virtual-networking/163066/175182-4.html
+// Understanding virtual graphic processing
+https://www.lynda.com/Fusion-tutorials/Understanding-virtual-graphic-processing/163066/175183-4.html
+// Installing Hyper-V
+https://www.lynda.com/Fusion-tutorials/Installing-Hyper-V/163066/175185-4.html
+
+
+
+
+
+
+
+
+
+
+

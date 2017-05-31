@@ -1,0 +1,9 @@
+ITIL Vids Lynda dot com
+
+May 30th
+//Prioritization
+https://www.lynda.com/Network-Administration-tutorials/Prioritization/184459/188292-4.html
+//Summary: Key principles, models, concepts
+https://www.lynda.com/Network-Administration-tutorials/Summary-Key-principles-models-concepts/184459/188293-4.html
+//Service Strategy: Goal, scope, processes, and key concepts
+https://www.lynda.com/Network-Administration-tutorials/Service-Strategy-Goal-scope-processes-key-concepts/184459/188295-4.html
