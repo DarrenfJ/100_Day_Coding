@@ -1,5 +1,7 @@
 Selenium Testing
 
+April 27th ish:
+
 Web: Web Development- Advanced Selenium: Testing Tools
 https://www.lynda.com/Selenium-tutorials/Mastering-Selenium-Testing-Tools/521207-2.html
 
@@ -9,5 +11,40 @@ https://www.lynda.com/Selenium-tutorials/course-overview/521207/533021-4.html
 https://www.lynda.com/Selenium-tutorials/Selenium-tools-suite/521207/533022-4.html
 //Preparing your environment
 https://www.lynda.com/Selenium-tutorials/Preparing-your-environment/521207/533023-4.html
+
+May 25th
+rewatch:
+//Preparing your environment
+https://www.lynda.com/Selenium-tutorials/Preparing-your-environment/521207/533023-4.html
+new:
+//Inspecting the web elements
+https://www.lynda.com/Selenium-tutorials/Inspecting-web-elements/521207/533024-4.html
+//a quick introduction to Selenium IDE
+https://www.lynda.com/Selenium-tutorials/quick-introduction-Selenium-IDE/521207/533026-4.html
+//Putting the Selenium IDE to use
+https://www.lynda.com/Selenium-tutorials/Putting-Selenium-IDE-use/521207/533027-4.html
+
+May 26th
+//Getting to know the Selenium IDE better
+https://www.lynda.com/Selenium-tutorials/Getting-know-Selenium-IDE-better/521207/533028-4.html
+
+May 29th
+//Introducing Webdriver
+https://www.lynda.com/Selenium-tutorials/Introducing-WebDriver/521207/533030-4.html
+//Implementing our first example
+https://www.lynda.com/Selenium-tutorials/Implementing-our-first-example/521207/533031-4.html
+//WebDriver capabilities
+https://www.lynda.com/Selenium-tutorials/WebDriver-capabilities/521207/533032-4.html
+
+May 30th
+//the WebDriver API
+https://www.lynda.com/Selenium-tutorials/WebDriver-API/521207/533033-4.html
+//Locators
+https://www.lynda.com/Selenium-tutorials/Locators/521207/533034-4.html
+//WebElement
+https://www.lynda.com/Selenium-tutorials/WebElement/521207/533035-4.html
+//Page Objects
+https://www.lynda.com/Selenium-tutorials/Page-Objects/521207/533036-4.html
+
 
 

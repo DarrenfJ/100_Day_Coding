@@ -530,10 +530,56 @@ https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/3?curriculum_id=5059
 May 19th (day 72)
 https://www.codecademy.com/courses/ruby-beginner-en-F3loB/1/4?curriculum_id=5059f8619189a5000201fbcb
 
+May 20th (day 73)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/2/1?curriculum_id=5059f8619189a5000201fbcb
+
+May 21st (day 74)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/2/2?curriculum_id=5059f8619189a5000201fbcb
+
+May 22 (Day 75)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/2/3?curriculum_id=5059f8619189a5000201fbcb
+
+May 23 (Day 76)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/2/4?curriculum_id=5059f8619189a5000201fbcb
+
+May 24th (Day 77)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/3/1?curriculum_id=5059f8619189a5000201fbcb
+
+May 25th (Day 78)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/3/2?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/es6/explore-problems-with-the-var-keyword
+http://beta.freecodecamp.com/en/challenges/es6/compare-scopes-of-the-var-and-let-keywords
+http://beta.freecodecamp.com/en/challenges/es6/declare-a-readonly-variable-with-the-const-keyword
+http://beta.freecodecamp.com/en/challenges/es6/mutate-an-array-declared-with-const
+http://beta.freecodecamp.com/en/challenges/es6/use-arrow-functions-to-write-concise-anonymous-functions
+
+May 26th (Day 79)
+https://www.codecademy.com/courses/ruby-beginner-en-F3loB/3/3?curriculum_id=5059f8619189a5000201fbcb
+
+May 27 (day 80)
+https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+May 28 (day 81)
+https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+May 29th (day 82)
+https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+//fCC beta:
+http://beta.freecodecamp.com/en/challenges/managing-packages-with-npm/introduction-to-the-managing-packages-with-npm-challenges
+http://beta.freecodecamp.com/en/challenges/managing-packages-with-npm/introduction-to-the-managing-packages-with-npm-challenges
+
+May 30th (day 83)
+https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/4?curriculum_id=5059f8619189a5000201fbcb
+
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
 add link
+
+// next beta: http://beta.freecodecamp.com/en/challenges/es6/write-arrow-functions-with-parameters
 
 // always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
 

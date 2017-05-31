@@ -93,5 +93,8 @@ https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-
 https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/css-display-modes-challenge
 https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/the-column-layout-challenge
 
-
+May 20th
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/the-column-layout-challenge-solution
+https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes/css-display-modes
+https://teamtreehouse.com/library/css-layout-basics/page-layout-with-the-float-property/how-floats-work
 
