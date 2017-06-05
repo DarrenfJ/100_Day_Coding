@@ -1,0 +1,21 @@
+Hack reactor prep
+
+http://prep.hackreactor.com/courses/enrolled/118569
+
+June 3rd
+http://prep.hackreactor.com/courses/118569/lectures/1732206
+http://prep.hackreactor.com/courses/118569/lectures/1732210
+// recommends starting Codecademy javascript: https://www.codecademy.com/learn/javascript
+// competed it a while ago but suggests the new Codecaemy course (replacing it summer 2017)
+// https://www.codecademy.com/learn/learn-javascript
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/intro
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/types
+
+June 4th
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/console
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/math-operators
+
+June 5th
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/math-operators-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/random
+

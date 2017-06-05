@@ -574,6 +574,28 @@ http://beta.freecodecamp.com/en/challenges/managing-packages-with-npm/introducti
 May 30th (day 83)
 https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/4?curriculum_id=5059f8619189a5000201fbcb
 
+May 31 (Day 84)
+https://www.codecademy.com/courses/ruby-beginner-en-693PD/0/5?curriculum_id=5059f8619189a5000201fbcb
+
+June 1st (Day 85)
+https://www.codecademy.com/en/courses/ruby-beginner-en-693PD/0/6?curriculum_id=5059f8619189a5000201fbcb
+
+June 2nd (Day 86)
+https://www.codecademy.com/en/courses/ruby-beginner-en-693PD/0/7?curriculum_id=5059f8619189a5000201fbcb
+
+June 3rd (Day 87)
+https://www.codecademy.com/en/courses/ruby-beginner-en-693PD/0/8?curriculum_id=5059f8619189a5000201fbcb
+
+June 4th (Day 88)
+https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+June 5th (Day 89)
+https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+
+//do one watch and code [insert link]
+
+//do one hacker prep [insert link] <-- have started it in it's own list
 
 [next day] (Day XX)
 // Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
