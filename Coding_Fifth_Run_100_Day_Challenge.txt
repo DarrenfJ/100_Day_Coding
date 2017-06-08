@@ -592,6 +592,15 @@ https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/0/1?curriculum_id=5059
 June 5th (Day 89)
 https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/0/2?curriculum_id=5059f8619189a5000201fbcb
 
+more beta
+
+June 6th
+http://beta.freecodecamp.com/en/challenges/applied-accessibility/introduction-to-the-applied-accessibility-challenges
+http://beta.freecodecamp.com/en/challenges/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility
+http://beta.freecodecamp.com/en/challenges/applied-accessibility/know-when-alt-text-should-be-left-blank
+http://beta.freecodecamp.com/en/challenges/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content
+http://beta.freecodecamp.com/en/challenges/applied-accessibility/jump-straight-to-the-content-using-the-main-element
+
 
 //do one watch and code [insert link]
 
