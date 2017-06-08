@@ -19,3 +19,26 @@ June 5th
 https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/math-operators-ii
 https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/random
 
+June 6th
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/comments
+https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/review-types-operators
+https://www.codecademy.com/en/courses/learn-javascript/lessons/variables/exercises/variables
+https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/create-a-variable
+https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/create-a-variable-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/change-a-variable
+https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/string-interpolation
+https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/review-variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
