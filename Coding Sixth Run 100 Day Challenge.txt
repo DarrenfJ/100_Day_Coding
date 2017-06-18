@@ -1,0 +1,83 @@
+Coding Sixth Run 100 Day Challenge
+
+June 17th (Day1!)
+https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/3/3?curriculum_id=5059f8619189a5000201fbcb
+
+June 18th (Day 2)
+https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/3/4?curriculum_id=5059f8619189a5000201fbcb
+
+
+
+
+=========
+
+Some lists of stuff to go over again:
+
+//do one watch and code [insert link]
+
+//do one hacker prep [insert link] <-- have started it in it's own list
+
+[next day] (Day XX)
+// Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
+add link
+
+// next beta: http://beta.freecodecamp.com/en/challenges/es6/write-arrow-functions-with-parameters
+
+// always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
+
+To Do:
+
+//some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
+
+// https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
+
+// Ruby to do: https://www.ruby-lang.org/en/documentation/
+// and: https://rubymonk.com/ and http://rubykoans.com/
+
+// next beta: 
+[insert next beta]
+
+// more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
+
+//continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
+
+// next ruby rails: https://www.codeschool.com/courses/rails-for-zombies-redux
+
+==========
+
+// to do: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+// codecademy react course do!
+
+// want to redo the git and regex in Code School
+
+Brought over from other Coding..
+
+XXXX
+
+Stuff still to watch
+
+GitHub
+
+Everything I Wish I Knew When I Started Using GitHub
+https://youtu.be/KDUtjZHIx44
+
+DevTips
+
+start from the back and watch forward: https://www.youtube.com/user/DevTipsForDesigners/videos?sort=da&flow=grid&view=0
+
+Still to watch this
+
+C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 1 of 13
+https://www.youtube.com/watch?v=UIUlFQH4Cvo
+
+// need to reread: https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.rbfrbo33f
+// https://auth0.com/ and https://help.github.com/articles/connecting-with-third-party-applications/
+
+Further Study:
+
+http://materializecss.com/
+
+http://eloquentjavascript.net/10_modules.html
+
+
