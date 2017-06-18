@@ -29,6 +29,18 @@ https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/
 https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/string-interpolation
 https://www.codecademy.com/courses/learn-javascript/lessons/variables/exercises/review-variables
 
+// did I do something somewhere else?
+control-flow?
+
+June 15th
+// 1st might have been done already: https://www.codecademy.com/en/courses/learn-javascript/lessons/functions/exercises/intro-to-functions
+https://www.codecademy.com/en/courses/learn-javascript/lessons/functions/exercises/functions
+https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/parameters
+
+June 17th
+https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/parameters-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/return
+
 
 
 
