@@ -1,12 +1,25 @@
 Coding Sixth Run 100 Day Challenge
 
-June 17th (Day1!)
+June 17th (Day 1!)
 https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/3/3?curriculum_id=5059f8619189a5000201fbcb
 
 June 18th (Day 2)
 https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/3/4?curriculum_id=5059f8619189a5000201fbcb
 
+June 19th (day 3)
+https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/4/1?curriculum_id=5059f8619189a5000201fbcb
 
+June 20th (day 4)
+https://www.codecademy.com/en/courses/ruby-beginner-en-ET4bU/4/2?curriculum_id=5059f8619189a5000201fbcb
+
+June 21st (day 5)
+https://www.codecademy.com/en/courses/ruby-beginner-en-ET4bU/4/3?curriculum_id=5059f8619189a5000201fbcb
+
+June 22nd (day 6)
+https://www.codecademy.com/en/courses/ruby-beginner-en-ET4bU/4/4?curriculum_id=5059f8619189a5000201fbcb
+
+June 23 (Day 7)
+https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/1?curriculum_id=5059f8619189a5000201fbcb
 
 
 =========

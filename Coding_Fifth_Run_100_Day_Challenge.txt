@@ -619,6 +619,23 @@ https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/1/3?curriculum_id=5059
 June 11th (Day 95)
 https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/1/4?curriculum_id=5059f8619189a5000201fbcb
 
+HackerRank
+
+// from: https://www.hackerrank.com/domains/sql/select
+https://www.hackerrank.com/challenges/revising-the-select-query
+https://www.hackerrank.com/challenges/revising-the-select-query-2
+
+Codecademy for hack reactor boot camp
+// part of this: http://prep.hackreactor.com/courses/118569/lectures/1732210
+https://www.codecademy.com/en/courses/learn-javascript/lessons/control-flow/exercises/control-flow-intro?
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/if-else-statements
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/comparison-operators
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/comparison-operators-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/else-if
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/logical-operators
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/switch
+https://www.codecademy.com/courses/learn-javascript/lessons/control-flow/exercises/review-control-flow
+
 June 12th (day 96)
 https://www.codecademy.com/courses/ruby-beginner-en-ET4bU/2/1?curriculum_id=5059f8619189a5000201fbcb
 
