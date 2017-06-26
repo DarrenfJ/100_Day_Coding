@@ -41,6 +41,12 @@ June 17th
 https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/parameters-ii
 https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/return
 
+June 25th
+https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/return-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/review-functions
+
+// next: https://www.codecademy.com/en/courses/learn-javascript/lessons/scope/exercises/global-scope
+
 
 
 
