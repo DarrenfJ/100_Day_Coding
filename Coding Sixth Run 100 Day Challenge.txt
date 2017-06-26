@@ -21,6 +21,36 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-ET4bU/4/4?curriculum_id=5
 June 23 (Day 7)
 https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/1?curriculum_id=5059f8619189a5000201fbcb
 
+June 24th (day 8)
+https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+June 25th (day 9)
+https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+// some medium articles in fCC (easy Sunday reading)
+https://blog.mindorks.com/software-engineering-101-for-front-end-developers-a99fda87c6bc
+https://medium.freecodecamp.com/i-burned-my-first-start-up-to-the-ground-here-are-some-hard-lessons-learned-ecf17c642534
+https://medium.freecodecamp.com/the-freecodecamp-alumni-network-a-homegrown-mentorship-network-for-fcc-alumni-529e4531c34f
+https://medium.com/@debwatkins2/tales-of-a-middle-aged-hacker-web-dev-community-2af0fd356e41
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+https://medium.com/swlh/why-i-left-the-best-job-in-the-world-3689a5a4649a
+https://medium.freecodecamp.com/why-do-so-few-people-major-in-computer-science-6c2c08272405
+http://danwang.co/why-so-few-computer-science-majors/
+
+// from: https://medium.freecodecamp.com/the-most-promising-breakthroughs-from-google-i-o-2017-40d3accd42
+THIS IS THE STORY OF AN IDEA - Google I/O 2017 Intro - Animation: https://youtu.be/cXtbWJsbvzk
+
+// for fCC projects: https://www.freecodecamp.com/challenges/build-a-random-quote-machine
+Random Quote Generator -- Free Code Camp -- Introduction: https://youtu.be/pjhMFuPnGS0
+Random Quote Generator -- Free Code Camp -- Setting Up: https://youtu.be/WBI12gmpGPE
+Random Quote Generator -- Free Code Camp -- Marking Up with HTML: https://youtu.be/0sfb1TETjfo
+
+June 26th (day 10th)
+// con't: Random Quote Generator -- Free Code Camp -- Marking Up with HTML: https://youtu.be/0sfb1TETjfo
+
+https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/4?curriculum_id=5059f8619189a5000201fbcb
+
+
 
 =========
 
