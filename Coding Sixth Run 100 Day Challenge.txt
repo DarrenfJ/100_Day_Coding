@@ -82,6 +82,10 @@ https://www.codecademy.com/en/courses/ruby-beginner-en-Qn7Qw/0/4?curriculum_id=5
 July 2nd (Day 16)
 https://www.codecademy.com/en/courses/ruby-beginner-en-Qn7Qw/0/5?curriculum_id=5059f8619189a5000201fbcb
 
+//trying to create a virtual OS machine
+http://lifehacker.com/5938332/how-to-run-mac-os-x-on-any-windows-pc-using-virtualbox
+http://www.macbreaker.com/2013/01/iatkos-ml2-mountain-lion-virtualbox.html
+
 
 =========
 
