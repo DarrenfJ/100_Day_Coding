@@ -50,6 +50,37 @@ June 26th (day 10th)
 
 https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/4?curriculum_id=5059f8619189a5000201fbcb
 
+// the programmer's oath stuff: https://medium.freecodecamp.com/the-programmers-oath-db782efd958b
+The Programmers Oath - Promise #1 (w/ Uncle Bob): https://youtu.be/36NgPu9OyRM
+The Programmers Oath - Promise #2 (w/ Uncle Bob): https://youtu.be/zTQ-KZB69Y0
+The Programmers Oath - Promise #3 (w/ Uncle Bob): https://youtu.be/sNWCmdDlmSQ
+The Programmers Oath - Promise #4 (w/ Uncle Bob): https://youtu.be/WCYlSn3PtRI
+The Programmers Oath - Promise #5 (w/ Uncle Bob): https://youtu.be/qEeYlLmrHOc
+The Programmers Oath - Promise #6 (w/ Uncle Bob): https://youtu.be/WQMku1-fDYo
+The Programmers Oath - Promise #7 (w/ Uncle Bob): https://youtu.be/3sU_zcebQwI
+The Programmers Oath - Promise #8 (w/ Uncle Bob): https://youtu.be/yr3RWhUBA-s
+The Programmers Oath - Promise #9 (w/ Uncle Bob): https://youtu.be/INNvxAV8AQU
+
+June 27th (day 11)
+https://www.codecademy.com/courses/ruby-beginner-en-nOho7/0/5?curriculum_id=5059f8619189a5000201fbcb
+
+//more on fCC project
+Random Quote Generator -- Free Code Camp -- Styling with CSS: https://youtu.be/61KLWNx9EHc
+
+June 28th (day 12)
+https://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb
+
+June 29th (day 13)
+https://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/2?curriculum_id=5059f8619189a5000201fbcb
+
+June 30th (Day 14)
+https://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/3?curriculum_id=5059f8619189a5000201fbcb
+
+July 1st (day 15)
+https://www.codecademy.com/en/courses/ruby-beginner-en-Qn7Qw/0/4?curriculum_id=5059f8619189a5000201fbcb
+
+July 2nd (Day 16)
+https://www.codecademy.com/en/courses/ruby-beginner-en-Qn7Qw/0/5?curriculum_id=5059f8619189a5000201fbcb
 
 
 =========

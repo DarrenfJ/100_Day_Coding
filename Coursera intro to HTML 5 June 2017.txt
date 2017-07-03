@@ -1,0 +1,20 @@
+Coursera intro to HTML 5
+
+Coursera: Introduction to HTML 5 (University of Michigan)
+
+https://www.coursera.org/learn/html/home/welcome
+
+June 30th
+https://www.coursera.org/learn/html/supplement/LCz7Z/syllabus
+
+July 1st
+https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5
+// free book: http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/
+https://milnepublishing.geneseo.edu/themissinglink/part/section-1/
+https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-1-brief-history-of-the-internet/
+
+July 2nd
+https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-4-network-basics/
+
+
+
