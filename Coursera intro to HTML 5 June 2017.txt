@@ -1,5 +1,7 @@
 Coursera intro to HTML 5
 
+2017
+
 Coursera: Introduction to HTML 5 (University of Michigan)
 
 https://www.coursera.org/learn/html/home/welcome
@@ -9,12 +11,33 @@ https://www.coursera.org/learn/html/supplement/LCz7Z/syllabus
 
 July 1st
 https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5
+// part of: https://www.coursera.org/learn/html/supplement/MbPkP/required-materials
 // free book: http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/
 https://milnepublishing.geneseo.edu/themissinglink/part/section-1/
 https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-1-brief-history-of-the-internet/
 
 July 2nd
 https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-4-network-basics/
+
+July 3rd
+https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-7-markup-languages/
+https://milnepublishing.geneseo.edu/themissinglink/chapter/chapter-8-creating-html-files/
+// marked complete: https://www.coursera.org/learn/html/supplement/MbPkP/required-materials
+https://www.coursera.org/learn/html/supplement/y3zp2/optional-resources
+https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html
+
+July 24th
+https://www.coursera.org/learn/html/lecture/5syEt/01-03-how-it-works-the-magic-of-page-requests
+https://www.coursera.org/learn/html/supplement/JKADk/browsers
+https://www.coursera.org/learn/html/lecture/rPIuh/01-04-looking-at-your-browser-options
+
+to do: https://www.coursera.org/learn/html/lecture/wsxd5/01-05-editors-how-to-use-an-editor-to-create-an-html-file
+
+
+// still to do vids are long https://www.coursera.org/learn/html/supplement/oYYws/optional-the-browser-wars
+https://www.youtube.com/watch?v=VANORrzKX50
+// and https://www.coursera.org/learn/html/supplement/rszMA/optional-the-origins-of-mosaic
+https://youtu.be/-c8iWUh3Sv4
 
 
 

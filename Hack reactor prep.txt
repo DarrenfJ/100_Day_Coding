@@ -1,4 +1,4 @@
-Hack reactor prep
+Hack reactor prep 2017
 
 http://prep.hackreactor.com/courses/enrolled/118569
 
@@ -45,7 +45,104 @@ June 25th
 https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/return-ii
 https://www.codecademy.com/courses/learn-javascript/lessons/functions/exercises/review-functions
 
-// next: https://www.codecademy.com/en/courses/learn-javascript/lessons/scope/exercises/global-scope
+July 4th
+https://www.codecademy.com/en/courses/learn-javascript/lessons/scope/exercises/global-scope
+
+July 5th
+https://www.codecademy.com/courses/learn-javascript/lessons/scope/exercises/functional-scope
+
+July 6th
+https://www.codecademy.com/courses/learn-javascript/lessons/scope/exercises/scoping
+
+July 8th
+https://www.codecademy.com/courses/learn-javascript/lessons/scope/exercises/review-scope
+// next: https://www.codecademy.com/en/courses/learn-javascript/lessons/arrays/exercises/arrays
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/create-an-array
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/property-access
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/array-length
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/push
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/pop
+https://www.codecademy.com/courses/learn-javascript/lessons/arrays/exercises/review-arrays
+
+July 20th
+https://www.codecademy.com/en/courses/learn-javascript/lessons/loops/exercises/loops
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/manual-loop
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/for-loop
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/for-loop-ii
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/for-loops-iii
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/while
+https://www.codecademy.com/courses/learn-javascript/lessons/loops/exercises/review-loops
+
+July 25th
+https://www.codecademy.com/en/courses/learn-javascript/lessons/javascript-dom/exercises/javascript-with-html-css
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/link-javascript
+
+July 26th
+// Note hack Reactor prep course just switched from saying Codecademy is prereq to Udacity
+// https://www.udacity.com/course/intro-to-javascript--ud803
+// from: http://prep.hackreactor.com/courses/118569/lectures/1732210
+
+// so to finish off the codecademy path:
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/document-object-model
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/jquery
+
+// so to start Udacity course:
+Intro to JavaScript
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/921085c8-9e58-4c26-a729-f1406b49b504
+History of JavaScript
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/949b6d0e-9354-48af-8695-71cdfc8da96e
+The JavaScript Console
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/05cbaf59-8485-40a3-9bdc-d8e1aadc9e42
+
+July 27th
+Developer tools on different browsers
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/74478058180923
+console.log
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/70143306-a72c-4983-827a-3fb3af787977
+JavaScript demo
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/0f5b4af1-c639-4cf1-85e7-933f31ad823a
+Lesson 1 Summary
+https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/e4c262e3-ff1c-451b-b455-562d76d22efb
+
+Lesson 2: Data Types & Variables
+Intro To Data Types
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761
+Numbers
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/204ca302-0e26-4c18-8d55-553779f13db3
+Comments
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/6a4bec50-7caf-4b8b-9685-a4e24346cda0
+Quiz: First Expression (2-1)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/0ea84522-b154-482c-a51f-c8d13e8dce63
+
+// more on Codecademy JS course
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/jquery-selectors
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/hide
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/fade-in
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/click
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/show
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/toggle
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/toggle-class
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/this
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/next
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/text
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/slide-toggle
+https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exercises/review-jquery
+
+// next: done JS course
+
+July 28th 
+
+Udacity course
+// from Lesson 2: Data Types & Variables
+Strings
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/a7e05a9a-b9af-40c9-b917-541c93ebf414
+String Concatenation
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/d9bc6507-bacd-42ba-b289-bfd2146eff1c
+Variables
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/d38fbf76-c43a-47dd-b031-b20397d6c283
+Quiz: Converting Temperatures (2-2)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5f0a00eb-e0c7-4b3f-a24d-400cad12176e
+
 
 
 
