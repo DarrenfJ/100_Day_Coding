@@ -131,7 +131,6 @@ https://www.codecademy.com/courses/learn-javascript/lessons/javascript-dom/exerc
 // next: done JS course
 
 July 28th 
-
 Udacity course
 // from Lesson 2: Data Types & Variables
 Strings
@@ -143,6 +142,72 @@ https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2e
 Quiz: Converting Temperatures (2-2)
 https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5f0a00eb-e0c7-4b3f-a24d-400cad12176e
 
+July 30th
+// from Lesson 2: Data Types & Variables
+String Index
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/397a5635-43bd-42d1-b181-179b2c902f67
+Escaping Strings
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/d8adc140-b9ae-4f24-9aa3-63abe7bdb586
+Comparing Strings
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/3c9feefc-71f8-4d03-97a2-97f9386a53fb
+Quiz: Favorite Food (2-3)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/57b2d4f9-c79a-45dd-898f-ac62440d882b
+Quiz: String Equality for All (2-4)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/1094e5d1-4986-42e5-9777-fa43d269ec81
+Quiz: All Tied Up (2-5)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5a82b56c-8c1e-40e4-acc9-cc396fbfb439
+Quiz: Yosa Buson (2-6)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/69fa04db-4a01-443b-89f5-e60626379ef9
+
+August 1st
+// from Lesson 2: Data Types & Variables
+Booleans
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/de395b73-8bbc-4d13-85bb-9d3f75141ecd
+Quiz: Facebook Post (2-7)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/071e3541-983b-4dae-9f60-cb89d362b640
+Null, Undefined, and NaN
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/cc46fa63-4710-45f8-9f88-dfa778cfb6d3
+Equality
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/94506cb0-bfd1-433e-9f33-7455bea885ed
+Quiz: Semicolons! (2-8)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/2c5e7a00-fdb9-4617-828f-5c870da31636
+Quiz: What's my Name? (2-9)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/bbd404b6-2d49-4c9c-9606-e0bc5ca1e224
+Quiz: Out to Dinner (2-10)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/fd9cb0be-5118-4855-ac43-d37a34be8709
+Quiz: Mad Libs (2-11)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/03beabe9-bc85-4fab-9af2-909321e8e416
+Quiz: One Awesome Message (2-12)
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/3c43abc9-d9c6-4e55-bceb-08b119fff788
+Lesson 2 Summary
+https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/cf3fff7a-8989-4d81-9801-c7b478ac1e2a
+
+//Lesson 3: Conditionals
+Intro to Conditionals
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726
+
+August 4th
+Quiz: Flowcharts (3-1)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/5884611b-3df7-46f8-9ab7-1dcae8a88e5c
+Flowchart to Code
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/a9ef2a0f-b68f-4c96-8528-5556927aba63
+If...Else Statements
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/a904313c-0809-4f55-a1c6-cf7b7fcc49ef
+Else If Statements
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/7dc61050-9f21-4152-99c0-31a14da2b3b3
+
+August 11th
+Quiz: Even or Odd (3-2)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/d390c340-06f3-4da3-a202-3d38d671408b
+Quiz: Musical Groups (3-3)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/5c45f6af-cdbb-42a9-a0a1-8e33dedbfc9f
+Quiz: Murder Mystery (3-4)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/e09da5d2-9a1e-40d6-bcd2-99078b263110
+More Complex Problems
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/32773e9f-6361-4fca-8350-5b3d429ff14a
+
+// next: Logical Operators
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/778d7735-d08c-4992-a3f1-493c109a1394
 
 
 

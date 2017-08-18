@@ -220,6 +220,220 @@ July 29 (day 43)
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/short-circuit-evaluation
 https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/the-right-tool-for-the-job
 
+//some vids for fCC projects
+What are RESTful APIs? -- Free Code Camp -- Timestamp Microservice
+https://youtu.be/bhhFY5De26U?list=PLtwj5TTsiP7vmgyFgrwtPxybl9KzMvmAB
+Timestamp Microservice Overview -- Free Code Camp
+https://youtu.be/pjqwdYRP940?list=PLtwj5TTsiP7vmgyFgrwtPxybl9KzMvmAB
+Node & NPM Introduction -- Free Code Camp -- Timestamp Microservice
+https://youtu.be/u6FsiWoKi5o?list=PLtwj5TTsiP7vmgyFgrwtPxybl9KzMvmAB
+
+// compare: https://www.freecodecamp.org/challenges/timestamp-microservice
+// to
+// https://beta.freecodecamp.com/en/challenges/api-and-microservice-projects/timestamp-microservice
+
+July 30 (Day 44)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/up-the-down-staircase
+
+//jQuery review course i did a year or two ago
+https://www.codecademy.com/courses/web-beginner-en-bay3D/0/1
+https://www.codecademy.com/courses/web-beginner-en-bay3D/0/2
+https://www.codecademy.com/courses/web-beginner-en-bay3D/0/3
+https://www.codecademy.com/courses/web-beginner-en-bay3D/0/4
+https://www.codecademy.com/courses/web-beginner-en-bay3D/1/1
+https://www.codecademy.com/courses/web-beginner-en-bay3D/1/2
+https://www.codecademy.com/courses/web-beginner-en-bay3D/1/3
+https://www.codecademy.com/courses/web-beginner-en-bay3D/1/4
+https://www.codecademy.com/courses/web-beginner-en-bay3D/2/1
+https://www.codecademy.com/courses/web-beginner-en-bay3D/2/2
+https://www.codecademy.com/courses/web-beginner-en-bay3D/2/3
+https://www.codecademy.com/courses/web-beginner-en-bay3D/2/4
+https://www.codecademy.com/courses/web-beginner-en-bay3D/2/5
+
+//plus hack reactor prep
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Hack%20reactor%20prep.txt
+
+discobot advanced user tutorial
+
+//more vids on an fCC Challenge
+Generating Boilerplate Code -- Free Code Camp -- Timestamp Microservice
+https://youtu.be/JjSeSZ_DOfA?list=PLtwj5TTsiP7vmgyFgrwtPxybl9KzMvmAB
+https://www.npmjs.com/package/express-generator
+
+July 31 (day 45)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/call-and-response
+
+August 1st (Day 46)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/being-pushy
+
+August 2nd (Day 47)
+// from responsive Codecademy course
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/relative-measurements
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/em
+
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/string-interpolation
+
+August 3rd (Day 48)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/one-liners
+
+// coursera html course
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Coursera%20intro%20to%20HTML%205%20June%202017.txt
+https://blog.codinghorror.com/of-spaces-underscores-and-dashes/
+
+August 4th (day 49)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/the-ternary-operator
+
+//plus hack reactor prep
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Hack%20reactor%20prep.txt
+
+August 5th (day 50)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/in-case-of-many-options
+
+// Coding Tutorials 360 on weather app
+Show the Local Weather Project Part 1: Free Code Camp
+https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+Show the Local Weather Project Part 2: Free Code Camp
+https://www.youtube.com/watch?v=KoJsY7_J0JY&index=2&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+
+// codecademy on responsive design
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/rem
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/percentages-height-width
+
+August 6th (Day 51)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/conditional-assignment-1
+
+// codecademy on responsive design
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/percentages-padding-margin
+
+// more on the fCC weather project
+Show the Local Weather Project Part 3: Free Code Camp
+https://www.youtube.com/watch?v=X4UhrbNmUr8&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=3
+Show the Local Weather Project Part 4: Free Code Camp
+https://www.youtube.com/watch?v=azYmIzJf9GA&index=4&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+https://stackoverflow.com/questions/9888861/view-json-file-in-browser
+Show the Local Weather Project Part 5: Free Code Camp
+https://www.youtube.com/watch?v=7ZVPApYOASk&index=5&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+Show the Local Weather Project Part 6: Free Code Camp
+https://www.youtube.com/watch?v=9vPiXGZczX4&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=6
+Show the Local Weather Project Part 7: Free Code Camp
+https://www.youtube.com/watch?v=6eQp-YukSgs&index=7&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+
+August 7th (day 52)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/implicit-return-1
+
+//more fCC weather project
+follow up form video 7 code some bootstrap stuff in CodePen
+
+August 8th (Day 53)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-zen-of-ruby/exercises/for-shame
+
+August 9th (Day 54)
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/width-max-min
+
+https://www.codecademy.com/en/courses/learn-ruby/lessons/the-refactor-factory/exercises/what-youll-be-fixing
+// and extra reading from: https://www.codecademy.com/learn/learn-ruby
+https://www.ruby-lang.org/en/about/
+
+August 10th (Day 55)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/to-be-or-not-to-be
+
+// more on the fCC weather project
+Show the Local Weather Project Part 8: Free Code Camp
+https://youtu.be/gw5BQABalks?list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+//more fCC weather project
+follow up form video 8 add C (&#8451; C) && F  (&#8457; F) in CodePen
+
+// medium articles about coding:
+https://medium.com/building-crowdriff/four-ish-things-we-look-for-when-hiring-a-junior-developer-e2b7b7e53db0
+https://medium.com/building-crowdriff/4-things-a-junior-web-developer-should-do-to-combat-imposter-syndrome-dc0878165156
+
+August 11th (day 56)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/omit-needless-words
+
+// for weather app - displaying img from JSON
+http://www.jquerybyexample.net/2013/04/how-to-display-load-images-from-json-file-jquery.html
+https://stackoverflow.com/questions/23759703/jquery-find-text-and-replace-with-html
+
+// responsive design codecademy
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/height-max-min
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/scaling-img-video
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/scaling-background-img
+https://www.codecademy.com/courses/learn-responsive-design/lessons/sizing-elements/exercises/review-relative-measurements
+
+//plus hack reactor prep
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Hack%20reactor%20prep.txt
+
+// medium articles about coding (or related):
+https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446
+https://medium.com/@sethjconnell/a-ducky-guide-to-killing-fraud-syndrome-for-programmers-everywhere-d25a74888e19
+https://medium.com/@michlbrmly/why-i-havent-fixed-your-issue-yet-a24ab4bc0d55
+https://medium.com/@michlbrmly/the-covert-opt-in-dbcb1ce5e4ac
+
+August 12th (Day 57)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/less-is-more
+
+August 13th (Day 58)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/the-rubyists-loop
+
+// articles about coding
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Scaling_background_images
+
+// more on the fCC weather project
+Show the Local Weather Project Part 9: Free Code Camp
+https://youtu.be/BYgywr4iVKk?list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+Show the Local Weather Project Part 10 Chrome 50 Geo Location Fix: Free Code Camp
+https://youtu.be/aLKJhOmBjBw?list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g
+
+August 14th (day 59)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/final-push
+
+// vids on fCC projects: Wiki viewer
+Build a Wikipedia Viewer Part 0 URL Details Front End Projects: Free Code
+https://youtu.be/jOCgTo0RUoQ
+Build a Wikipedia Viewer Part 1: Free Code Camp
+https://youtu.be/PFrzq01h4m0
+Build a Wikipedia Viewer Part 2: Free Code Camp
+https://youtu.be/dRZxQY2RgUA
+Build a Wikipedia Viewer Part 3: Free Code Camp
+https://youtu.be/KiRwQpONE18
+
+// articles about coding
+https://medium.freecodecamp.org/how-to-choose-a-laptop-for-programming-a9e36f8b4cfe
+
+August 15th (day 60)
+https://www.codecademy.com/courses/learn-ruby/lessons/the-refactor-factory/exercises/nice-work-2
+https://www.codecademy.com/en/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/you-know-this?action=lesson_resume&link_content_target=interstitial_lesson
+
+// vids on fCC projects: Wiki viewer
+Build a Wikipedia Viewer Part 4: Free Code Camp
+https://youtu.be/uhtjPh7eWo8
+
+August 16th (Day 61)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/collect-em-all
+
+// vids on fCC projects: twitch viewer
+Use the TwitchTV JSON API Part 1 Intermediate Front End Projects: Free Code Camp
+https://www.youtube.com/watch?v=Nm2bXBlELZU
+
+Auguat 17th (day 62)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/learning-to-yield
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/yielding-with-parameters
+
+// vids on fCC projects: Wiki viewer
+Build a Wikipedia Viewer Part 5 Front End Projects: Free Code Camp
+https://youtu.be/M3OcwNHMsGg
+
+// vids on fCC projects: twitch viewer
+Use the TwitchTV JSON API Part 2 Intermediate Front End Projects: Free Code Camp
+https://youtu.be/BvPmLSN1X5I
+
+// articles on coding
+The fastest way to alphabetize the bookshelf
+https://www.facebook.com/TEDEducation/videos/1705216896158176/
+
+August 18 (day 63)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/try-it-yourself
+
 
 
 =========
