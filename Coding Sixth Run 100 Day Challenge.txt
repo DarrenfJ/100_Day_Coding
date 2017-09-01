@@ -434,6 +434,133 @@ https://www.facebook.com/TEDEducation/videos/1705216896158176/
 August 18 (day 63)
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/try-it-yourself
 
+// signed up for codewars (https://www.codewars.com/)
+Find the next perfect square!
+http://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript
+https://stackoverflow.com/questions/14636536/how-to-check-if-a-variable-is-an-integer-in-javascript
+Sum of two lowest positive integers
+http://www.codewars.com/kata/sum-of-two-lowest-positive-integers/train/javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+August 19th (Day 64)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/keeping-your-code-dry
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/proc-syntax
+
+// codewars (https://www.codewars.com/)
+Shortest word
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript
+
+August 20th (Day 65)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/why-procs
+
+// codewars (https://www.codewars.com/)
+Who likes it?
+https://www.codewars.com/kata/who-likes-it
+
+// start in on
+https://www.codewars.com/kata/regular-ball-super-ball/train/javascript
+https://www.codewars.com/kata/sum-of-odd-numbers/train/javascript
+
+// vids on fCC projects: twitch viewer
+Use the TwitchTV JSON API Part 3 Intermediate Front End Projects: Free Code Camp
+https://youtu.be/_lnb6U1r9p4
+
+// this fix
+Use the TwitchTV JSON API Part 8: API Fix Free Code Camp Front End Projects
+https://youtu.be/bxC46OvfMY0
+https://blog.twitch.tv/client-id-required-for-kraken-api-calls-afbb8e95f843
+
+August 21st (day 66)
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/create-your-own-2
+
+// vids on fCC projects: twitch viewer
+Use the TwitchTV JSON API Part 4 Intermediate Front End Projects: Free Code Camp
+https://youtu.be/tilEru1nD0I
+
+Aug 22 (day 67)
+// from the responsive design material:
+https://www.codecademy.com/en/courses/learn-responsive-design/lessons/media-queries/exercises/responsive-web-design
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/media-queries
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/range
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/dpi
+
+Aug 23 (day 68)
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/and-operator
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/comma-separated-list
+
+// ruby course:
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/call-me-maybe
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/symbols-meet-procs
+
+//playing around in the fCC beta:
+http://beta.freecodecamp.com/en/challenges/bootstrap/use-responsive-design-with-bootstrap-fluid-containers
+
+// codewars (https://www.codewars.com/)
+Credit Card Mask
+https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript
+
+Aug 24 (Day 69)
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/breakpoints
+
+// codewars (https://www.codewars.com/)
+Calculate BMI
+https://www.codewars.com/kata/calculate-bmi/train/javascript
+
+Aug 25 (Day 70)
+https://www.codecademy.com/courses/learn-responsive-design/lessons/media-queries/exercises/review-media-queries
+
+// learn sass
+https://www.codecademy.com/learn/learn-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/hello-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/compile-sass
+
+// codewars (https://www.codewars.com/)
+Complementary DNA
+https://www.codewars.com/kata/complementary-dna/train/javascript
+MakeUpperCase
+https://www.codewars.com/kata/makeuppercase/train/javascript
+
+// medium articles on coding:
+https://medium.com/career-change-coder/11-concepts-to-master-as-a-newbie-to-coding-73a7b2dc294
+
+Aug 26 (day 71)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/sass-features
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-sass
+
+Aug 27 (day 72)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-properties
+
+Aug 28 (Day 73)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/variables
+
+// codewars (https://www.codewars.com/)
+Welcome to the City
+https://www.codewars.com/kata/welcome-to-the-city/train/javascript
+simple calculator
+https://www.codewars.com/kata/simple-calculator/train/javascript
+
+// and JIRA vids for work
+
+Aug 29 (day 74)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/types
+
+// codewars (https://www.codewars.com/)
+Reverse a Number
+https://www.codewars.com/kata/reverse-a-number/train/javascript
+
+Aug 30th (Day 75)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/maps-and-lists
+
+Aug 31 (Day 76)
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/sass-generalizations
+https://www.codecademy.com/en/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/parent-selector
+
+//youtubes on coding:
+AJAX - Beau teaches JavaScript
+https://youtu.be/tHRNuBf_8xg
+
+Sept 1st (Day 77)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins
 
 
 =========

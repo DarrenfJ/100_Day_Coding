@@ -1,0 +1,31 @@
+// Learning JIRA for work projects
+
+started August 25th 2017
+
+IT: IT helpdesk - Learning JIRA Software
+https://www.lynda.com/course-tutorials/Learning-JIRA-Software/545920-2.html
+What you should know
+https://www.lynda.com/course-tutorials/What-you-should-know/545920/579560-4.html
+set up demo environment
+https://www.lynda.com/course-tutorials/Setup-optional/545920/579561-4.html
+
+August 28th
+IT: IT helpdesk - Learning JIRA Software
+What is JIRA
+https://www.lynda.com/course-tutorials/What-JIRA/545920/579563-4.html
+Project Management with JIRA
+https://www.lynda.com/course-tutorials/Project-management-JIRA/545920/579564-4.html
+Overview of Key Features
+https://www.lynda.com/course-tutorials/Overview-key-features/545920/579565-4.html
+Challenge: Creating tickets
+https://www.lynda.com/course-tutorials/Challenge-Creating-tickets/545920/579566-4.html
+Solution: Creating tickets
+https://www.lynda.com/course-tutorials/Solution-Creating-tickets/545920/579567-4.html
+Create an issue
+https://www.lynda.com/course-tutorials/Create-issue/545920/579569-4.html
+View an issue
+https://www.lynda.com/course-tutorials/View-issue/545920/579570-4.html
+View an issue: Additional features
+https://www.lynda.com/course-tutorials/View-issue-Additional-features/545920/579571-4.html
+Edit an issue
+https://www.lynda.com/course-tutorials/Edit-issue/545920/579572-4.html
