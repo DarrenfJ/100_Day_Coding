@@ -562,6 +562,9 @@ https://youtu.be/tHRNuBf_8xg
 Sept 1st (Day 77)
 https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins
 
+Sept 2nd (Day 78)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixin-arguments
+
 
 =========
 
