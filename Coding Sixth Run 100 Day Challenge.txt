@@ -571,6 +571,168 @@ https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector
 Sept 4th (Day 80)
 https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/multiple-arguments
 
+//plus hack reactor prep
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Hack%20reactor%20prep.txt
+Udacity Java course
+
+Sept 5th (Day 81)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins-ii
+
+Sept 6th (Day 82)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/string-interpolation
+
+Sept 7th (day 83)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixin-parent-selector
+
+Sept 8th (Day 84)
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins-and-parent-generalizations
+
+Sept 9th (Day 85)
+https://www.codecademy.com/en/courses/learn-sass/lessons/functions-and-operations/exercises/ops-functions
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic-and-color
+
+Sept 10th (Day 86)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/math-color
+
+// codewars (https://www.codewars.com/)
+find the unique number
+https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript
+Welcome!
+https://www.codewars.com/kata/welcome/train/javascript
+
+Sept 11th (Day 87)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic
+
+// codewars (https://www.codewars.com/)
+powers of three
+https://www.codewars.com/kata/powers-of-3/train/javascript
+Ones' Complement
+https://www.codewars.com/kata/ones-complement/train/javascript
+
+Sept 12th (day 88)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/division
+
+// codewars (https://www.codewars.com/)
+diff.arr
+https://www.codewars.com/kata/array-dot-diff/train/javascript
+noobCode 01: SUPERSIZE ME.... or rather, this integer!
+https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript
+WeIrD StRiNg CaSe
+https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/javascript
+Basic Mathematical Operations in Ruby
+https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/ruby
+Sum of the first nth term of Series
+https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/javascript
+Get the Middle Character
+https://www.codewars.com/kata/get-the-middle-character/train/javascript
+
+Sept 13 (Day 89)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/each-loops
+
+// codewars (https://www.codewars.com/)
+Simple Pig Latin
+https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript
+
+Sept 14th (Day 90)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/for-loops
+
+// codewars (https://www.codewars.com/)
+Collision Detection
+https://www.codewars.com/kata/collision-detection/train/javascript
+Opposite number
+https://www.codewars.com/kata/opposite-number/train/javascript
+Nice Array
+https://www.codewars.com/kata/nice-array/train/javascript
+Count the smiley faces!
+https://www.codewars.com/kata/583203e6eb35d7980400002a/train/javascript
+Descending Order
+https://www.codewars.com/kata/descending-order/train/javascript
+Palindrome chain length
+https://www.codewars.com/kata/palindrome-chain-length/train/javascript
+
+// fCC vids
+// Agile
+// The INVEST approach to product backlog items
+https://youtu.be/VePSZcTBVNM
+// rewatch: Chickens and Pigs - Agile Software Development
+https://youtu.be/YGstFjI5wzc
+
+Sept 15th (Day 91)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/if-vs-if
+
+// codewars (https://www.codewars.com/)
+Mumbling
+https://www.codewars.com/kata/mumbling/train/javascript
+Possiblities Array
+https://www.codewars.com/kata/possiblities-array/train/javascript
+Push a hash/an object into array
+https://www.codewars.com/kata/push-a-hash-slash-an-object-into-array/train/javascript
+Two Oldest Ages
+https://www.codewars.com/kata/two-oldest-ages-1
+
+Sept 16 (day 92)
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/functions-and-operations-generalizations
+
+// codewars (https://www.codewars.com/)
+Square Every Digit
+https://www.codewars.com/kata/square-every-digit/train/javascript
+Build a square
+https://www.codewars.com/kata/build-a-square/train/javascript
+The Hashtag Generator
+https://www.codewars.com/kata/the-hashtag-generator/train/javascript
+
+Sept 17th (day 93)
+https://www.codecademy.com/en/courses/learn-sass/lessons/sustainable-scss/exercises/sasstainability
+
+// codewars (https://www.codewars.com/)
+Mutate My Strings
+https://www.codewars.com/kata/mutate-my-strings/train/javascript
+
+Sept 18th (Day 94)
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sass-structure
+
+// codewars (https://www.codewars.com/)
+Difference Of Squares
+https://www.codewars.com/kata/difference-of-squares/train/javascript
+Count characters in your string
+https://www.codewars.com/kata/count-characters-in-your-string/train/javascript
+remove anchor from URl
+https://www.codewars.com/kata/remove-anchor-from-url/train/javascript
+
+// fCC vids
+// Agile
+The Agile Manifesto - Agile Software Development
+https://youtu.be/tQprHSpNdps
+
+
+Sept 19 (day 95)
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/import-in-scss
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/partials
+
+// codewars (https://www.codewars.com/)
+Growth of a Population
+https://www.codewars.com/kata/growth-of-a-population/train/javascript
+Exclamation marks series #1: Remove a exclamation mark from the end of string
+https://www.codewars.com/kata/exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string/train/javascript
+Exclamation marks series #2: Remove all exclamation marks from the end of sentence
+https://www.codewars.com/kata/exclamation-marks-series-number-2-remove-all-exclamation-marks-from-the-end-of-sentence/train/javascript
+Exclamation marks series #3: Remove all exclamation marks from sentence except at the end
+https://www.codewars.com/kata/exclamation-marks-series-number-3-remove-all-exclamation-marks-from-sentence-except-at-the-end
+Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string
+https://www.codewars.com/kata/exclamation-marks-series-number-4-remove-all-exclamation-marks-from-sentence-but-ensure-a-exclamation-mark-at-the-end-of-string
+
+Sept 20 (Day 96)
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend
+
+
+// next: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/placeholders
+
+// codewars (https://www.codewars.com/)
+
+// Udacity intro to JS
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
+
+
 
 
 =========

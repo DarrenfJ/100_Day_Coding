@@ -206,8 +206,27 @@ https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec9
 More Complex Problems
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/32773e9f-6361-4fca-8350-5b3d429ff14a
 
-// next: Logical Operators
+Sept 4th
+Logical Operators
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/778d7735-d08c-4992-a3f1-493c109a1394
+Logical AND and OR
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/39d374f9-d917-4038-94de-bf63323c51f0
+Quiz: Checking your Balance (3-5)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/03d8062f-6e1f-4f79-86e5-f49cde75e36d
+Quiz: Ice Cream (3-6)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b651694a-cfda-4965-be84-279387f32c44
+Quiz: What do I Wear? (3-7)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/1c7f869b-60fd-4746-a90e-5287f4a473dc
+Advanced Conditionals
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/927f50ab-2f4c-44ae-ad06-950d4dd7e6ad
+Truthy and Falsy
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/95fd8fab-2129-4a97-9844-527e602c78a8
+Ternary Operator
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/13bf22aa-272f-410f-b042-17972a217328
+
+
+// next: Quiz: Navigating the Food Chain (3-8)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
 
 
 
