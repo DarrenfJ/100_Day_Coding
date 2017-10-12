@@ -429,6 +429,11 @@ https://www.sitepoint.com/understanding-module-exports-exports-node-js/
 
 http://ericsteinborn.com/github-for-cats/#/
 
+http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array
+
+Build Web Apps with Express.js
+https://youtu.be/wLweWF8gh-k
+
 Introduction of Node JS by Ryan Dahl (Creator of Node Js)
 https://youtu.be/dO1zf4RXsTg
 
@@ -454,6 +459,9 @@ https://nodejs.org/api/repl.html
 https://www.npmjs.com/package/repl.history
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 
+// for: https://www.freecodecamp.com/challenges/roman-numeral-converter
+http://stackoverflow.com/questions/5767325/remove-a-particular-element-from-an-array-in-javascript
+
 June 13 (Day 34)
 // from: https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git
 GIT + GITHUB : VERSION CONTROL + SOCIAL CODING
@@ -465,6 +473,10 @@ REMOTE CONTROL
 FORKS AND CLONES
 BRANCHES AREN'T JUST FOR BIRDS
 https://guides.github.com/introduction/flow/
+
+// rewatch (or finish it off) https://watchandcode.com/courses/practical-javascript/lectures/900202
+https://watchandcode.com/courses/practical-javascript/lectures/900207
+https://watchandcode.com/courses/practical-javascript/lectures/923806
 
 //later that day (read these)
 IT'S A SMALL WORLD 
@@ -762,24 +774,14 @@ https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/select
 Aug 20th (Day 2)
 https://www.codecademy.com/en/courses/learn-sql/lessons/queries/exercises/select-distinct
 
+==========
+
+
 from other computer:
 
 [to add]
 
-June 11
-http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array
 
-Build Web Apps with Express.js
-https://youtu.be/wLweWF8gh-k
-
-June 12th
-// for: https://www.freecodecamp.com/challenges/roman-numeral-converter
-http://stackoverflow.com/questions/5767325/remove-a-particular-element-from-an-array-in-javascript
-
-June 13th
-// rewatch (or finish it off) https://watchandcode.com/courses/practical-javascript/lectures/900202
-https://watchandcode.com/courses/practical-javascript/lectures/900207
-https://watchandcode.com/courses/practical-javascript/lectures/923806
 
 June 15th 
 cleaning up some old FCC challenges I had half done

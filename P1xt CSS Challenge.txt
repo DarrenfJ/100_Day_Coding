@@ -1,0 +1,25 @@
+P1xt CSS Challenge
+
+from: https://medium.com/p1xts-blog
+
+https://medium.com/p1xts-blog/lets-make-november-suck-less-at-css-month-7fa7c80b5387
+
+
+and
+
+https://medium.com/p1xts-blog/mini-challenge-prep-for-suck-less-at-css-november-b04b30799ef6
+
+Links:
+
+Learn to Code HTML & CSS?—?focus on the CSS portions
+(https://learn.shayhowe.com/html-css/)
+
+CSS Tutorials for Beginners?—?Overview of the basics.
+(https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+
+CSS Positioning Tutorials?—?Basic CSS for positioning content.
+(https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh)
+
+How to Make Pure CSS Images to Progress With Design-Focused Frontend Development
+(https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+
