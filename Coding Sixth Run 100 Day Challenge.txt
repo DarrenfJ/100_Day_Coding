@@ -724,86 +724,35 @@ https://www.codewars.com/kata/exclamation-marks-series-number-4-remove-all-excla
 Sept 20 (Day 96)
 https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend
 
+Sept 21 (Day 97)
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/placeholders
 
-// next: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/placeholders
+Sept 22 (day 98)
+// just for a change of pace: html course
+https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/intro
+
+Sept 23 (Day 99)
+https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/doctype-html
+
+Sept 24th (Day 100)
+https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/prepare-html
+
+Sept 25th (day 101)
+https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/anatomy-html
+https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/head-html
+
+// codewars (https://www.codewars.com/)
+Array Array Array
+https://www.codewars.com/kata/array-array-array/train/javascript
+
+
+// next: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
+// next html: https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/title-html
 
 // codewars (https://www.codewars.com/)
 
 // Udacity intro to JS
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
 
-
-
-
 =========
-
-Some lists of stuff to go over again:
-
-//do one watch and code [insert link]
-
-//do one hacker prep [insert link] <-- have started it in it's own list
-
-[next day] (Day XX)
-// Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
-add link
-
-// next beta: http://beta.freecodecamp.com/en/challenges/es6/write-arrow-functions-with-parameters
-
-// always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
-
-To Do:
-
-//some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
-
-// https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
-
-// Ruby to do: https://www.ruby-lang.org/en/documentation/
-// and: https://rubymonk.com/ and http://rubykoans.com/
-
-// next beta: 
-[insert next beta]
-
-// more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
-
-//continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
-
-// next ruby rails: https://www.codeschool.com/courses/rails-for-zombies-redux
-
-==========
-
-// to do: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
-
-// codecademy react course do!
-
-// want to redo the git and regex in Code School
-
-Brought over from other Coding..
-
-XXXX
-
-Stuff still to watch
-
-GitHub
-
-Everything I Wish I Knew When I Started Using GitHub
-https://youtu.be/KDUtjZHIx44
-
-DevTips
-
-start from the back and watch forward: https://www.youtube.com/user/DevTipsForDesigners/videos?sort=da&flow=grid&view=0
-
-Still to watch this
-
-C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 1 of 13
-https://www.youtube.com/watch?v=UIUlFQH4Cvo
-
-// need to reread: https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.rbfrbo33f
-// https://auth0.com/ and https://help.github.com/articles/connecting-with-third-party-applications/
-
-Further Study:
-
-http://materializecss.com/
-
-http://eloquentjavascript.net/10_modules.html
-
 
