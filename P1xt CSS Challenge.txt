@@ -1,4 +1,4 @@
-P1xt CSS Challenge
+P1xt CSS Challenge 2017
 
 from: https://medium.com/p1xts-blog
 
@@ -22,4 +22,43 @@ CSS Positioning Tutorials?—?Basic CSS for positioning content.
 
 How to Make Pure CSS Images to Progress With Design-Focused Frontend Development
 (https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+
+=====
+
+Progress
+
+Oct 12th
+//from:
+//https://medium.com/p1xts-blog/lets-make-november-suck-less-at-css-month-7fa7c80b5387
+//CSS Tutorials for Beginners?—?Overview of the basics.
+//(https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+CSS Tutorial For Beginners 01 - Introduction to CSS
+https://youtu.be/I9XRrlOOazo
+
+and
+
+// from
+//How to Make Pure CSS Images to Progress With Design-Focused Frontend Development
+//(https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+https://coding-artist.teachable.com/courses/enrolled/155435
+What are pure CSS images?
+https://coding-artist.teachable.com/courses/155435/lectures/2312239#/questions/1
+
+Oct 14th
+//CSS for beginners
+CSS Tutorial For Beginners - What is CSS?
+https://youtu.be/4BEyFVufmM8
+
+Oct 15th
+//CSS for beginners
+CSS Tutorial For Beginners 03 - Default Browser Styles
+https://youtu.be/iqTgros3FTc
+
+Oct 16th
+//CSS for beginners
+CSS Tutorial For Beginners 04 - Basic CSS Syntax
+https://youtu.be/1CqHws4WZ-M
+
+
+
 
