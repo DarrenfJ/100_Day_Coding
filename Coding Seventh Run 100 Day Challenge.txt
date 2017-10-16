@@ -151,13 +151,39 @@ https://coding-artist.teachable.com/courses/enrolled/155435
 What are pure CSS images?
 https://coding-artist.teachable.com/courses/155435/lectures/2312239#/questions/1
 
+// codewars (https://www.codewars.com/)
+Reverse Factorials
+https://www.codewars.com/kata/reverse-factorials/train/javascript
 
-===
+Oct 13 (Day 19)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-out-html
+
+Oct 14th (Day 20)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-at-will-html
+
+//CSS for beginners
+CSS Tutorial For Beginners - What is CSS?
+https://youtu.be/4BEyFVufmM8
+
+Oct 15th (day 21)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-new-page-html
+
+//CSS for beginners
+CSS Tutorial For Beginners 03 - Default Browser Styles
+https://youtu.be/iqTgros3FTc
+
+Oct 16th (day 22)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-relative-html
+
+//CSS for beginners
+CSS Tutorial For Beginners 04 - Basic CSS Syntax
+https://youtu.be/1CqHws4WZ-M
+
+
+=============================================================================================================================
 
 // next: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
-// next html: https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-out-html
-
-
+// next html: https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-same-page-html
 
 // codewars (https://www.codewars.com/)
 
