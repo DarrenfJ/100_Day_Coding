@@ -179,11 +179,150 @@ https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-eleme
 CSS Tutorial For Beginners 04 - Basic CSS Syntax
 https://youtu.be/1CqHws4WZ-M
 
+Oct 17th (day 23)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-same-page-html
+
+Oct 18th (Day 24)
+https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/navigation-html
+
+// codewars (https://www.codewars.com/)
+Changing letters
+https://www.codewars.com/kata/changing-letters/train/javascript
+
+Oct 19th (day 25)
+https://www.codecademy.com/en/courses/learn-html-elements/lessons/common-html-elements/exercises/review-tags-html
+
+// codewars (https://www.codewars.com/)
+Multiply the strings in the array
+https://www.codewars.com/kata/multiply-the-strings-in-the-array/train/javascript
+
+Oct 20th (day 26)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/create-table
+
+// coding game
+// https://screeps.com/
+// MMO sandbox game for programmers
+http://docs.screeps.com/introduction.html#Game-world
+http://docs.screeps.com/api/#StructureSpawn.spawnCreep
+
+// codewars (https://www.codewars.com/)
+working on 'Product of consecutive Fib numbers'
+and
+Ch4113ng3
+https://www.codewars.com/kata/ch4113ng3/train/javascript
+Lowercase strings in array
+https://www.codewars.com/kata/lowercase-strings-in-array/train/javascript
+
+Oct 21 (Day 27)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-rows
+
+Oct 22 (Day 28)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-data
+
+Oct 23rd (Day 29)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-headings
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 05 - Inline & Embedded Styles
+https://youtu.be/jpjzhva3owA
+CSS Tutorial For Beginners 06 - External Style Sheets
+https://youtu.be/Wj2iI7w37Y0
+CSS Tutorial For Beginners 07 - CSS Comments and Where to Use Them
+https://youtu.be/qfpo_XsM0hM
+
+Oct 24th (day 30)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-borders
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/colspan
+// redoing the sass stuff
+// https://www.codecademy.com/learn/learn-sass
+https://www.codecademy.com/en/courses/learn-sass/lessons/hello-sass/exercises/hello-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/compile-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/sass-features
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-sass
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 08 - Targeting Elements with CSS
+https://youtu.be/f7c7bTrqXic
+
+Oct 25th (day 31)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/rowspan
+// redoing the sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-sass
+
+// medium articles on coding
+https://medium.com/career-change-coder/want-to-master-programming-think-in-the-language-2c72db300ed5
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 09 - Targeting Classes and ID's
+https://youtu.be/hrqo_GOwHHs
+
+Oct 26th (Day 32)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-body
+// redoing the sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-properties
+
+// fCC vids
+// Agile
+Definition of Done - Agile Software Development
+https://youtu.be/pYOJyQoBT3U
+Working Agreement - Agile Software Development
+https://youtu.be/QTEKndwPS0o
+The Definition of Ready - Agile Software Development
+https://youtu.be/SUS44Lj6oBI
+Tradeoff Matrix - Agile Software Development
+https://youtu.be/8WpercDYOAA
+
+Oct 27th (day 33)
+// sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/variables
+
+Oct 28 (Day 34)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-head
+
+// reading coding related articles:
+https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 10 - CSS Conflicts & the Cascade
+https://youtu.be/4oPvurjpcNw
+
+// from
+//How to Make Pure CSS Images to Progress With Design-Focused Frontend Development
+//(https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+//https://coding-artist.teachable.com/courses/enrolled/155435
+Making Our First Pure CSS Image (starting it)
+https://coding-artist.teachable.com/courses/155435/lectures/2312834
+
+Oct 29 (day 35)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-footer
+
+Oct 30th (day 36)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/table-css
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 11 - Inheritance
+https://youtu.be/ZMpaebQ3n6A
+
+Oct 31 (Day 37)
+https://www.codecademy.com/courses/learn-html-tables/lessons/tables/exercises/review-html-tables
+// completed html!
+// start CSS
+// https://www.codecademy.com/learn/learn-css
+https://www.codecademy.com/en/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/intro-to-css
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/inline-styles
+
+Nov 1 (Day 38)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/style-tag
+
+Nov 2nd (day 39)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/add-css-file
+
 
 =============================================================================================================================
 
-// next: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
-// next html: https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements/exercises/linking-same-page-html
+// next sass: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
+// next CSS: https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/link-html-css
+
 
 // codewars (https://www.codewars.com/)
 
