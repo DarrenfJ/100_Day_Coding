@@ -225,6 +225,10 @@ Ternary Operator
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/13bf22aa-272f-410f-b042-17972a217328
 
 
+Nov 12th
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
+
+
 // next: Quiz: Navigating the Food Chain (3-8)
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
 

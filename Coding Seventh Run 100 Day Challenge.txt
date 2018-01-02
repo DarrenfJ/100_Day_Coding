@@ -317,12 +317,419 @@ https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-
 Nov 2nd (day 39)
 https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/add-css-file
 
+Nov 3rd (day 40)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/link-html-css
+
+Nov 4th (day 41)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/tag-name
+
+Nov 5th (day 42)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/class-name
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 12 - Selector Specificty
+https://youtu.be/lZ6R_eYYxoE
+
+Nov 6th (day 43)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/multiple-classes
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 13 - The Important Declaration
+https://youtu.be/BHzQ_9zzuNM
+CSS Tutorial For Beginners 14 - Targeting Multiple Elements
+https://youtu.be/3SOf8gZlBhI
+
+Nov 7th (day 44)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/id-name
+
+//CSS for beginners con't
+//rewatched
+CSS Tutorial For Beginners 14 - Targeting Multiple Elements
+https://youtu.be/3SOf8gZlBhI
+
+Nov 8th (day 45)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/classes-and-ids
+
+Nov 9th (day 46)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/specificity
+
+//CSS for beginners con't
+CSS Tutorial For Beginners 15 - Descendant Selectors
+https://youtu.be/84KE7OwMjYY
+
+// codewars (https://www.codewars.com/)
+Vowel Changer
+https://www.codewars.com/kata/vowel-changer/train/javascript
+
+Nov 10th (day 47)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/chaining-selectors
+
+Nov 11th (Day 48)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/nested-elements
+
+// medium articles on coding:
+https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
+Nov 12th (Day 49)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/chaining-and-specificity
+
+// codewars (https://www.codewars.com/)
+What dominates your array?
+https://www.codewars.com/kata/what-dominates-your-array/train/javascript
+String matchup
+https://www.codewars.com/kata/string-matchup/train/javascript
+Lowercase strings in array
+https://www.codewars.com/kata/lowercase-strings-in-array/train/javascript
+You only need one - Beginner
+https://www.codewars.com/kata/you-only-need-one-beginner/train/javascript 
+Array of twins
+https://www.codewars.com/kata/array-of-twins/train/javascript
+
+Nov 13th (day 50)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/important
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 16 - Child Selectors
+https://youtu.be/MlJrAhGVIis
+// have to rewatch
+CSS Tutorial For Beginners 17 - Adjacent Selectors
+https://youtu.be/K92X4yyyfNY
+
+Nov 14th (Day 51)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/multiple-selectors-i
+
+Nov 15th (Day 52)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/review-selectors
+https://www.codecademy.com/en/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/css-visual-rules
+
+Nov 16th (day 53)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/css-structure
+
+Nov 17th (day 54)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/font-family-i
+
+Nov 18 (day 55)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/font-size
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 18 - Attribute Selectors
+https://youtu.be/GVocONem9lw
+
+Nov 19th (day 56)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/font-weight-i
+
+// articles about coding:
+https://css-tricks.com/how-css-selectors-work/
+
+Nov 20th (day 57)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/text-align-i
+
+Nov 21 (Day 58)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/color
+
+// articles about coding:
+https://css-tricks.com/specifics-on-css-specificity/
+
+Nov 22 (day 59)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/opacity
+
+Nov 23rd (Day 60)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/background-image
+
+Nov 24 (day 61)
+https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-visual-rules/exercises/review-visual-rules
+
+Nov 25th (day 62) 
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-model-intro
+
+Nov 26th 9day 63)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-model
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/height-width
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 19 - Pseudo Selectors
+https://youtu.be/SlqUbzvuqDg
+CSS Tutorial For Beginners 20 - Hover, Active & Visited Effects
+https://youtu.be/XT2PFpOyDzY
+
+Nov 27th (Day 64)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/borders
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 21 - First & Last Child Selectors
+https://youtu.be/UxHFB5_CSXc
+
+Nov 28th (Day 65)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-border-radius
+
+Nov 29th (day 66)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-padding-i
+
+Nov 30th (day 67)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-padding-ii
+
+Dec 1st (day 68)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/margins-i
+
+Dec 2nd (day 69)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/margins-ii
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 22 - First & Last of Type Selectors
+https://youtu.be/7eVUWLv6gz4
+
+// CSS animation
+Making Our First Pure CSS Image
+https://coding-artist.teachable.com/courses/155435/lectures/2312834
+
+Dec 3rd (Day 70)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-margin-auto
+
+// CSS animation
+Making Our First Pure CSS Image con't
+https://coding-artist.teachable.com/courses/155435/lectures/2312834
+
+// plus some khan academy math
+
+Dec 4th (Day 71)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/margin-collapse
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/min-max-height-width
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 23 - nth Child Selectors
+https://youtu.be/TVj1avJj8a8
+
+// follow-up to the CSS pure image stuff
+https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2
+https://developer.mozilla.org/en-US/docs/Web/CSS/top
+
+Dec 5th (Day 72)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-overflow
+
+Dec 6th (day 73)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/resetting-defaults
+
+// other reading
+https://www.codecademy.com/articles/http-errors-404
+
+// working on the CSS on my weather app
+https://css-tricks.com/snippets/css/css-text-shadow/
+http://www.color-hex.com/color/56768f
+https://css-tricks.com/examples/ButtonMaker/#
+https://www.w3schools.com/cssref/css_colors.asp
+http://www.color-hex.com/color/2f4f4f
+(and then of course I didn't use these colours at all)
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 24 - nth of Type Selectors
+https://youtu.be/E45xQZTgaUI
+
+Dec 7th (Day 74)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-visibility
+
+// koala from the pure CSS course
+https://codepen.io/DarrenfJ/pen/QOWmKL
+and
+https://medium.com/coding-artist/daily-css-images-everything-you-need-to-know-e53ed6c1846c
+
+// refactoring the exact change challenge in fCC
+https://www.freecodecamp.org/challenges/exact-change
+// using:
+https://stackoverflow.com/questions/6134039/format-number-to-always-show-2-decimal-places
+https://stackoverflow.com/questions/6843951/which-way-is-best-for-creating-an-object-in-javascript-is-var-necessary-befor#6844046
+https://stackoverflow.com/questions/10557486/in-an-array-of-objects-fastest-way-to-find-the-index-of-an-object-whose-attribu
+
+Dec 8th (Day 75)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-intro/exercises/box-model-review
+
+// fCC vids
+Networks: What is a network?
+https://youtu.be/ANHx2jnaLf8
+Networks: An example of a Network
+https://youtu.be/f-IGT7h_sWQ
+Networks: Network Interface Card
+https://youtu.be/FwNRb6MwXTI
+Networks: What is a Mac Address?
+https://youtu.be/tcvTjQldnBI
+Networks: The size of a Mac Address
+https://youtu.be/lnQKsdCmjt4
+Networks: What is a LAN?
+https://youtu.be/a8BvToqQ7Zo
+Networks: What is a WAN?
+https://youtu.be/r_3AKHSN-XU
+Networks: How computers talk
+https://youtu.be/OV9rruR09HM
+Networks: Collision Detection and Avoidance
+https://youtu.be/Y1HkHV592Ds
+
+Dec 9th (day 76)
+https://www.codecademy.com/en/courses/learn-css-box-model/lessons/box-model-new/exercises/change-model
+
+// more on exact-change
+https://www.freecodecamp.org/challenges/exact-change
+//supporitng reading
+https://stackoverflow.com/questions/8900652/what-does-do-in-javascript (this is on % modulus)
+
+Dec 10th (Day 77)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-new/exercises/box-content
+
+// start on fCC calculator
+// this: https://www.freecodecamp.org/challenges/build-a-javascript-calculator
+// working on it here: https://codepen.io/DarrenfJ/pen/JMPYoq
+// based off these vids: https://www.youtube.com/user/SnowmanSpeaks/playlists
+freeCodeCamp | Advanced Front End Development Projects | Build a JavaScript Calculator | Part 1
+https://youtu.be/Jj9-194bKa0
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 25 - Combining Selectors
+https://youtu.be/rK54iCKi6TE
+
+// more fCC calculator
+freeCodeCamp | Advanced Front End Development Projects | Build a JavaScript Calculator | Part 2
+https://youtu.be/1VEbON_taoo
+
+Dec 11th (Day 78)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-new/exercises/box-border
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-new/exercises/box-model-updated
+
+// on study
+The Feynman Technique
+https://youtu.be/tkm0TNFzIeg
+
+// coding reading:
+http://blog.teamtreehouse.com/learn-a-new-programming-language-every-year
+
+Dec 12th (day 79)
+https://www.codecademy.com/courses/learn-css-box-model/lessons/box-model-new/exercises/new-box-model-review
+
+// coding reading:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 26 - The Universal Selector
+https://youtu.be/EO4ToIX-ZQk
+
+Dec 13th (Day 80)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/html-flow
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-position
+
+Dec 14th (Day 81)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-position-relative
+
+Dec 15th (Day 82)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-position-absolute
+
+Dec 16th (day 83)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-position-fixed
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 27 - Font Size
+https://youtu.be/799zrGVpfA8
+
+Dec 17th (Day 84)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-z-index
+
+Dec 18th (Day 85)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/display-inline
+
+Dec 19th (Day 86)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/display-block
+
+Dec 20th (Day 87)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/display-inline-block
+
+Dec 21st (day 88)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-float
+
+Dec 22nd (Day 89)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/css-clear
+
+Dec 23rd (day 90)
+https://www.codecademy.com/courses/learn-css-display-positioning/lessons/css-display-positioning/exercises/review-css-display-positioning
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/what-is-color
+
+// fCC beta.. (QAing it, random order)
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/introduction-to-the-json-apis-and-ajax-challenges
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/handle-click-events-with-javascript-using-the-onclick-property
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/change-text-with-click-events
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/get-json-with-the-javascript-xmlhttprequest-method
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/access-the-json-data-from-an-api
+
+Dec 24th (Day 91)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/foreground-vs-background
+
+Dec 25th (Day 92)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/what-is-color-hex
+
+Dec 26th (day 93)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/color-hex-to-rgb
+
+Dec 27th (Day 94)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/color-entire-palette
+
+Dec 28 (day 95)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/color-hsl
+
+Dec 29th (day 96)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/color-alpha
+
+Dec 30th (day 97)
+https://www.codecademy.com/courses/learn-css-colors/lessons/color/exercises/color-review
+
+Dec 31 (day 98)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/typography
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-family
+
+Jan 1st (Day 99)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-weight-i
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 28 - Font Family
+https://youtu.be/v2o8LJWnoxI
+CSS Tutorial For Beginners 29 - Text Decoration
+https://youtu.be/dm54To0EOpw
+CSS Tutorial For Beginners 30 - Font Weight
+https://youtu.be/qeh4UeaGTnc
+CSS Tutorial For Beginners 31 - Text Transform
+https://youtu.be/j0FS2hCoIjs
+CSS Tutorial For Beginners 32 - Text Colour
+https://youtu.be/QzKu1qG4p5A
+CSS Tutorial For Beginners 33 - Styling Links
+https://youtu.be/w_1pQGfrHT8
+
+// coding reading:
+https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d
+http://techbrij.com/css-selector-adjacent-child-sibling
+https://hackernoon.com/apis-how-the-internet-works-behind-the-scenes-690288634c32
+
+Jan 2nd (day 100)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-weight-ii
+
+// fCC beta testing:
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/convert-json-data-to-html
+
+
+to do also:
+
+// more fCC calculator
+freeCodeCamp | Advanced Front End Development Projects | Build a JavaScript Calculator | Part 3
+https://youtu.be/POv394EKTjU
+
+to do
+
+// hackracker prep - Udacity JS course
+// review
+Ternary Operator
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/13bf22aa-272f-410f-b042-17972a217328
+Quiz: Navigating the Food Chain (3-8)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
+
 
 =============================================================================================================================
 
 // next sass: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
-// next CSS: https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/link-html-css
-
+// next CSS: https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-style-i
 
 // codewars (https://www.codewars.com/)
 
@@ -357,6 +764,10 @@ https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/e
 // vids on fCC projects: twitch viewer
 Use the TwitchTV JSON API Part 4 Intermediate Front End Projects: Free Code Camp
 https://youtu.be/tilEru1nD0I
+
+// lot of great training links in here
+http://www.dungeonsanddevelopers.com/#__4_Your Name
+
 
 =========
 
