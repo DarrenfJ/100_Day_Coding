@@ -1,0 +1,322 @@
+Coding Seventh Run 100 Day Challenge
+
+Jan 3rd (day 1)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-style-i
+
+Jan 4th (day 2)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/word-spacing
+
+Jan 5th (day 3)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/letter-spacing
+
+Jan 6th (day 4)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/text-transform
+
+Jan 7th (Day 5)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/text-align
+
+Jan 8th (day 6)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/anatomy-line-height
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/line-height-i
+
+Jan 9th (day 7)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/serif-and-sans-serif
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/fallback-fonts-i
+
+Jan 10th (day 8)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/linking-fonts-i
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/linking-fonts-ii
+
+Jan 11th (Day 9)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-face-i
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-face-ii
+
+Jan 12th (day 10)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/font-face-iii
+
+Jan 13th (Day 11)
+https://www.codecademy.com/courses/learn-css-typography/lessons/css-typography/exercises/typography-review
+
+Jan 14th (Day 12)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-intro
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/display-grid
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 34 - Letter Spacing & Line Height
+https://youtu.be/4Gyd8hbrcBk
+CSS Tutorial For Beginners 35 - Paragraph Spacing
+https://youtu.be/DdcD9otFk4A
+
+Jan 15th (day 13)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-template-columns
+
+// fCC vids- rewatching the math ones
+// Maths for Programmers
+Maths for Programmers: Introduction (Tips For Learning)
+https://www.youtube.com/watch?v=LSBC3n9x52Q&list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1
+Maths for Programmers: Introduction (What Is Discrete Mathematics?)
+https://youtu.be/1FfX2xW3104
+
+forked https://github.com/DarrenfJ/collaborative_effort 
+(for playing around with GitHub with an fCC forum collaborator)
+
+Jan 16th (day 14)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-template-rows
+
+// for the GitHub repo: https://github.com/DarrenfJ/collaborative_effort
+https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381
+https://guides.github.com/activities/forking/
+
+Jan 17th (Day 15)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-template
+
+// for the GitHub repo: https://github.com/DarrenfJ/collaborative_effort
+build a 'project' to test run it
+create a GitHub webpage from the repo (this is the original way but I think you can do it via the master now)
+http://blog.teamtreehouse.com/using-github-pages-to-host-your-website
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 36 - The Box Model
+https://youtu.be/Qx-yzUBqatQ
+
+Jan 18 (day 16)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/fraction
+
+Jan 19th (day 17)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/repeat
+
+// for the GitHub repo: https://github.com/DarrenfJ/collaborative_effort
+build a folder for training
+
+Jan 20th (Day 18)
+
+
+you have to rewatch this one: https://youtu.be/Qx-yzUBqatQ - box model.. 2nd 'half'
+
+/ fCC vids- rewatching the math ones
+// Maths for Programmers
+[insert some vids links]
+
+to do also:
+
+// more fCC calculator
+freeCodeCamp | Advanced Front End Development Projects | Build a JavaScript Calculator | Part 3
+https://youtu.be/POv394EKTjU
+
+to do
+
+// hackracker prep - Udacity JS course
+// review
+Ternary Operator
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/13bf22aa-272f-410f-b042-17972a217328
+Quiz: Navigating the Food Chain (3-8)
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
+
+
+=============================================================================================================================
+
+// next sass: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
+// next CSS: https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/minmax
+
+
+// CSS for beginners con't (last one)
+CSS Tutorial For Beginners 33 - Styling Links
+https://youtu.be/w_1pQGfrHT8
+
+// fCC vids
+// Maths for Programmers
+https://www.youtube.com/watch?v=LSBC3n9x52Q&list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1
+
+
+// fCC beta testing: (last one)
+https://beta.freecodecamp.org/en/challenges/json-apis-and-ajax/convert-json-data-to-html
+
+// CSS animation (last?)
+Making Our First Pure CSS Image
+https://coding-artist.teachable.com/courses/155435/lectures/2312834
+
+// Code girl's challenge
+// 15 minutes a day for a week website
+https://github.com/DarrenfJ/viking-tribute
+
+=============================================================================================================================
+
+// codewars (https://www.codewars.com/)
+
+// Udacity intro to JS
+https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
+
+
+//sometimes hack reactor prep
+https://github.com/DarrenfJ/100_Day_Coding/blob/master/Hack%20reactor%20prep.txt
+Udacity Java course
+
+//youtubes on coding: (last one)
+AJAX - Beau teaches JavaScript
+https://youtu.be/tHRNuBf_8xg
+
+// medium articles on coding: (last one)
+https://medium.com/career-change-coder/11-concepts-to-master-as-a-newbie-to-coding-73a7b2dc294
+
+// and JIRA vids for work
+
+//playing around in the fCC beta:
+http://beta.freecodecamp.com/en/challenges/bootstrap/use-responsive-design-with-bootstrap-fluid-containers
+
+/ ruby course:
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/call-me-maybe
+https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/symbols-meet-procs
+
+// vids on fCC projects: twitch viewer
+Use the TwitchTV JSON API Part 4 Intermediate Front End Projects: Free Code Camp
+https://youtu.be/tilEru1nD0I
+
+// lot of great training links in here
+http://www.dungeonsanddevelopers.com/#__4_Your Name
+
+
+=========
+
+Some lists of stuff to go over again:
+
+//do one watch and code [insert link]
+
+//do one hacker prep [insert link] <-- have started it in it's own list
+
+[next day] (Day XX)
+// Lynda.com for Developer: Virtualization [add section info] (From: Learning Virtualization)
+add link
+
+// next beta: http://beta.freecodecamp.com/en/challenges/es6/write-arrow-functions-with-parameters
+
+// always/daily helping in the FCC helpRoom since July.. https://gitter.im/FreeCodeCamp/Help
+
+To Do:
+
+//some goals: finish watch and code (JS), final stuff on C training, Continue long path with ruby (for work), networking IP's (for work), SQL for work (udemy), java intro's for work 
+
+// https://www.lynda.com/Network-Administration-tutorials/Introduction-Networking/184144-2.html
+
+// Ruby to do: https://www.ruby-lang.org/en/documentation/
+// and: https://rubymonk.com/ and http://rubykoans.com/
+
+// next beta: 
+[insert next beta]
+
+// more treehouse java: https://teamtreehouse.com/library/unit-testing-in-java/why-test/introducing-the-project
+
+//continue fCC from here: https://www.freecodecamp.com/challenges/concatenating-strings-with-plus-operator
+
+// next ruby rails: https://www.codeschool.com/courses/rails-for-zombies-redux
+
+==========
+
+// to do: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+// codecademy react course do!
+
+// want to redo the git and regex in Code School
+
+Stuff still to watch
+
+GitHub
+
+Everything I Wish I Knew When I Started Using GitHub
+https://youtu.be/KDUtjZHIx44
+
+DevTips
+
+start from the back and watch forward: https://www.youtube.com/user/DevTipsForDesigners/videos?sort=da&flow=grid&view=0
+
+Still to watch this
+
+C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 1 of 13
+https://www.youtube.com/watch?v=UIUlFQH4Cvo
+
+// need to reread: https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.rbfrbo33f
+// https://auth0.com/ and https://help.github.com/articles/connecting-with-third-party-applications/
+
+Further Study:
+
+http://materializecss.com/
+
+http://eloquentjavascript.net/10_modules.html
+
+=====
+
+from 2nd run
+
+To do:
+
+// web developer wiki links
+// DevTips
+// funfunFunctions
+// finish nodeschool
+// code abbey
+// hacker rank
+// codeschool
+// C#
+// Udemy
+// Udacity
+// start Open Computer Science courses
+// codecombat
+
+// some links in here:
+http://ericsteinborn.com/github-for-cats/#/80
+http://ericsteinborn.com/github-for-cats/#/81
+
+recommended:
+http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+http://codecondo.com/becoming-a-better-javascript-developer/
+http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html
+http://programmers.stackexchange.com/questions/95353/how-to-become-a-javascript-ninja
+https://www.linkedin.com/pulse/20141005063512-158516115-how-to-be-a-professional-javascript-developer
+http://www.guyellisrocks.com/2013/06/8-reasons-you-should-become-javascript.html
+http://justinchmura.com/2014/08/20/become-a-better-javascript-developer/
+http://es6katas.org/
+// need to reread: https://medium.freecodecamp.com/how-to-write-a-jquery-like-library-in-71-lines-of-code-learn-about-the-dom-e9fb99dbc8d2#.qtlga2hw5
+// need to reread: https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c#.cqy2c14uz
+// need tp reread: https://medium.freecodecamp.com/canmaking-it-rain-code-matrix-style-ec6e1386084e#.592xnlt05
+
+=====
+
+from 1st run:
+
+More Khan
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/perfect-secrecy
+
+I know we all know, but sometimes it's fun to be reminded:
+How computer memory works - Kanawat Senanan
+https://youtu.be/p3q5zWCw8J4
+
+https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo
+https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/e/congruence-relation
+
+Might have done some of this yesterday or the day before
+http://www.frontendhandbook.com/practice/team.html
+http://www.frontendhandbook.com/practice/myth.html
+
+This one I'm going to hold off and do another time: http://www.frontendhandbook.com/practice/interview-q.html
+and this one: http://www.frontendhandbook.com/practice/jobboards.html
+and: http://www.frontendhandbook.com/practice/salaries.html
+
+this yes: http://www.frontendhandbook.com/practice/making-fd.html
+
+everyday I do another Free Code Camp exercise ( http://www.freecodecamp.com/ )
+my results: http://www.freecodecamp.com/darrenfj
+and Codecademy exercises
+https://www.codecademy.com/Darrenfj
+
+====
+
+of course everyday I do another Free Code Camp exercise ( http://www.freecodecamp.com/ )
+my results: http://www.freecodecamp.com/darrenfj
+
+Oh, and I sort of halfass Codecademy (I've done most of it already under a different account)
+I started it again last year when Free Code Camp was using it as it's content for JavaScript and Jquery training
+https://www.codecademy.com/Darrenfj
+
+Art of the Problems videos? And networking from bucky (check my emails for ones)
+
+
+
