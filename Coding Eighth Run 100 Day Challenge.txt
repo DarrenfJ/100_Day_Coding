@@ -89,9 +89,233 @@ https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/r
 build a folder for training
 
 Jan 20th (Day 18)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/minmax
+
+Jan 21 (day 19)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-gap
+
+Jan 22 (Day 20)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-item
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-row-start-end
+
+// more on my GitHub projects and support reading:
+https://help.github.com/articles/configuring-automation-for-project-boards/
+
+Jan 23 (day 21)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-row
+
+Jan 24 (day 22)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-col
+
+// fCC vids
+// Maths for Programmers
+Maths for Programmers: Sets (What Is A Set?)
+https://youtu.be/nsdtv8O0K50
+
+Jan 25 (day 23)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/grid-area
+
+// coding reading
+https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d
+
+Jan 26 (day 24)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/review
+
+// sourcing git articles for our website collaboration
+https://github.com/RomchyFCC/GitHub-Practice-For-All
+https://github.com/DarrenfJ/collaborative_effort
+
+Jan 27 (Day 25)
+https://www.codecademy.com/en/courses/learn-css-grid/lessons/css-grid-ii/exercises/introduction-css-grid-ii
+
+// check out: https://www.codecademy.com/learn/learn-node-sqlite
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/introduction
+
+Jan 28 (day 26)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-template-areas
+
+Jan 29 (Day 27)
+// checking out: https://www.codecademy.com/learn/learn-node-sqlite
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/opening-a-database
+
+// CSS for beginners con't
+rewatch - CSS Tutorial For Beginners 36 - The Box Model
+https://youtu.be/Qx-yzUBqatQ
+
+Jan 30 (day 28)
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/retrieving-all-rows
+
+Jan 31 (day 29)
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/retrieving-a-single-row
+
+// fCC vids
+// Maths for Programmers
+Maths for Programmers: Sets (Interval Notation & Common Sets)
+https://youtu.be/Iz43uTVTolY
+
+Feb 1st (day 30)
+//node sql
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-placeholders
+
+Feb 2nd (Day 31)
+//css-grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/overlapping-elements
+
+Feb 3rd (day 32)
+//node sql
+https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/handling-errors
+
+Feb 4th (day 33)
+//css-grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-items
+
+// fCC vids
+// Maths for Programmers
+Maths for Programmers: Sets (What Is A Rational Number?)
+https://youtu.be/P1dtkWTX6Us
+Maths for Programmers: Sets (Here Is A Non-Rational Number)
+https://youtu.be/isbt-7DQBy0
+
+Feb 5th (Day 34)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-content
+
+Feb 6th (day 35)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/align-items
+
+//coding stuff to read/watch
+This Woman Created a Programming Language with Privacy Baked In
+https://youtu.be/Q6NiqRqGePU
+
+Feb 7th (day 36)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/align-content
+
+Feb 8th (day 37)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-align-self
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 37 - Margins
+https://youtu.be/ggo0di5L6sA
+
+Feb 9th (Day 38)
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/implicit-explicit-grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto
+
+Feb 10th (Day 39)
+// play around with Python
+// https://www.codecademy.com/learn/learn-python
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/welcome
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/variables
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/booleans
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/youve-been-reassigned
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/whitespace
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/whitespace-means-right-space
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/a-matter-of-interpretation
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/single-line-comments
+
+//podcasts
+https://learntocodewith.me/podcast/break-into-a-devops-career-with-nicole-forsgren/
+
+Feb 11th (Day 40)
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/multi-line-comments
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/math
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/exponentiation
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/modulo
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/bringing-it-all-together
+
+//podcasts
+https://learntocodewith.me/podcast/public-health-to-web-development-with-jade-applegate/
+
+Feb 12th (Day 41)
+https://www.codecademy.com/en/courses/learn-python/lessons/tip-calculator/exercises/the-meal
+
+// various vids
+Git & GitHub: Introduction to Git & GitHub
+https://youtu.be/vR-y_2zWrIE
+
+Feb 13th (Day 42)
+https://www.codecademy.com/courses/learn-python/lessons/tip-calculator/exercises/the-tax
+https://www.codecademy.com/courses/learn-python/lessons/tip-calculator/exercises/the-tip
+
+// mediums read on coding or tech
+https://medium.com/@michaelwadejr12/the-right-approach-of-using-qa-in-devops-a297e84a4ce5
+
+Feb 14th (Day 43)
+https://www.codecademy.com/courses/learn-python/lessons/tip-calculator/exercises/reassign-in-a-single-line
+
+Feb 15th (day 44)
+https://www.codecademy.com/courses/learn-python/lessons/tip-calculator/exercises/the-total
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 38 - Padding
+https://youtu.be/4YF-eaX4P0k
+
+Feb 16th (day 45)
+https://www.codecademy.com/en/courses/learn-python/lessons/strings--console-output/exercises/strings
+
+// fCC vids:
+Scrum in 16 minutes
+https://youtu.be/vuBFzAdaHDY
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 39 - Padding & Margin Long-hand
+https://youtu.be/0Sm7MkZXT-8
+
+Feb 17th (Day 46)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/practice
+
+Feb 18th (Day 47)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/escaping-characters
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 40 - Borders
+https://youtu.be/sdn5p4kf91c
+
+// redo the Codeschool sql stuff
+// from: https://www.codeschool.com/courses/try-sql
+http://campus.codeschool.com/courses/try-sql/level/1/section/1/video/1
+
+Feb 19 (day 48)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/access-by-index
+
+// some paying around with our collaboration project:
+// https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808
+https://github.com/RomchyFCC/GitHub-Practice-For-All/issues
+
+Feb 20th (day 49)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-methods
+
+// redo the Codeschool sql stuff
+// from: https://www.codeschool.com/courses/try-sql
+http://campus.codeschool.com/courses/try-sql/level/1/section/1/database-usage (all of the subexercises 1.1 to 1.10)
 
 
-you have to rewatch this one: https://youtu.be/Qx-yzUBqatQ - box model.. 2nd 'half'
+Feb 21 (day 50)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/lower
+
+// more junk onthe GitHub contribution site
+https://github.com/RomchyFCC/GitHub-Practice-For-All
+https://github.com/DarrenfJ/collaborative_effort
+
+//podcasts
+https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/
+https://learntocodewith.me/podcast/teacher-to-github-employee-with-briana-swift/
+
+// redo the Codeschool sql stuff
+// from: https://www.codeschool.com/courses/try-sql
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/video/1
+
+
+to do:
+
+// gonna reset the sql codecademy stuff and redo it
+https://www.codecademy.com/learn/learn-sql
+next python: https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/upper
+to do:
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto-flow
+// next node/sql: https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-db-run
+
+--
+
 
 / fCC vids- rewatching the math ones
 // Maths for Programmers
@@ -107,17 +331,14 @@ to do
 
 // hackracker prep - Udacity JS course
 // review
-Ternary Operator
+redo: Ternary Operator
 https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/13bf22aa-272f-410f-b042-17972a217328
-Quiz: Navigating the Food Chain (3-8)
-https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/736af213-7f05-411c-8e72-e26dd48a28fa
-
 
 =============================================================================================================================
 
 // next sass: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
-// next CSS: https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-i/exercises/minmax
-
+// next CSS: https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto-flow
+// next node/sql: https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-db-run
 
 // CSS for beginners con't (last one)
 CSS Tutorial For Beginners 33 - Styling Links
