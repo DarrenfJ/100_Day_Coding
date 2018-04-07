@@ -1,0 +1,77 @@
+Coding Active Learning 2018
+
+math
+Maths for Programmers: Sets (Subsets & Supersets)
+https://www.youtube.com/watch?v=p_s3zjCEBiQ&list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1&index=9
+
+CSS Grids
+CSS Grid: Moving From CSS Frameworks To CSS Grid (2018 and beyond)
+https://youtu.be/paMmgo4MhQ8
+
+CSS Variables
+https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
+
+Courses WesBos
+https://courses.wesbos.com/account
+https://cssgrid.io/
+login link: https://mail.google.com/mail/u/0/#inbox/1611138f16fb59a6
+
+
+Drop Down Menu — CSS Animations
+https://youtu.be/AIdslaUj9wg
+
+https://www.cssfontstack.com/
+
+HTML5 Basics - History of HTML (Part1)
+https://youtu.be/NzzGt7EmXVw
+
+
+Uncle Al
+VLOOKUP Pivot Tables and if conditions Excel
+https://youtu.be/txMwSyeJN6o
+
+neural networks
+But what *is* a Neural Network? | Chapter 1, deep learning
+https://youtu.be/aircAruvnKk
+
+W3schools sql: https://www.w3schools.com/sql/
+http://smallbusiness.chron.com/attach-sql-database-49760.html
+
+
+JS calculator
+freeCodeCamp | Advanced Front End Development Projects | Build a JavaScript Calculator | Part 3
+https://youtu.be/POv394EKTjU
+
+his site:
+https://www.youtube.com/user/SnowmanSpeaks/playlists
+
+my calculator:
+https://codepen.io/DarrenfJ/pen/JMPYoq?editors=1100
+
+Snow twitch app
+https://www.youtube.com/watch?v=oZ9KTppX4T8&list=PLcwcsiRRNFZXkPzkge5yBKPH9DowN8sqX
+
+fCC local weather
+https://codepen.io/freeCodeCamp/full/bELRjV
+https://fcc-weather-api.glitch.me/
+
+JavaScript Tic Tac Toe Project Tutorial - Unbeatable AI w/ Minimax Algorithm
+https://www.youtube.com/watch?v=P2TcQ3h0ipQ&feature=youtu.be
+
+Pomodoro clock - snow
+https://youtu.be/_paVjWTh8sY
+
+coding tutorials 360
+Use the TwitchTV JSON API Part 4 Intermediate Front End Projects: Free Code Camp
+https://youtu.be/tilEru1nD0I
+
+greg French videos
+https://www.youtube.com/user/frenchge/videos?sort=da&view=0&flow=grid
+
+Canada Learning to Code
+https://mail.google.com/mail/u/0/#inbox/15f59160e411e0f5
+https://www.canadalearningcode.ca/get-involved/
+
+ladies learn to code
+
+

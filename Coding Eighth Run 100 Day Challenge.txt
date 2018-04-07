@@ -288,7 +288,6 @@ https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/
 // from: https://www.codeschool.com/courses/try-sql
 http://campus.codeschool.com/courses/try-sql/level/1/section/1/database-usage (all of the subexercises 1.1 to 1.10)
 
-
 Feb 21 (day 50)
 https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/lower
 
@@ -300,19 +299,406 @@ https://github.com/DarrenfJ/collaborative_effort
 https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/
 https://learntocodewith.me/podcast/teacher-to-github-employee-with-briana-swift/
 
+Feb 22 (day 51)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/upper
+
 // redo the Codeschool sql stuff
 // from: https://www.codeschool.com/courses/try-sql
 http://campus.codeschool.com/courses/try-sql/level/1/section/2/video/1
 
+// Maths for Programmers
+Maths for Programmers: Sets (Set Operators)
+https://youtu.be/GU9RA-SldV8
+Maths for Programmers: Sets (Set Operators (Examples))
+https://youtu.be/gbyQcrMbxyU
+
+Feb 23 (day 52)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/str
+
+// did some of the scrim code stuff on variables
+// CSS Variables
+// https://scrimba.com/g/gcssvariables
+Why learn CSS Variables
+https://scrimba.com/p/ppYrcJ/cdmVpU8
+
+Feb 24th (day 53)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/dot-notation
+
+//podcasts
+https://learntocodewith.me/podcast/freelance-while-full-time-with-ryan-robinson/
+
+Feb 25th (Day 54)
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/printing-strings
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/printing-variables
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-concatenation
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/explicit-string-conversion
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-formatting-with--part-
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-formatting-with--part--1
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/and-now-for-something-completely-familiar
+
+//podcasts (I think I listened to this one a few years back)
+https://learntocodewith.me/podcast/earn-money-with-your-skills-with-adda-birnir/
+
+Feb 26th (Day 54)
+https://www.codecademy.com/en/courses/learn-python/lessons/date-and-time/exercises/the-datetime-library
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/getting-the-current-date-and-time
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/extracting-information
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/hot-date
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/pretty-time
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/grand-finale
+
+// scrimba's free courses
+// CSS Variables
+// https://scrimba.com/g/gcssvariables
+Your first CSS Variable
+https://scrimba.com/p/ppYrcJ/cKkKrhL
+
+Feb 27th (Day 55)
+https://www.codecademy.com/en/courses/learn-python/lessons/conditionals--control-flow/exercises/go-with-the-flow
+
+Feb 28th (Day 56)
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/compare-closely
+
+// and started security course on treehouse
+// from: https://teamtreehouse.com/library/security-literacy
+https://teamtreehouse.com/library/security-foundations
+https://teamtreehouse.com/library/the-flow-of-the-internet
+https://teamtreehouse.com/library/security-literacy/hello-internet/security-concepts-and-flow
+https://teamtreehouse.com/library/mind-your-metadata
+
+// scrimba's free courses
+// CSS Variables
+Overriding variables
+https://scrimba.com/p/ppYrcJ/cWNn2sy
+
+March 1st (Day 57)
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/compare-closelier
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/security-literacy
+https://teamtreehouse.com/library/threat-model
+https://teamtreehouse.com/library/security-literacy/hello-internet/metadata-and-threat-modeling
+
+March 2nd (Day 58)
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/how-the-tables-have-turned
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/to-be-andor-not-to-be
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/and
+
+// scrimba's free courses
+// CSS Variables
+Local variables
+https://scrimba.com/p/ppYrcJ/cqMG8s4
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/security-literacy
+https://teamtreehouse.com/library/contextualize-your-risk
+https://teamtreehouse.com/library/spear-phishing
+
+March 3rd (Day 59)
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/or
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/security-literacy
+https://teamtreehouse.com/library/the-dangers-of-passwords-part-1
+https://teamtreehouse.com/library/the-dangers-of-passwords-part-2
+https://teamtreehouse.com/library/security-literacy/common-attacks-and-defenses/phishing-and-passwords
+https://teamtreehouse.com/library/get-off-my-machine
+https://teamtreehouse.com/library/man-in-the-middle
+https://teamtreehouse.com/library/security-literacy/common-attacks-and-defenses/attacks-and-preventions
+https://teamtreehouse.com/library/encryption-never-leave-home-without-it
+https://teamtreehouse.com/library/security-literacy/security-in-practice/uses-of-encryption
+https://teamtreehouse.com/library/internet-traffic-revisited
+https://teamtreehouse.com/library/final-recommendations
+https://teamtreehouse.com/library/security-literacy/security-in-practice/security-literacy-review
+// next course on security
+// from: https://teamtreehouse.com/library/introduction-to-data-security
+https://teamtreehouse.com/library/security-is-putting-your-users-first
+https://teamtreehouse.com/library/risk-assessment-and-management
+
+// redo the Codeschool sql stuff
+// from: https://www.codeschool.com/courses/try-sql
+// con't on sql vid 2
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/video/1
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/sql_interaction
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/all_rows
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/only_genre
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/fix_select
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/filtering_data
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/introducing-select
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/record_count
+http://campus.codeschool.com/courses/try-sql/level/1/section/2/returning_title
+
+//podcasts
+https://learntocodewith.me/podcast/introducing-the-ltcwm-podcast/
+https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/
+
+
+March 4 (day 60)
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/not
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/this-and-that-or-this-but-not-that
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/mix-n-match
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/conditional-statement-syntax-
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/if-youre-having
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/else-problems-i-feel-bad-for-you-son
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/i-got--problems-but-a-switch-aint-one
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/the-big-if
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/introduction-to-data-security
+https://teamtreehouse.com/library/hashing-2
+https://teamtreehouse.com/library/encryption
+https://teamtreehouse.com/library/introduction-to-data-security/concerns/review-security-concerns
+
+March 5th (Day 61)
+https://www.codecademy.com/en/courses/learn-python/lessons/pyglatin/exercises/break-it-down
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ahoy-or-should-i-say-ahoyay
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/input
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/check-yourself
+
+March 6th (Day 62)
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/check-yourself-some-more
+http://www.pythonforbeginners.com/basics/python-conditional-statements/
+
+March 7th (day 63)
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/pop-quiz
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ay-b-c
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/word-up
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/move-it-on-back
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ending-up
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/testing-testing-is-this-thing-on-
+
+March 8th (day 64)
+https://www.codecademy.com/en/courses/learn-python/lessons/functions/exercises/what-good-are-functions
+
+//coding related blogs etc
+https://medium.com/p1xts-blog/want-to-program-games-48cbf6debead
+
+March 9th (day 65)
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/function-junction
+
+March 10th (day 66)
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/call-and-response
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/parameters-and-arguments
+
+March 11th (Day 67)
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/functions-calling-functions
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/introduction-to-data-security
+https://teamtreehouse.com/library/storing-passwords
+
+March 12th (Day 68)
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/practice-makes-perfect
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/i-know-kung-fu
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/generic-imports
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/function-imports
+
+March 13th (day 69)
+// they updated python course today
+// have to review
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/universal-imports
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/here-be-dragons
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/on-beyond-strings
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/max
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/min
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/abs
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/type
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-functions
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-modules
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-built-in-functions
+
+
+March 14th (Day 70)
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/before-we-begin
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/planning-your-trip-
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/getting-there
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/transportation-
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/pull-it-together-
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/hey-you-never-know
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/plan-your-trip
+// getting error on continuing on on python
+
+// scrimba's free courses
+// CSS Variables
+Theming with CSS Variables
+https://scrimba.com/p/ppYrcJ/cPmkdcr
+
+March 15th (Day 71)
+// python is back!
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/introduction-to-lists
+
+March 16th (Day 72)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/access-by-index-1
+
+March 17th (Day 73)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/new-neighbors
+
+// articles on coding:
+https://blog.kentcdodds.com/first-timers-only-78281ea47455
+
+March 18 (Day 74)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/late-arrivals--list-length
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/list-slicing
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/slicing-lists-and-strings
+
+March 19th (Day 75)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/maintaining-order
+
+March 20th (Day 76)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/for-one-and-all
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/more-with-for
+
+March 21 (day 77)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/this-next-part-is-key
+
+March 22 (Day 78)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/new-entries
+
+March 23 (Day 79)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/changing-your-mind
+
+March 24th (Day 80)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/remove-a-few-things
+
+// want to focus back on CSS and finish off CSS, Net Ninja, fCC math, and other incompletes
+
+// scrimba's free courses
+// CSS Variables
+Changing variables with JavaScript
+https://scrimba.com/p/ppYrcJ/cqMGPCN
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 41 - Block-level Elements
+https://youtu.be/HuiPIK-0-_A
+
+March 25th (Day 81)
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/its-dangerous-to-go-alone-take-this
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 42 - Width & Height
+https://youtu.be/b9lWNg8lwW4
+
+// scrimba's free courses
+// CSS Variables
+Responsiveness and CSS Variables
+https://scrimba.com/p/ppYrcJ/cvRdVhd
+
+March 26th (Day 82)
+https://www.codecademy.com/en/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/befor-we-begin
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/this-is-key
+
+March 27th (Day 83)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/control-flow-and-looping
+
+March 28 (Day 84)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/lists--functions
+
+March 29 (Day 85)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/string-looping
+
+March 30th (Day 86)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/your-own-store
+
+March 31st (day 87)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/investing-in-stock-
+
+April 1st (Day 88)
+// Codecademy intoductory junk
+https://www.codecademy.com/courses/welcome-to-codecademy/lessons/welcome-to-codecademy/exercises/change-physics
+
+April 2nd (Day 89)
+// Codecademy intoductory junk
+https://www.codecademy.com/courses/welcome-to-codecademy/lessons/welcome-to-codecademy/exercises/onward
+
+April 3rd (Day 90)
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/why-jquery
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/keeping-track-of-the-produce-
+
+//reading for coding - AI
+https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
+https://www.nytimes.com/2017/08/13/technology/artificial-intelligence-safety-training.html
+
+April 4th (day 91)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/something-of-value-
+
+// scrimba's free courses
+// CSS Variables
+Two inheritance examples
+https://scrimba.com/p/ppYrcJ/caDZ2UW
+
+// coding leadership etc
+https://hackernoon.com/how-coders-can-improve-envioronment-74e5f88cbc9
+https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e
+
+April 5th (Day 92)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/shopping-at-the-market
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 43 - Rounded Corners
+https://youtu.be/7WPgQVMayWI
+
+// CSS Flexbox
+// https://scrimba.com/g/gflexbox
+Your first Flexbox layout
+https://scrimba.com/p/pL65cJ/canLGCw
+Main axis and cross axis
+https://scrimba.com/p/pL65cJ/cz94MT8
+Justify Content
+https://scrimba.com/p/pL65cJ/cVWPacR
+
+// leadership
+https://hackernoon.com/a-wake-up-call-for-tech-managers-d0415775efd0
+
+// coding
+https://medium.freecodecamp.org/how-to-read-your-way-to-becoming-a-better-developer-b6432fa5bc0c
+
+April 6th (day 93)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/making-a-purchase
+
+Gaming learning
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Essence of linear algebra preview
+https://youtu.be/kjBOesZCoqc
+
+April 7th (Day 94)
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/jquery-methods
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/jquery-library
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/adding-jquery
+
+next to do:
+
+next python: https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/stocking-out-
+
+CSS Tutorial For Beginners 44 - Backgrounds
+https://youtu.be/jY-oTfLGpvI
+
+// Maths for Programmers
+Maths for Programmers: Sets (The Universe & Complements (Examples))
+https://youtu.be/JujR2StuYJ8
+
+// CSS for beginners con't
+CSS Tutorial For Beginners 42 - Width & Height
+https://youtu.be/b9lWNg8lwW4
+
+// security course on treehouse
+// from: https://teamtreehouse.com/library/introduction-to-data-security
+https://teamtreehouse.com/library/storing-passwords
+
+// last podcast: https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/
+
+// Advanced CSS Grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/introduction-css-grid-ii
+
+// next codecademy
+next codecademy jQuery: https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/ready
+next codeschool sql: http://campus.codeschool.com/courses/try-sql/level/1/section/3/video/1
 
 to do:
+// next node/sql: https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-db-run
 
 // gonna reset the sql codecademy stuff and redo it
 https://www.codecademy.com/learn/learn-sql
-next python: https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/upper
-to do:
-https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto-flow
-// next node/sql: https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-db-run
 
 --
 
@@ -337,12 +723,6 @@ https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec9
 =============================================================================================================================
 
 // next sass: https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
-// next CSS: https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto-flow
-// next node/sql: https://www.codecademy.com/courses/learn-node-sqlite/lessons/learn-node-sqlite/exercises/using-db-run
-
-// CSS for beginners con't (last one)
-CSS Tutorial For Beginners 33 - Styling Links
-https://youtu.be/w_1pQGfrHT8
 
 // fCC vids
 // Maths for Programmers
@@ -384,7 +764,7 @@ https://medium.com/career-change-coder/11-concepts-to-master-as-a-newbie-to-codi
 //playing around in the fCC beta:
 http://beta.freecodecamp.com/en/challenges/bootstrap/use-responsive-design-with-bootstrap-fluid-containers
 
-/ ruby course:
+// ruby course:
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/call-me-maybe
 https://www.codecademy.com/courses/learn-ruby/lessons/blocks-procs-and-lambdas/exercises/symbols-meet-procs
 

@@ -1,0 +1,25 @@
+Scrimba CSS Variables course Feb 2018
+
+Feb 23rd
+
+// scrimba's free courses
+// CSS Variables
+// https://scrimba.com/g/gcssvariables
+Why learn CSS Variables
+https://scrimba.com/p/ppYrcJ/cdmVpU8
+
+Feb 26th
+Your first CSS Variable
+https://scrimba.com/p/ppYrcJ/cKkKrhL
+
+Feb 28th
+Overriding variables
+https://scrimba.com/p/ppYrcJ/cWNn2sy
+
+March 2nd
+Local variables
+https://scrimba.com/p/ppYrcJ/cqMG8s4
+
+
+
+
