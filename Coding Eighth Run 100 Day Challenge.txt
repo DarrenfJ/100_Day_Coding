@@ -607,7 +607,7 @@ April 1st (Day 88)
 https://www.codecademy.com/courses/welcome-to-codecademy/lessons/welcome-to-codecademy/exercises/change-physics
 
 April 2nd (Day 89)
-// Codecademy intoductory junk
+// Codecademy introductory junk
 https://www.codecademy.com/courses/welcome-to-codecademy/lessons/welcome-to-codecademy/exercises/onward
 
 April 3rd (Day 90)
@@ -666,9 +666,146 @@ https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setu
 https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/jquery-library
 https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/adding-jquery
 
+//python
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/stocking-out-
+
+// redo the Codeschool sql stuff
+// from: https://www.codeschool.com/courses/try-sql
+// con't on sql next vids
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/video/1
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/sorting_data
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/order_by
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/which_rows
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/except_metropolis
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/select_by_id_and_title
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/Two%20Conditionals
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/returning_title_with_or
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/adjusting-select
+http://campus.codeschool.com/courses/try-sql/level/1/section/3/adding_to_select
+http://campus.codeschool.com/courses/try-sql/level/1/wrap-up
+
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Vectors, what even are they? | Essence of linear algebra, chapter 1
+https://youtu.be/fNk_zzaMoSs
+
+// coding reading:
+https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a
+[note: tons of great links on the history of sql]
+
+// interview prep
+// https://www.interviewbit.com/courses/programming/topics/time-complexity/
+How to calculate running time?
+Time complexity analysis - How to calculate running time?
+https://youtu.be/8syQKTdgdzc
+
+// CSS Flexbox
+// https://scrimba.com/g/gflexbox
+Positioning items
+https://scrimba.com/p/pL65cJ/cGNK6fN
+The flex property
+https://scrimba.com/p/pL65cJ/cGNKJTv
+
+// redoing the try git
+https://try.github.io/levels/1/challenges/1
+https://try.github.io/levels/1/challenges/2
+https://try.github.io/levels/1/challenges/3
+https://try.github.io/levels/1/challenges/4
+
+April 8th (Day 95)
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/ready
+
+// coding reading:
+https://www.sitepoint.com/jquery-document-ready-plain-javascript/
+
+// redoing try git for P1xt tier 0 prep work
+https://try.github.io/levels/1/challenges/4
+https://try.github.io/levels/1/challenges/5
+https://try.github.io/levels/1/challenges/6
+https://try.github.io/levels/1/challenges/7
+https://try.github.io/levels/1/challenges/8
+https://try.github.io/levels/1/challenges/9
+https://try.github.io/levels/1/challenges/10
+https://try.github.io/levels/1/challenges/11
+https://try.github.io/levels/1/challenges/12
+https://try.github.io/levels/1/challenges/13
+https://try.github.io/levels/1/challenges/14
+https://try.github.io/levels/1/challenges/15
+https://try.github.io/levels/1/challenges/16
+https://try.github.io/levels/1/challenges/17
+https://try.github.io/levels/1/challenges/18
+https://try.github.io/levels/1/challenges/19
+https://try.github.io/levels/1/challenges/20
+https://try.github.io/levels/1/challenges/21
+https://try.github.io/levels/1/challenges/22
+https://try.github.io/levels/1/challenges/23
+https://try.github.io/levels/1/challenges/24
+https://try.github.io/levels/1/challenges/25
+https://try.github.io/wrap_up
+
+https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c
+
+//hackerrank challenges
+// from: https://www.hackerrank.com/domains/sql/select
+https://www.hackerrank.com/challenges/select-all-sql/problem
+https://www.hackerrank.com/challenges/select-by-id/problem
+https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+https://www.hackerrank.com/challenges/japanese-cities-name/problem
+https://www.hackerrank.com/challenges/weather-observation-station-1/problem
+
+April 9th (Day 96)
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/lets-check-out
+
+// jQuery
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/targeting-by-class
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/targeting-by-id
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/jquery-objects
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/event-handlers
+https://www.codecademy.com/courses/learn-jquery-introduction/lessons/jquery-setup/exercises/review
+
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
+https://youtu.be/k7RM-ot2NWY
+
+// interview prep
+// https://www.interviewbit.com/courses/programming/topics/time-complexity/
+Time complexity of a computer program
+https://youtu.be/V42FBiohc6c
+
+// CSS Flexbox
+// https://scrimba.com/g/gflexbox
+Align items
+https://scrimba.com/p/pL65cJ/cJqymH9
+Flex direction column
+https://scrimba.com/p/pL65cJ/cDzJ3Uq
+Wrapping
+https://scrimba.com/p/pL65cJ/cJqk7fW
+
+April 10th (Day 97)
+https://www.codecademy.com/en/courses/learn-python/lessons/student-becomes-the-teacher/exercises/lesson-number-one-
+
+//jQuery
+https://www.codecademy.com/courses/learn-jquery-effects/lessons/jquery-effects/exercises/effects-introduction
+https://www.codecademy.com/courses/learn-jquery-effects/lessons/jquery-effects/exercises/hide
+
+// CSS Flexbox
+// https://scrimba.com/g/gflexbox
+Flex grow, shrink, basis
+https://scrimba.com/p/pL65cJ/ck6L7fv
+
+// interview prep
+// https://www.interviewbit.com/courses/programming/topics/time-complexity/
+// rewatch:
+Time complexity of a computer program
+https://youtu.be/V42FBiohc6c
+
+
 next to do:
 
-next python: https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/stocking-out-
+https://www.codecademy.com/courses/learn-jquery-effects/lessons/jquery-effects/exercises/show
+
+next python: https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/whats-the-score
 
 CSS Tutorial For Beginners 44 - Backgrounds
 https://youtu.be/jY-oTfLGpvI

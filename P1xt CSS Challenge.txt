@@ -59,6 +59,8 @@ Oct 16th
 CSS Tutorial For Beginners 04 - Basic CSS Syntax
 https://youtu.be/1CqHws4WZ-M
 
+the rest were integrated into the 100 days of code list
+
 
 
 
