@@ -1,0 +1,1750 @@
+coding stuff while travelling
+
+April 26
+
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/math-operators
+
+April 27
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/properties
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/built-in-methods
+
+April 28th?
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/built-in-methods
+
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/libraries
+
+// from: https://www.codecademy.com/learn/learn-java (reset progress)
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/whats-your-name
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/data-types-1
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/comments
+
+April 30th
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/data-types-2
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/data-types-3
+
+May 1st
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/variables
+
+May 2nd
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/whitespace
+
+// from: https://www.hackerrank.com/domains/python/py-introduction
+https://www.hackerrank.com/challenges/py-if-else/problem
+https://www.hackerrank.com/challenges/py-hello-world/problem
+https://www.hackerrank.com/challenges/solve-me-first/problem
+
+May 3rd
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/comments
+
+May the 4th be with you 
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/math-1
+
+https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
+May 5th
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/math-2
+
+May 6th
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/relational-operators
+
+May 7th (Day X)
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/equality-operators
+
+May 8th
+https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/generalizations
+
+https://www.hackerrank.com/challenges/python-lists/tutorial
+
+May 9th
+https://www.codecademy.com/en/courses/learn-java/lessons/conditionals-control-flow/exercises/decisions
+
+May 10th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/boolean-operators-and
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/boolean-operators-or
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/boolean-operators-not
+
+May 11th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/boolean-operators-precedence
+
+Back!
+May 12th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/if-statement
+
+May 13th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/if-else
+
+May 14th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/if-elseif-else
+
+May 15th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/ternary-conditional
+
+May 16th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/switch-statement
+
+// from: https://www.hackerrank.com/domains/cpp/cpp-introduction
+https://www.hackerrank.com/challenges/solve-me-first/problem
+https://www.hackerrank.com/challenges/cpp-hello-world/problem
+
+May 17th
+https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/generalizations-conditionals
+
+May 18th
+https://www.codecademy.com/en/courses/learn-java/lessons/object-oriented-programming/exercises/object-oriented-overview
+
+May 19th 
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/classes-syntax
+
+May20th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/classes-constructors
+
+May 21st
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/classes-instance-variables
+
+// from: https://www.hackerrank.com/domains/cpp/cpp-introduction
+https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
+
+May 22
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/classes-constructor-parameters
+
+May 23rd
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/main-method
+
+May 24th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/objects
+
+May 25th
+articles on codeing I forgot to save
+Katalon - automated testing (play around with it)
+
+May 26th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/methods-1
+
+May 27th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/using-methods-1
+
+May 28th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/methods-2
+
+May 29th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/using-methods-2
+
+May 30th
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/inheritance
+
+May 31st
+https://www.codecademy.com/courses/learn-java/lessons/object-oriented-programming/exercises/generalizations-oop-java
+
+
+// new beta is live!
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements
+
+June 1st
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/data-structures
+
+// more beta:
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element
+
+June 2nd
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/for-loop
+
+// more beta:
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element/
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/fill-in-the-blank-with-placeholder-text
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/uncomment-html
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/comment-out-html
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/delete-html-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements
+
+June 3rd
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/arraylist
+
+// beta
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph/
+
+June 4th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/arraylist-manipulation
+
+// beta
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link
+
+// stuff I haven't covered yet
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property
+
+June 5th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/arraylist-access
+
+June 6th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/arraylist-insertion
+
+// stuff I haven't covered yet
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-u-tag-to-underline-text
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-em-tag-to-italicize-text
+
+// beta review for content changes
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-an-ordered-list
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-text-field
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-form-element
+
+June 7th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/arraylist-iterating
+
+June 8th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/for-each-loop
+
+// beta
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-an-image-responsive/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-del-tag-to-strikethrough-text/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-size-of-a-header-versus-a-paragraph-tag
+
+// redoing stuff
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default
+
+June 9th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/hashmap
+
+June 10th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/hashmap-manipulation
+
+June 11th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/hashmap-access
+
+June 12th
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/hashmap-iterating
+
+June 13th
+// from: https://www.codecademy.com/learn/learn-express
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/introduction
+
+// from fCC new stuff (beta)
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element/
+
+June 14th
+// from the express stuff
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/starting-a-server
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-elements
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-weight-for-multiple-heading-elements
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text
+
+// other beta I already did (html)
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element/
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document
+
+June 15th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/writing-your-first-route
+
+June 16th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/sending-a-response
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/matching-route-paths
+
+June 17th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/getting-a-single-expression
+
+June 18th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/setting-status-codes
+
+June 19th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/matching-longer-paths
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/other-http-methods
+
+// from fCC new stuff (beta)
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-line-height-of-paragraphs/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning
+
+// other beta I already did (CSS)
+// https://learn.freecodecamp.org/responsive-web-design/basic-css
+https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class
+
+June 20th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/using-queries
+
+June 21st
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/matching-by-http-verb
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/creating-an-expression
+
+June 22nd
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/deleting-old-expressions
+
+// redo JIRA lynda.com course
+// from: https://www.lynda.com/course-tutorials/Learning-JIRA-Software/545920-2.html
+Welcome - From: Learning JIRA Software (2017)
+https://www.lynda.com/course-tutorials/Welcome/545920/579559-4.html
+What you should know - From: Learning JIRA Software (2017)
+https://www.lynda.com/course-tutorials/What-you-should-know/545920/579560-4.html
+Setup (Optional) - From: Learning JIRA Software (2017)
+https://www.lynda.com/course-tutorials/Setup-optional/545920/579561-4.html
+What is JIRA - From: Learning JIRA Software (2017)
+https://www.lynda.com/course-tutorials/What-JIRA/545920/579563-4.html
+Project Management with JIRA - From: Learning JIRA Software (2017)
+https://www.lynda.com/course-tutorials/Project-management-JIRA/545920/579564-4.html
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-complementary-colors
+
+// other beta I already did (CSS)
+https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-font-size-of-an-element/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font
+https://learn.freecodecamp.org/responsive-web-design/basic-css/specify-how-fonts-should-degrade
+https://learn.freecodecamp.org/responsive-web-design/basic-css/size-your-images
+
+June 23rd
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/adding-animals-routes
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routes/exercises/wrap-up
+
+// other beta I already did (for review)
+https://learn.freecodecamp.org/responsive-web-design/basic-css/add-borders-around-your-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-css/add-rounded-corners-with-border-radius
+https://learn.freecodecamp.org/responsive-web-design/basic-css/make-circular-images-with-a-border-radius
+https://learn.freecodecamp.org/responsive-web-design/basic-css/give-a-background-color-to-a-div-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-id-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-margin-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
+https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units
+
+// fCC beta 'new stuff'
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-tertiary-colors/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient
+
+June 24th
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routers/exercises/this-file-is-too-big
+
+June 25th
+// review CSS grids
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/introduction-css-grid-ii
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-template-areas
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/overlapping-elements
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-items
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-content
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/align-items
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/align-content
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/justify-align-self
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/implicit-explicit-grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto
+
+// new stuff - finish CSS grid
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/grid-auto-flow
+https://www.codecademy.com/courses/learn-css-grid/lessons/css-grid-ii/exercises/review-ii
+
+// other beta I already did (for review)
+https://learn.freecodecamp.org/responsive-web-design/basic-css/style-the-html-body-element/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/inherit-styles-from-the-body-element
+https://learn.freecodecamp.org/responsive-web-design/basic-css/prioritize-one-style-over-another
+https://learn.freecodecamp.org/responsive-web-design/basic-css/override-styles-in-subsequent-css
+https://learn.freecodecamp.org/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis
+
+June 26th
+// to do: JQuery - redo
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/the-dom-tree
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/children
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/siblings-parent
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/closest
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button
+
+June 27th
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/next
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/find
+
+June 28th
+https://www.codecademy.com/courses/learn-jquery-traversing-the-dom/lessons/traversing-the-dom/exercises/review
+
+// other beta I already did (for review)
+https://learn.freecodecamp.org/responsive-web-design/basic-css/override-class-declarations-with-inline-styles/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-for-specific-colors
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-to-mix-colors
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-abbreviated-hex-code
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-rgb-values-to-color-elements
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation/
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-movement-using-css-animation
+
+// new course on SASS (redoing it)
+// https://www.codecademy.com/learn/learn-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/types
+
+June 29th
+// Sass redo
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/hello-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/compile-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/sass-features
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-sass
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/nesting-properties
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/variables
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/types
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/maps-and-lists
+
+// other beta I already did (for review) - the variable stuff is new
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-rgb-to-mix-colors/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once
+https://learn.freecodecamp.org/responsive-web-design/basic-css/create-a-custom-css-variable
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-custom-css-variable
+https://learn.freecodecamp.org/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right
+
+// reading related to the internet and coding
+https://medium.com/@thebeginner/the-beginners-guide-to-understanding-your-internet-speed-dfce26bc88b2
+
+June 30th
+https://www.codecademy.com/courses/learn-sass/lessons/hello-sass/exercises/sass-generalizations
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/parent-selector
+
+// fCC beta new stuff
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords
+
+// new CSS
+https://learn.freecodecamp.org/responsive-web-design/basic-css/cascading-css-variables/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/change-a-variable-for-a-specific-area
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+
+// new applied accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank
+
+July 1st
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins
+
+// new applied accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-nav-landmark
+
+// applied visual design
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
+
+June 2nd
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixin-arguments
+
+// applied accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark/
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility
+
+// Responsiove design
+// form: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-an-image-responsive
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-typography-responsive
+
+June 3rd
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/default-and-multiple-arguments
+
+// applied accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-an-accessible-date-picker
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast
+
+// flexbox
+// from: https://learn.freecodecamp.org/responsive-web-design/css-flexbox
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column
+
+July 4th
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/multiple-arguments
+
+// applied accessibility
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information/
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
+
+// npm
+// https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/
+
+July 5th
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins-ii
+
+// flexbox
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed
+
+// training vids for work - Microsoft Virtual Academy
+// Beginner | Published: 20 March 2014 Software Testing Fundamentals
+https://mva.microsoft.com/en-us/training-courses/software-testing-fundamentals-8305?l=mjfPZiYy_8604984382
+
+July 6th
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/string-interpolation
+
+// flexbox
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column/
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shorthand-property
+
+// con't
+https://mva.microsoft.com/en-us/training-courses/software-testing-fundamentals-8305?l=mjfPZiYy_8604984382
+
+July 7th
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixin-parent-selector
+
+// flexbox
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property
+
+// grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-your-first-css-grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns
+https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows
+
+July 8th
+https://www.codecademy.com/courses/learn-sass/lessons/mixins-and-parent-selector/exercises/mixins-and-parent-generalizations
+
+// CSS grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows/
+
+July 9th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/ops-functions
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic-and-color
+
+// CSS Grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap
+https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap
+https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-column-to-control-spacing
+https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-row-to-control-spacing
+
+July 10th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/math-color
+
+// CSS grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self
+
+July 11th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic
+
+// CSS grid (fCC)
+https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self/
+
+July 12th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/division
+
+// CSS Grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-vertically-using-align-self
+https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items
+https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-vertically-using-align-items
+https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template
+https://learn.freecodecamp.org/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property
+
+// npm
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package-json
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package-json
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package-json
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package-json
+
+July 13th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/each-loops
+
+// CSS Grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template
+
+// npm
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm/
+
+July 14th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/for-loops
+
+// CSS grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function/
+
+// npm
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning
+
+July 15th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/if-vs-if
+
+// CSS grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function
+
+// work on survey
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/
+https://codepen.io/DarrenfJ/pen/dvXVWQ
+
+July 16th
+https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/functions-and-operations-generalizations
+
+// CSS  Grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill
+
+// npm
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency
+
+July 17th
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sasstainability
+
+// CSS grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit/
+https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts/
+
+// npm
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency/
+https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm/remove-a-package-from-your-dependencies
+
+// clean up survey more
+https://codepen.io/DarrenfJ/pen/dvXVWQ
+
+July 18
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sass-structure
+
+// CSS Grid
+https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids
+
+// basic node and express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/meet-the-node-console/
+
+July 19th
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/import-in-scss
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/partials
+
+// fCC next module (Javascript) - note: nost of this i have completed already, so duplication here
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables
+
+// react
+https://learn.freecodecamp.org/front-end-libraries/react
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-simple-jsx-element
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-complex-jsx-element/
+
+July 20th
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend
+
+// fCC Javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables/
+
+// react
+https://learn.freecodecamp.org/front-end-libraries/react/add-comments-in-jsx/
+https://learn.freecodecamp.org/front-end-libraries/react/render-html-elements-to-the-dom/
+
+July 21st
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/placeholders
+
+// fCC Javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript/
+
+// react
+https://learn.freecodecamp.org/front-end-libraries/react/define-an-html-class-in-jsx
+
+// treehouse to prep for fCC node/express - treehouse node basics
+// https://teamtreehouse.com/library/nodejs-basics-2
+https://teamtreehouse.com/library/overview-6
+https://teamtreehouse.com/library/hello-world
+https://teamtreehouse.com/library/nodejs-basics-2/introduction-to-nodejs/the-console
+https://teamtreehouse.com/library/javascript-without-the-browser
+https://teamtreehouse.com/library/why-use-nodejs
+
+July 22nd
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/extend-vs-mixin
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript
+
+// fCC react
+https://learn.freecodecamp.org/front-end-libraries/react/learn-about-self-closing-jsx-tags
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-stateless-functional-component
+
+// treehouse to prep for fCC - treehouse node basics
+https://teamtreehouse.com/library/finding-help-as-a-nodejs-developer
+https://teamtreehouse.com/library/nodejs-basics-2/introduction-to-nodejs/review-introduction-to-nodejs
+// in support of above:
+https://nodejs.org/api/https.html#https_https_get_options_callback
+http://blog.teamtreehouse.com/7-awesome-things-can-build-node-js
+http://blog.teamtreehouse.com/learn-javascript
+
+// rewatch in support of the node course: https://teamtreehouse.com/library/http-basics
+https://teamtreehouse.com/library/http-basics/introduction-to-http/introduction-to-http
+https://teamtreehouse.com/library/http-basics/introduction-to-http/building-a-case-for-http
+https://teamtreehouse.com/library/http-basics/introduction-to-http/intro-to-http
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-requests-using-telnet
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-request-format
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-headers
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-response-format
+https://teamtreehouse.com/library/http-basics/introduction-to-http/http-response-format-2
+
+July 23rd
+https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sustainable-scss-generalizations
+// back to js
+// https://www.codecademy.com/learn/introduction-to-javascript
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/intro-variables
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition
+
+// fCC react
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-react-component
+
+// rewatch in support of the node course: https://teamtreehouse.com/library/http-basics
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-get-request
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-get-request-2
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-post-request
+https://teamtreehouse.com/library/http-basics/introduction-to-http/sending-data-with-a-post-request-2
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/the-browser-as-a-gui-for-http
+
+July 24th
+// JS
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/const
+
+// fCC the js (it's a redo for most of it)
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings
+
+// fCC React
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-component-with-composition/
+
+July 25th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/let
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator
+
+// fCC react
+https://learn.freecodecamp.org/front-end-libraries/react/use-react-to-render-nested-components/
+
+July 26th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/unset-variable
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings
+
+// fCC react
+https://learn.freecodecamp.org/front-end-libraries/react/compose-react-components/
+
+July 27th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/mathematical-shortcuts
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understand-string-immutability
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string
+
+// fcc es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords
+
+July 28th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/string-interpolation
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
+
+July 29th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/string-interpolation-ii
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks
+
+July 30th
+https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/review-variables
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/control-flow-intro
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes
+
+July 31st
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/if-else-statements
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/shopping-list
+
+Aug 1st
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/true-false-values
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions/
+
+Aug 2nd
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/true-false-values-ii
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters/
+
+Aug 3rd
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/comparison-operators
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions/
+
+Aug 4th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/comparison-operators-ii
+
+// fCC sass
+https://learn.freecodecamp.org/front-end-libraries/sass
+https://learn.freecodecamp.org/front-end-libraries/sass/store-data-with-sass-variables
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return
+
+// work on fCC responsive design challenges
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+// similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL
+https://codepen.io/DarrenfJ/pen/EppPYQ
+
+Aug 5th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/else-if
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
+
+// more on the build a product landing page
+https://codepen.io/DarrenfJ/pen/EppPYQ
+// related re-reads and articles:
+https://css-tricks.com/snippets/jquery/smooth-scrolling/
+https://css-tricks.com/smooth-scrolling-accessibility/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Aug 6th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/logical-operators
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/nest-css-with-sass
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator
+
+Aug 7th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/switch
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/create-reusable-css-with-mixins/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator
+
+Aug 8th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/ternary-operator
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/use-if-and-else-to-add-logic-to-your-styles
+
+Aug 9th
+https://www.codecademy.com/courses/learn-javascript-control-flow/lessons/control-flow/exercises/review-control-flow
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/intro-to-functions
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/use-for-to-create-a-sass-loop/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator
+
+// more on the Product Landing Page
+https://codepen.io/DarrenfJ/pen/EppPYQ
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+embedding youtube vides: https://support.google.com/youtube/answer/171780?hl=en
+
+Aug 10th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/functions
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/use-each-to-map-over-items-in-a-list/
+
+Aug 11th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/parameters
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/apply-a-style-until-a-condition-is-met-with-while/
+This one above wasn't working ^^^^
+https://learn.freecodecamp.org/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials
+
+Aug 12th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/parameters-ii
+
+// fCC Sass
+https://learn.freecodecamp.org/front-end-libraries/sass/extend-one-set-of-css-styles-to-another-element
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code
+
+Aug 13th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/return
+
+// fCC react (redo)
+https://learn.freecodecamp.org/front-end-libraries/react/
+
+// fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux
+https://learn.freecodecamp.org/front-end-libraries/redux/create-a-redux-store
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements
+
+Aug 14th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/return-ii 
+
+// fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/get-state-from-the-redux-store/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions
+
+Aug 15th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/function-declaration
+
+// fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/define-a-redux-action
+
+Aug 16th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/function-expressions
+
+//fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/define-an-action-creator/
+
+Aug 17th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/arrow-functions
+
+//fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/dispatch-an-action-event/
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties
+
+// concurrent - fCC Bootstrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/use-responsive-design-with-bootstrap-fluid-containers
+
+Aug 18th
+https://www.codecademy.com/courses/learn-javascript-functions/lessons/functions/exercises/review-functions
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/scope
+
+// try this:
+https://www.codecademy.com/courses/learn-javascript-functions/projects/rock-paper-scissors
+
+//fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method
+
+//fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays
+
+// fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/make-images-mobile-responsive/
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/center-text-with-bootstrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-bootstrap-button
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-block-element-bootstrap-button
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/taste-the-bootstrap-button-color-rainbow
+
+Aug 19th
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/global-scope
+
+//fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings
+
+//fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops/
+
+//fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/call-out-optional-actions-with-btn-info
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/ditch-custom-css-for-bootstrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/use-a-span-to-target-inline-elements
+
+Aug 20th
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/global-scope-ii
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-a-literal-string-with-different-possibilities/
+
+//fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-custom-heading/
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/add-font-awesome-icons-to-our-buttons
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/add-font-awesome-icons-to-all-of-our-buttons
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/responsively-style-radio-buttons
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/responsively-style-checkboxes
+
+//fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops
+
+Aug 21st
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/block-scope
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops/
+
+// fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/style-text-inputs-as-form-controls/
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/line-up-form-elements-responsively-with-bootstrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-bootstrap-headline
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/house-our-page-within-a-bootstrap-container-fluid-div
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-bootstrap-row
+
+// fCC es6 - redo
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords/
+
+Aug 22nd
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/block-scope-ii
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript/
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords/
+
+// fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-bootstrap-row/
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/split-your-bootstrap-row
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-bootstrap-wells
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/add-elements-within-your-bootstrap-wells
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/apply-the-default-bootstrap-button-style
+
+Aug 23rd
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/block-scope-iii
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix
+
+// fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/create-a-class-to-target-with-jquery-selectors
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/add-id-attributes-to-bootstrap-elements
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/label-bootstrap-wells
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/give-each-element-a-unique-id
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/label-bootstrap-buttons
+
+Aug 24th
+https://www.codecademy.com/courses/learn-javascript-scope/lessons/scope/exercises/review-scope
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/arrays
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator/
+
+Aug 25th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/create-an-array
+
+// fCC js
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators/
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword/
+
+// fCC BootStrap
+https://learn.freecodecamp.org/front-end-libraries/bootstrap/use-comments-to-clarify-code/
+
+// fCC jQuery
+https://learn.freecodecamp.org/front-end-libraries/jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-html-elements-with-selectors-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-elements-by-class-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-elements-by-id-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/delete-your-jquery-functions
+
+Aug 26th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/property-access
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching
+
+// fCC JQuery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-the-same-element-with-multiple-jquery-selectors
+
+// fCC final js exercises
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const
+
+Aug 27th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/update-elements
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/extract-matches
+
+Aug 28th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/array-length
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation
+
+// fCC jQuery
+https://learn.freecodecamp.org/front-end-libraries/jquery/remove-classes-from-an-element-with-jquery
+
+Aug 29th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/push-and-pop
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period/
+
+Aug 30th
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/more-array-methods
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities/
+
+// other training
+REST API concepts and examples
+https://youtu.be/7YcW25PHnAA
+
+// simple programmer
+Not Allowed to Learn on the Job
+https://youtu.be/41VSjDFyeQU
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions/
+
+// fCC jQuery
+https://learn.freecodecamp.org/front-end-libraries/jquery/change-the-css-of-an-element-using-jquery/
+https://learn.freecodecamp.org/front-end-libraries/jquery/disable-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/change-text-inside-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/remove-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/use-appendto-to-move-elements-with-jquery
+
+Aug 31st
+// restart ruby for fun (reset, was 73%)
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/overview--sneak-peek
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/data-types-numbers-strings-booleans
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet/
+
+// fCC jQuery
+https://learn.freecodecamp.org/front-end-libraries/jquery/clone-an-element-using-jquery/
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-the-parent-of-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-the-children-of-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-a-specific-child-of-an-element-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/target-even-elements-using-jquery
+https://learn.freecodecamp.org/front-end-libraries/jquery/use-jquery-to-modify-the-entire-page
+// done jQuery
+
+// do react next
+https://learn.freecodecamp.org/front-end-libraries/react
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters/
+
+// skillcrush UX
+// orinetation
+https://learn.skillcrush.com/classes/skillcrush-orientation-wpcw/
+https://learn.skillcrush.com/module-1/classes-class-events/
+https://learn.skillcrush.com/module-1/daily-to-dos/
+
+=====
+Sept 1 done on home PC (long weekend)
+=====
+
+Sept 2
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/math
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified
+
+Sept 3rd
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/puts-and-print
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times
+
+// fCC es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions
+
+// skillcrush
+https://learn.skillcrush.com/module-2/getting-set-up-for-success/
+https://learn.skillcrush.com/module-2/join-your-community-introduce-yourself/
+https://learn.skillcrush.com/student-community/
+https://learn.skillcrush.com/module-2/welcome-to-your-workspace/
+
+Sept 4th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/everything-in-ruby-is-an-object
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/the-length-method
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times
+
+Sept 5th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/the-reverse-method
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching
+
+Sept 6th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/upcase--downcase
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt/
+
+// general computer knowledge as I continue to learn
+https://www.howtogeek.com/361572/what-is-an-operating-system/
+
+Sept 7th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/single-line-comments
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns/
+
+Sept 8th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/multi-line-comments
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns/
+
+Sept 9th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/naming-conventions
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers
+
+Sept 10th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/variables--data-types
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers/
+
+Sept 11th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/math-1
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers
+
+Sept 12th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/strings-and-string-methods
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers
+
+Sept 13th
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/comments
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace/
+
+Sept 14th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/what-youll-be-building
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/prompting-the-user
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters
+
+Sept 15th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/getting-input
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches
+
+Sept 16th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/repeat-for-more-input
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches
+
+Sept 17th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/printing-the-output
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches/
+
+Sept 18th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/formatting-with-string-methods
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none 
+
+Sept 19th
+https://www.codecademy.com/courses/learn-ruby/lessons/putting-the-form-in-formatter/exercises/great-work
+// control flow
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/how-it-works
+
+// es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-rest-operator-with-function-parameters
+
+Sept 20th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/if
+
+/// es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place
+
+Sept 21st
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/else
+
+// fCC Data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-document-elements-with-d3
+
+Sept 22
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/elsif
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/select-a-group-of-elements-with-d3
+
+Sept 23rd
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/unless
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/work-with-data-in-d3
+
+Sept 24th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/equal-or-not
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3/
+
+Sept 25th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/less-than-or-greater-than
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-inline-styling-to-elements/
+
+Sept 26th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/practice-makes-perfect
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/change-styles-based-on-data/
+
+Sept 27th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/and
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-classes-with-d3/
+
+Sept 28th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/or
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/update-the-height-of-an-element-dynamically/
+
+Sept 29th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/not
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart
+
+Sept 30th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/combining-boolean-operators
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/learn-about-svg-in-d3
+
+Oct 1st
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/nice-work
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/if-else-and-elsif
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/display-shapes-with-svg/
+
+Oct 2nd
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/unless-1
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set
+
+Oct 3rd
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/dare-to-compare
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/dynamically-set-the-coordinates-for-each-bar/
+
+Oct 4th
+https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby/exercises/billions-of-booleans
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/dynamically-change-the-height-of-each-bar/
+
+Oct 5th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/what-youll-be-building-1
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/invert-svg-elements/
+
+Oct 6th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/getting-user-input
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element/
+
+Oct 7th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/downcase
+
+// fCC data
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable/
+
+Oct 8th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/setting-up-the-if-branch-part-
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-labels-to-d3-elements
+
+Oct 9th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/setting-up-the-if-branch-part--1
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/style-d3-labels
+
+Oct 10th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/setting-up-the-else-branch
+
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-a-hover-effect-to-a-d3-element/
+
+Oct 11th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/returning-the-final-stringer-thtring
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console/
+
+Oct 12th
+https://www.codecademy.com/courses/learn-ruby/lessons/thith-meanth-war/exercises/congratulationth
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable
+
+Oct 13th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-while-loop
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/danger-infinite-loops
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names
+
+Oct 14th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-until-loop
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes/
+
+Oct 15th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/more-assignment-operators
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-mixed-usage-of-single-and-double-quotes
+
+Oct 16th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-for-loop
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/inclusive-and-exclusive-ranges
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator/
+
+Oct 17th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/building-your-own
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call/
+
+Oct 18th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-loop-method
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function
+
+Oct 19th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/next
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing/
+
+Oct 20th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/saving-multiple-values
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop
+
+Oct 21st
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-each-iterator
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/try-it-out
+
+// fCC debug
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition
+
+Oct 22nd
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/the-times-iterator
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data
+
+Oct 23rd
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/looping-with-while
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation/
+
+Oct 24th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/looping-with-until
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift/
+
+Oct 25th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/looping-with-for
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift/
+
+Oct 26th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/loop-the-loop-with-loop
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice
+
+Oct 27th
+https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators/exercises/iterating-with-times
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice
+
+Oct 28th
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/what-youll-be-building-2
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/getting-the-users-input
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice
+
+Oct 29th
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/the-split-method
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator
+
+Oct 30th
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/redacted
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator/
+
+
+
+======
+
+too tired - do later
+// fCC data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element/
+
+to do
+// es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects/
+
+// fCC regex (to investigate)
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end
+
+to do
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups
+
+to do
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead/
+
+// need to put in ticket for this one:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames/
+- investigate if I missed the {2,} part
+
+last skillcrush I did:
+https://learn.skillcrush.com/module-2/welcome-to-your-workspace/
+
+
+to do:
+https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/let-const-arrays
+// codecademy is revaming js
+
+Sept 1 done on home PC (long weekend) <== get it form home computer
+
+next es6:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation
+
+//fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/handle-an-action-in-the-store/
+
+// to do fCc jS
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects
+
+// have to do:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions
+
+// rewatch in support of the node course: https://teamtreehouse.com/library/http-basics
+// rewatch - https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/the-browser-as-a-gui-for-http
+
+
+// fCC react - redo from start (to do)
+
+====
+
+to do
+// basic node and express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/start-a-working-express-server
+
+to do
+
+//https://www.udemy.com/sql-for-newbs/learn/v4/overview
+
+// the hack prep js course (which directs to a udacity course)
+
+// the web design course
+
+
+======
+
+to do:
+https://www.codecademy.com/courses/learn-express-routes/lessons/learn-express-routers/exercises/express-router
+
+// to do
+https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/generalizations-data-structures
+
+to do
+// https://www.hackerrank.com/challenges/python-lists/problem
+
+
