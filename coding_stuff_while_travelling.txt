@@ -1674,6 +1674,18 @@ https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/control
 // fCC data structures
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof
 
+Nov 1st
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/great-work-1
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/creating-arrays
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays
+
+Nov 2nd
+
+
+// do this one later - remove whole nested array!!
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
 
 ======
 
