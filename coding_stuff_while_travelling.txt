@@ -1669,9 +1669,10 @@ https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/redacte
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator/
 
 Oct 31st
-
+https://www.codecademy.com/courses/learn-ruby/lessons/redacted/exercises/control-flow-know-how
 
 // fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof
 
 
 ======
