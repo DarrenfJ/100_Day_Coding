@@ -1682,6 +1682,30 @@ https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays
 
 Nov 2nd
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/access-by-index
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects
+
+Nov 3rd
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/arrays-of-non-numbers
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object/
+
+Nov 4th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/arrays-of-arrays
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/create-your-own
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation
+
+Nov 5th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/introduction-to-hashes
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/using-hashnew
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties/
 
 
 // do this one later - remove whole nested array!!
