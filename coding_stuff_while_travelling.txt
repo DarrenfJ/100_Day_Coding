@@ -1707,9 +1707,73 @@ https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/
 // fCC data structures
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties/
 
+Nov 6th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/adding-to-a-hash
+
+// fCC data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property
+
+Nov 7th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/accessing-hash-values
+
+// fCC Object Oriented Programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object
+
+Nov 8th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/reintroduction-to-iteration
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/iterating-over-arrays
+
+// fCC Object Oriented Programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object
+
+Nov 9th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/iterating-over-multidimensional-arrays
+
+// fCC OO Programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object/
+
+Nov 10th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/iterating-over-hashes
+
+// fCC OO Programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword
+
+Nov 11th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/multidimensional-arrays
+
+// fCC OO Prgramming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function
+
+Nov 12th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/hashes
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects
+
+Nov 13th
+https://www.codecademy.com/courses/learn-ruby/lessons/data-structures/exercises/iterating-over-a-hash
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/extend-constructors-to-receive-arguments
+
+Nov 14th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/what-youll-be-building-3
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/you-know-the-drill
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof
+
+
+
+to do later:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement/
 
 // do this one later - remove whole nested array!!
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
+
+last skillcrush I did:
+https://learn.skillcrush.com/module-2/welcome-to-your-workspace/
 
 ======
 
