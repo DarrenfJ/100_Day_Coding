@@ -1764,7 +1764,60 @@ https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercis
 // fCC OO Prog
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof
 
+Nov 15th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/building-the-words-array
 
+// fCC OO Program
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-own-properties
+
+Nov 16th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/creating-the-frequencies-hash
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-prototype-properties-to-reduce-duplicate-code/
+
+Nov 17th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/iterating-over-the-array
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties
+
+Nov 18th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/sorting-the-hash
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/iterating-over-the-hash
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property
+
+Nov 19th
+https://www.codecademy.com/courses/learn-ruby/lessons/create-a-histogram/exercises/you-did-it
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object/
+
+Nov 20th 2018
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/why-methods
+// back into intro to JS
+https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/pop
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype
+
+Nov 21st 2018
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/method-syntax
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from
+
+Nov 22nd
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/create-your-own-1
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain
+
+
+
+Sept 1 done on home PC (long weekend) <== get it form home computer
 
 to do later:
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement/
@@ -1805,8 +1858,6 @@ https://learn.skillcrush.com/module-2/welcome-to-your-workspace/
 to do:
 https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/let-const-arrays
 // codecademy is revaming js
-
-Sept 1 done on home PC (long weekend) <== get it form home computer
 
 next es6:
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation
