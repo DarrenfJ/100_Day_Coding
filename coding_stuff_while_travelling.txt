@@ -1280,7 +1280,7 @@ https://learn.freecodecamp.org/front-end-libraries/react
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters/
 
 // skillcrush UX
-// orinetation
+// orientation
 https://learn.skillcrush.com/classes/skillcrush-orientation-wpcw/
 https://learn.skillcrush.com/module-1/classes-class-events/
 https://learn.skillcrush.com/module-1/daily-to-dos/
@@ -1814,6 +1814,824 @@ https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exe
 
 // fCC OO Prog
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain
+
+Nov 23rd
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/call-it
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself
+
+Nov 24th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/parameters-and-arguments
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype
+
+Nov 25th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/splat
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/lets-learn-return
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent
+
+Nov 26th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/practice-makes-perfect-1
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property/
+
+// rewatch in support of the node course: https://teamtreehouse.com/library/http-basics
+// rewatch - https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/the-browser-as-a-gui-for-http
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/intro-to-chrome-developer-tools
+
+Nov 27th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/blocks-are-like-nameless-methods
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance/
+
+Nov 28th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/how-blocks-differ-from-methods
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/using-code-blocks
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods
+
+Nov 29th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/introduction-to-sorting
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects/
+
+Nov 30th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/foundations
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/
+
+Dec 1st
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/the-combined-comparison-operator
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife
+
+Dec 2nd
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/getting-technical
+
+// fCC OO Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module
+
+con't: https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/intro-to-chrome-developer-tools
+
+// from: https://learntocodewith.me/posts/cryptocurrency-jobs/
+// intro to Crypo: https://course.chainoperator.com/courses/enrolled/258253
+introduction:
+https://course.chainoperator.com/courses/258253/lectures/4008522
+what is cryptocurrency trading:
+https://course.chainoperator.com/courses/258253/lectures/4008566
+// follow-up links
+What Is Bitcoin and How Does It Work? | Mashable Explains
+https://youtu.be/ZT26y_l-jtI
+
+// during the day
+// more on http-basics for API calls
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/html-review-and-uris-vs-urls
+https://teamtreehouse.com/library/http-basics/get-and-post-requests-in-a-browser/using-anchors-for-get-requests
+
+// for WellLink (Blockchain stuff)
+https://dev.to/ben/explain-ethereum-like-im-five
+
+Dec 3rd
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/basic-methods
+
+// fCC 'Functional Programming'
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming
+
+Dec 4th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/methods-with-arguments
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology/
+
+Dec 5th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/blocks
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/understand-the-hazards-of-using-imperative-code
+
+Dec 6th
+https://www.codecademy.com/courses/learn-ruby/lessons/methods-blocks-sorting/exercises/sorting
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming/
+
+Dec 7th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/what-youll-be-building-4
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function
+
+Dec 8th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/defining-our-method
+
+// data structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object
+
+Dec 9th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/default-parameters
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/handle-click-events-with-javascript-using-the-onclick-property
+
+Dec 10th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/sorting-1
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/change-text-with-click-events
+
+Dec 11th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/sorting-with-control-flow
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/get-json-with-the-javascript-xmlhttprequest-method
+
+Dec 12th
+https://www.codecademy.com/courses/learn-ruby/lessons/ordering-your-library/exercises/you-did-it-for-real-this-time
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/the-story-so-far
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/access-the-json-data-from-an-api
+
+// some youtubes on blockchain
+How the blockchain is changing money and business | Don Tapscott
+https://youtu.be/Pl8OlkkwRpc
+
+Dec 13th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/iterating-over-hashes-1
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/convert-json-data-to-html/
+
+Dec 14th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/nil-a-formal-introduction
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/render-images-from-data-sources
+
+Dec 15th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/setting-your-own-default
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/pre-filter-json-to-get-the-data-you-need/
+
+Dec 16th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/a-key-of-a-different-color
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/get-geolocation-data-to-find-a-users-gps-coordinates/
+
+Dec 17th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/whats-a-symbol
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/symbol-syntax
+
+// fCC JSON
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/post-data-with-the-javascript-xmlhttprequest-method/
+
+Dec 18th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/what-are-symbols-used-for
+
+Dec 19th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/converting-between-symbols-and-strings
+
+Dec 20th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/many-paths-to-the-same-summit
+
+Dec 21st
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/all-aboard-the-hash-rocket
+
+Dec 22nd
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/the-hash-rocket-has-landed
+
+Dec 23rd
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/dare-to-compare-1
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/becoming-more-selective
+
+Dec 24th
+https://www.codecademy.com/courses/learn-ruby/lessons/hashes-and-symbols/exercises/more-methods-more-solutions
+
+Dec 25th
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/what-youll-be-building-5
+
+Dec 26th
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/setting-up
+
+Dec 27th
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/the-case-statement
+
+Dec 28th
+// trying out asynchornous js
+https://www.codecademy.com/learn/asynchronous-javascript
+https://www.codecademy.com/courses/asynchronous-javascript/lessons/promises/exercises/introduction
+
+Dec 29th
+https://www.codecademy.com/courses/asynchronous-javascript/lessons/promises/exercises/understanding-promises
+
+Dec 30th
+trying out some of the new codecademy courses!
+Colour theory wheeeeee!
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/intro
+
+Dec 31st
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-wheel
+
+Jan 1st
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-wheel-and-hsla
+
+and some mobile stuff:
+https://getmimo.com/
+
+Jan 2nd
+more on getmimo
+
+Jan 3rd
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/warm-colors
+
+on Ruby
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/prompting-redux
+
+and
+more on getmimo
+
+Jan 4th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/cool-colors
+
+on Ruby
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/not-my-type
+
+fCC to catch up - some final ones I've left
+// do some CSS's around custom variables
+https://learn.freecodecamp.org/responsive-web-design/basic-css/create-a-custom-css-variable/
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-custom-css-variable
+https://learn.freecodecamp.org/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable
+https://learn.freecodecamp.org/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks
+https://learn.freecodecamp.org/responsive-web-design/basic-css/cascading-css-variables
+https://learn.freecodecamp.org/responsive-web-design/basic-css/change-a-variable-for-a-specific-area
+https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+
+and
+more on getmimo
+
+// crypto
+https://player.fm/series/crypto-101-the-average-consumers-guide-to-cryptocurrency/crypto-101-intro
+Bitcoin schtuff: 'Proof of Keys'
+https://www.youtube.com/watch?v=_bNk5g_S0ZA
+
+Jan 5th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/tints-and-shades
+
+//fCC do some es6 for review and to finish them
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions
+// supporting docs
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+as part of the P1xt guides:
+//https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md
+//https://www.khanacademy.org/math/algebra
+https://www.khanacademy.org/math/algebra/introduction-to-algebra/modal/v/origins-of-algebra
+
+more on getmimo
+
+Jan 6th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-contrast
+
+// fCC on es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-rest-operator-with-function-parameters
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects
+
+more on getmimo
+
+Jan 7th
+more on getmimo
+
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-schemes
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/monochromatic-designs
+
+// fCC on es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects
+
+Jan 8th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/complementary-designs
+
+// fCC on es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays/
+
+Jan 9th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/analogous-designs
+
+// es6 fCC
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-operator-to-reassign-array-elements
+
+Jan 10th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/triadic-designs
+
+// es6 fCC
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters/
+
+Jan 11th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-psychology
+
+// es6 fCC
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals/
+
+everyday the mimo
+
+Jan 12th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/best-practices
+
+everyday mimo
+sql
+
+// es6 fCC
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-simple-fields
+
+Jan 13th
+https://www.codecademy.com/courses/learn-color-design/lessons/learn-color-theory/exercises/color-theory-review
+
+// codecademy - ruby
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/not-my-type
+
+// es6 fCC
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6
+
+Coding Jan 14th
+
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/error-error
+
+es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function
+
+Jan 15th
+
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/update
+
+es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/understand-the-differences-between-import-and-require
+
+Jan 16th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-contrast-constraints
+
+es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-export-to-reuse-a-code-block
+
+Jan 17th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-brand-color
+
+es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file/
+
+Jan 18th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-accent-colors
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-buttons
+
+es6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default
+
+Jan 19th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-forms
+
+es 6
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export
+
+// fCC redo react to get back up to speed:
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-simple-jsx-element
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-complex-jsx-element
+https://learn.freecodecamp.org/front-end-libraries/react/add-comments-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/render-html-elements-to-the-dom
+
+Jan 20th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-semantic-colors
+
+/react - to review
+https://learn.freecodecamp.org/front-end-libraries/react/define-an-html-class-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/learn-about-self-closing-jsx-tags
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-stateless-functional-component
+
+later that day..
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-react-component
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-component-with-composition
+https://learn.freecodecamp.org/front-end-libraries/react/use-react-to-render-nested-components
+https://learn.freecodecamp.org/front-end-libraries/react/compose-react-components
+// new exercises
+https://learn.freecodecamp.org/front-end-libraries/react/render-a-class-component-to-the-dom
+
+Jan 21st
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-default-colors
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/write-a-react-component-from-scratch
+
+Jan 22nd
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-neutral-colors
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-whitespace
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/pass-props-to-a-stateless-functional-component
+
+Jan 23rd
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-accessibility
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/pass-an-array-as-props/
+
+Jan 24th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-iterations
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-default-props/
+
+Jan 25th
+https://www.codecademy.com/courses/learn-color-design/lessons/color-ui/exercises/color-ui-review
+from:
+https://www.codecademy.com/learn/introduction-to-blockchain
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/why-blockchain
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/override-default-props
+
+Jan 26th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/what-is-blockchain
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-proptypes-to-define-the-props-you-expect
+
+Jan 27th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/blockchain-network
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/access-props-using-this-props
+
+// and from:
+//https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md#tier-0---prep
+//https://www.khanacademy.org/math/algebra
+https://www.khanacademy.org/math/algebra/introduction-to-algebra/modal/v/abstract-ness
+
+Jan 28th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/blockchain-blocks
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/review-using-props-with-stateless-functional-components
+
+Jan 29th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/hashing
+
+// fCC - react
+// redo earlier to refresh
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-simple-jsx-element/
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-complex-jsx-element
+https://learn.freecodecamp.org/front-end-libraries/react/add-comments-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/render-html-elements-to-the-dom
+https://learn.freecodecamp.org/front-end-libraries/react/define-an-html-class-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/learn-about-self-closing-jsx-tags
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-stateless-functional-component
+
+// new
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-stateful-component
+
+Jan 30th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/genesis-block
+
+// fCC - react
+// redo to refresh
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-react-component
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-component-with-composition
+https://learn.freecodecamp.org/front-end-libraries/react/use-react-to-render-nested-components
+https://learn.freecodecamp.org/front-end-libraries/react/compose-react-components
+https://learn.freecodecamp.org/front-end-libraries/react/render-a-class-component-to-the-dom
+
+// fCC - new
+https://learn.freecodecamp.org/front-end-libraries/react/render-state-in-the-user-interface
+
+Jan 31st
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-introduction/exercises/blockchain-visualization
+
+// fCC - react redo to refresh
+https://learn.freecodecamp.org/front-end-libraries/react/write-a-react-component-from-scratch/
+
+// fCC - new react
+https://learn.freecodecamp.org/front-end-libraries/react/render-state-in-the-user-interface-another-way/
+
+Feb 1st
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/blockchain-transactions
+
+// fCC - new react
+https://learn.freecodecamp.org/front-end-libraries/react/set-state-with-this-setstate
+
+Feb 2nd
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/adding-blocks
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/bind-this-to-a-class-method
+
+Feb 3rd
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/blockchain-hashing-integrity
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/use-state-to-toggle-an-element
+
+Feb 4th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/blockhain-hashing-enough
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/write-a-simple-counter
+
+Feb 5th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/securing-blockchain-proof-of-work
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/pass-state-as-props-to-child-components
+
+Feb 6th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/proof-of-work-one
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/pass-a-callback-as-props
+
+Feb 7th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/proof-of-work-two
+
+// fCC - react new
+https://learn.freecodecamp.org/front-end-libraries/react/use-the-lifecycle-method-componentwillmount/
+
+// review fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-complex-jsx-element/
+https://learn.freecodecamp.org/front-end-libraries/react/add-comments-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/render-html-elements-to-the-dom
+https://learn.freecodecamp.org/front-end-libraries/react/define-an-html-class-in-jsx
+https://learn.freecodecamp.org/front-end-libraries/react/learn-about-self-closing-jsx-tags
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-stateless-functional-component
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-react-component
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-component-with-composition
+
+Feb 8th
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-intermediate/exercises/blockchain-review
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/print-statements
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-the-lifecycle-method-componentdidmount
+
+and other stuff
+Learn react in Scrimba
+Course Introduction & Philosophy
+https://scrimba.com/p/p7P5Hd/cBv8ruL
+
+Feb 9th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/p3-print
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/add-event-listeners
+
+Feb 10th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/a-string
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/name-error
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/manage-updates-with-lifecycle-methods/
+
+Learn react in Scrimba
+What we'll be building
+https://scrimba.com/p/p7P5Hd/cWab7AV
+
+Why React?
+https://scrimba.com/p/p7P5Hd/cep4DT4
+// supporting vids
+React and the Virtual DOM
+https://youtu.be/BYbgopx44vo
+React vs. Angular vs. Vue: Which Should You Choose?
+https://youtu.be/xDhzYQ4VyCw
+
+Feb 11th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/variables
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate
+
+Feb 12th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/arithmetic
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/introducing-inline-styles/
+
+Feb 13th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/update-variables
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-advanced-javascript-in-react-render-method
+
+Feb 14th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/comments
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/render-with-an-ifelse-condition/
+
+Feb 15th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/numeric-datatypes
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use--for-a-more-concise-conditional/
+
+Feb 16th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/p-version-division
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-a-ternary-expression-for-conditional-rendering
+
+Feb 17th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/multiline-string
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/change-inline-css-conditionally-based-on-component-state
+
+Feb 18th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/booleans
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-array-map-to-dynamically-render-elements
+
+// crypto learning
+https://www.coinbase.com/earn/zcash/
+https://www.coinbase.com/earn/zcash/lesson/1/
+
+Feb 19th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/value-error
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute/
+
+Feb 20th
+https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/full-review
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array
+
+// crypto learning
+https://www.coinbase.com/earn/basic-attention-token
+Brave and BAT: A new way to browse the web
+https://www.coinbase.com/earn/basic-attention-token/lesson/1/
+The Brave web browser
+https://www.coinbase.com/earn/basic-attention-token/lesson/2/
+How the Basic Attention Token works
+https://www.coinbase.com/earn/basic-attention-token/lesson/3/
+
+Feb 21st
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/strings
+
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/render-react-on-the-server-with-rendertostring/
+
+// beta testing new fCC
+https://www.freecodecamp.rocks
+https://www.freecodecamp.rocks/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements
+
+Feb 22nd
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/practice
+
+// fcc - redux - review ones I did to catch up
+from: https://learn.freecodecamp.org/front-end-libraries/redux/
+https://learn.freecodecamp.org/front-end-libraries/redux/create-a-redux-store
+
+// new one
+https://learn.freecodecamp.org/front-end-libraries/redux/handle-an-action-in-the-store
+
+// beta test new fCC
+https://www.freecodecamp.rocks/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element
+https://www.freecodecamp.rocks/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element
+
+Feb 23rd
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/escaping-characters
+
+// fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/use-a-switch-statement-to-handle-multiple-actions
+
+Feb 24th
+try out steemsavvy
+Welcome To SteemSavvy - New
+https://youtu.be/AZ_jX-ox98U
+SteemSavvy - Steemit vs. Steem Ninja
+https://youtu.be/r2jVJK5441I
+
+// codecademy
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/access-by-index
+
+// fCC - redux
+https://learn.freecodecamp.org/front-end-libraries/redux/use-const-for-action-types/
+
+Feb 25th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-methods
+
+// fCC redux
+https://learn.freecodecamp.org/front-end-libraries/redux/combine-multiple-reducers
+
+Feb 26th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/lower
+
+// fCC - regex (back to it)
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames
+
+Feb 27th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/upper
+
+// fCC - regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead
+
+Feb 28th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/str
+
+// fCC - regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups
+
+
+
+
+still to do
+https://learn.freecodecamp.org/front-end-libraries/redux/register-a-store-listener
+
+
+to do still
+https://learn.freecodecamp.org/front-end-libraries/react/render-conditionally-from-props
+
+
+
+to do:
+// fCC - react
+https://learn.freecodecamp.org/front-end-libraries/react/add-inline-styles-in-react
+
+
+More with Scrimba
+
+to complete:
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-in-python/exercises/transactions
+
+
+
+
+
+
+to do:
+https://learn.freecodecamp.org/front-end-libraries/react/create-a-controlled-input/
+
+
+
+to redo
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object
+
+
+https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/display
+
+
+
+//codecademy - ruby
+
+//https://www.khanacademy.org/math/algebra
+
+//https://www.khanacademy.org/computing/computer-programming/programming
+
+// fCC on es6
+
+
+// ruby
+
+//https://www.khanacademy.org/math/algebra
+
+//https://www.khanacademy.org/computing/computer-programming/programming
+
+
+
+to do:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects
+
+
+to do
+// fCC one I missed a while back:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice
+
+
+
+to do // fCC Func Prog
+
+
+to do, can;t follow this junk anymore right now
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array
+
+
+to do still (splice is not working)
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
 
 
 
