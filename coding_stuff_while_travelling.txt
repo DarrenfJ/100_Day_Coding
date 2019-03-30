@@ -1285,9 +1285,11 @@ https://learn.skillcrush.com/classes/skillcrush-orientation-wpcw/
 https://learn.skillcrush.com/module-1/classes-class-events/
 https://learn.skillcrush.com/module-1/daily-to-dos/
 
-=====
 Sept 1 done on home PC (long weekend)
-=====
+https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/variables
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet
 
 Sept 2
 https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/exercises/math
@@ -2556,84 +2558,313 @@ https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/
 // fCC - regex
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups
 
+March 1st
+// learn about Zcash
+https://www.coinbase.com/earn/zcash
+What is Zcash?
+https://www.coinbase.com/earn/zcash/lesson/1/
+Zcash and financial privacy
+https://www.coinbase.com/earn/zcash/lesson/2/
+How does Zcash’s privacy work?
+https://www.coinbase.com/earn/zcash/lesson/3/
+
+//codecademy python
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/dot-notation
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace
+
+March 2nd
+BAT
+https://www.coinbase.com/earn/basic-attention-token/
+Start using the Brave Browser
+https://www.coinbase.com/earn/basic-attention-token/lesson/4/
+
+// coin/earn about 0 token
+https://www.coinbase.com/earn/0x
+The world is becoming tokenized
+https://www.coinbase.com/earn/0x/lesson/1/
+What is the 0x protocol?
+https://www.coinbase.com/earn/0x/lesson/2/
+ZRX and the future of 0x
+https://www.coinbase.com/earn/0x/lesson/3/
+
+March 3rd
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/printing-strings
+
+// fCC regex
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end/
+
+=====
+somehow I got a day ahead in my last.. last post was actually March 2nd! HA!
+=====
+
+March 3rd
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/printing-variables
+
+// fCC - QA testing Chai
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/learn-how-javascript-assertions-work/
+FCC Test Challengs Prototype
+https://glitch.com/edit/#!/deluxe-point
+ack! no lessons yet
+
+// fCC - sass (was not working last time I ran through it)
+https://learn.freecodecamp.org/front-end-libraries/sass/apply-a-style-until-a-condition-is-met-with-while
+
+// read up on CHAI
+https://www.chaijs.com/guide/
+
+// redo the fCC sass exercises
+https://learn.freecodecamp.org/front-end-libraries/sass/store-data-with-sass-variables
+https://learn.freecodecamp.org/front-end-libraries/sass/nest-css-with-sass
+https://learn.freecodecamp.org/front-end-libraries/sass/create-reusable-css-with-mixins
+https://learn.freecodecamp.org/front-end-libraries/sass/use-if-and-else-to-add-logic-to-your-styles
+https://learn.freecodecamp.org/front-end-libraries/sass/use-for-to-create-a-sass-loop
+https://learn.freecodecamp.org/front-end-libraries/sass/use-each-to-map-over-items-in-a-list
+https://learn.freecodecamp.org/front-end-libraries/sass/apply-a-style-until-a-condition-is-met-with-while - done above
+https://learn.freecodecamp.org/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials
+https://learn.freecodecamp.org/front-end-libraries/sass/extend-one-set-of-css-styles-to-another-element
+
+March 4th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-concatenation
+
+// fCC- complete some orphan exercises
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops/
+
+March 5th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/explicit-string-conversion
+
+// fCC - completing orphaned exercises
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object
+
+March 6th
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-formatting-with--part-
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/string-formatting-with--part--1
+
+// fCC - completing orphaned exercises
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
+
+March 7th
+
+https://www.codecademy.com/courses/learn-python/lessons/strings--console-output/exercises/and-now-for-something-completely-familiar?action=resume_content_item
+
+// fCC - func Prog
+
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array
+
+March 8th
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/the-datetime-library
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/getting-the-current-date-and-time
+
+// redo Functional Programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/understand-the-hazards-of-using-imperative-code
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
+
+// new one - fCC functional programming
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype
+
+March 9th
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/extracting-information
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array
+
+March 10th
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/hot-date
+
+// fCC func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype
+
+March 11th
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/pretty-time
+
+// fCC func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method/
+
+March 12th
+https://www.codecademy.com/courses/learn-python/lessons/date-and-time/exercises/grand-finale
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/remove-elements-from-an-array-using-slice-instead-of-splice
+
+March 13th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/go-with-the-flow
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method
+
+March 14th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/compare-closely
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/compare-closelier
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/add-elements-to-the-end-of-an-array-using-concat-instead-of-push
+
+March 15th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/how-the-tables-have-turned
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data/
+
+March 16th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/to-be-andor-not-to-be
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/and
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array
+
+March 17th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/or
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method
+
+March 18th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/not
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method/
+
+March 19th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/this-and-that-or-this-but-not-that
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs/
+
+March 20th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/mix-n-match
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria
+
+March 21st
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/conditional-statement-syntax-
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria/
+
+March 22nd
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/if-youre-having
+
+// fCC Func Prog
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application/
+
+March 23rd
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/else-problems-i-feel-bad-for-you-son
+
+// fCC ALgorithms and Data Structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement
+
+// try out a new platform for learning - Java
+https://codegym.cc
+
+March 24th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/i-got--problems-but-a-switch-aint-one
+
+// fCC Algo and Data Structures
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys
+
+March 25th
+https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/the-big-if
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/create-a-scatterplot-with-svg-circles/
+
+// java course - trying it out
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture00
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture01
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture02
+
+March 26th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/break-it-down
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ahoy-or-should-i-say-ahoyay
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element
+
+March 27th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/input
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-attributes-to-the-circle-elements/
+
+March 28th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/check-yourself
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-labels-to-scatter-plot-circles/
+
+// java course - trying it out
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture03
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture04
+
+March 29th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/check-yourself-some-more
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/create-a-linear-scale-with-d3/
+
+// java course - trying it out
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture05
+
+March 30th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/pop-quiz
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/set-a-domain-and-a-range-on-a-scale
 
 
+=====
+to do:
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method
 
 still to do
 https://learn.freecodecamp.org/front-end-libraries/redux/register-a-store-listener
 
-
 to do still
 https://learn.freecodecamp.org/front-end-libraries/react/render-conditionally-from-props
-
-
 
 to do:
 // fCC - react
 https://learn.freecodecamp.org/front-end-libraries/react/add-inline-styles-in-react
-
 
 More with Scrimba
 
 to complete:
 https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-in-python/exercises/transactions
 
-
-
-
-
-
 to do:
 https://learn.freecodecamp.org/front-end-libraries/react/create-a-controlled-input/
-
-
 
 to redo
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object
 
-
 https://www.codecademy.com/courses/learn-ruby/lessons/a-night-at-the-movies/exercises/display
 
-
-
-//codecademy - ruby
-
 //https://www.khanacademy.org/math/algebra
 
 //https://www.khanacademy.org/computing/computer-programming/programming
-
-// fCC on es6
-
-
-// ruby
-
-//https://www.khanacademy.org/math/algebra
-
-//https://www.khanacademy.org/computing/computer-programming/programming
-
-
 
 to do:
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects
-
 
 to do
 // fCC one I missed a while back:
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice
 
-
-
 to do // fCC Func Prog
 
-
-to do, can;t follow this junk anymore right now
+to do, can't follow this junk anymore right now
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array
 
 
 to do still (splice is not working)
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
-
-
 
 Sept 1 done on home PC (long weekend) <== get it form home computer
 
@@ -2672,7 +2903,6 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular
 last skillcrush I did:
 https://learn.skillcrush.com/module-2/welcome-to-your-workspace/
 
-
 to do:
 https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/let-const-arrays
 // codecademy is revaming js
@@ -2709,7 +2939,6 @@ to do
 
 // the web design course
 
-
 ======
 
 to do:
@@ -2720,5 +2949,12 @@ https://www.codecademy.com/courses/learn-java/lessons/data-structures/exercises/
 
 to do
 // https://www.hackerrank.com/challenges/python-lists/problem
+
+to do:
+
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/learn-how-javascript-assertions-work/
+FCC Test Challengs Prototype
+https://glitch.com/edit/#!/deluxe-point
+ack! no lessons yet
 
 
