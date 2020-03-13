@@ -6318,6 +6318,7 @@ tracking online reputation
 https://www.lynda.com/Linux-tutorials/Tracking-online-reputation/455717/5027604-4.html
 Quiz
 micro
+
 March 8th
 // email and websites
 Websites and email footprinting
@@ -6353,6 +6354,9 @@ Win One
 https://www.udemy.com/course/self-taught-programmer/learn/lecture/16692014#overview
 
 March 12th
+// more Lynda on Ethical Hacking
+Mirroring Websites
+https://www.lynda.com/Linux-tutorials/Mirroring-websites/455717/5027607-4.html
 
 
 //Jobs in Jenkins con't
