@@ -1,6 +1,6 @@
 coding stuff while travelling
 
-April 26
+April 26 2018
 
 https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/math-operators
 
@@ -2818,6 +2818,3670 @@ https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/pop-q
 // fCC exercises - data
 https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/set-a-domain-and-a-range-on-a-scale
 
+// Java
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture06
+
+March 31st
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ay-b-c
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/use-the-d3-max-and-d3-min-functions-to-find-minimum-and-maximum-values-in-a-dataset
+
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture06
+con't &&
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture07
+
+April 1st
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/word-up
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/use-dynamic-scales/
+
+April 2nd
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/move-it-on-back
+
+// fCC exrcises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization
+
+April 3rd
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/ending-up
+
+// fCC exercises - data
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements/
+
+April 4th
+https://www.codecademy.com/courses/learn-python/lessons/pyglatin/exercises/testing-testing-is-this-thing-on-
+
+// fCC exercises - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/start-a-working-express-server
+
+April 5th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/what-good-are-functions
+
+// fCC exercises - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/serve-an-html-file
+
+April 6th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/function-junction
+
+// fCC exercises - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/serve-static-assets
+
+// java course
+// finish this one - youtube vid
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture07
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture08
+
+// computerphiles videos start oldest to new
+// https://www.youtube.com/user/Computerphile/videos
+Welcome to Computerphile!
+https://youtu.be/DW4f1x6IQ9o
+
+April 7th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/call-and-response
+
+// fCC exercises - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route
+
+April 8th
+// vids on computers
+The Art of Abstraction - Computerphile
+https://youtu.be/p7nGcY73epw
+
+//Codecademy
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/parameters-and-arguments
+
+// fCC exercise - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/use-the--env-file/
+
+April 9th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/functions-calling-functions
+
+// computerphile vids
+// https://www.youtube.com/user/Computerphile
+Quick Sort - Computerphile
+https://youtu.be/XE4VP_8Y0BU
+
+// fCC - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/implement-a-root-level-request-logger-middleware/
+
+April 10th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/practice-makes-perfect
+
+// fCC - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server/
+
+April 11th
+// computerphile vids
+Email - Computerphile
+https://youtu.be/7ZPW8FwgHoM
+
+// Codecademy
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/i-know-kung-fu
+
+// fCC - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/get-route-parameter-input-from-the-client/
+
+April 12th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/generic-imports
+
+// computerphile vids
+IP Addresses and the Internet - Computerphile
+https://youtu.be/L6bDA5FK6gs
+
+// fCC - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/get-query-parameter-input-from-the-client
+
+April 13th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/function-imports
+
+// fCC - clean up algorythm stuff
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice
+
+April 14th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/universal-imports
+
+// fcc - MongoDB
+https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose
+https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose/install-and-set-up-mongoose
+https://www.npmjs.com/package/mongodb
+https://www.npmjs.com/package/mongoose
+// have to troubelshoot connecting to db
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/install-and-require-helmet
+https://www.npmjs.com/package/helmet
+
+April 15th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/here-be-dragons
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/on-beyond-strings
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/hide-potentially-dangerous-information-using-helmet-hidepoweredby/
+
+April 16th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/max
+
+//fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-clickjacking-with-helmet-frameguard/
+
+April 17th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/min
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-cross-site-scripting-xss-attacks-with-helmet-xssfilter/
+
+April 18th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/abs
+
+// fCC - mongodb
+https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose/install-and-set-up-mongoose/
+
+April 19th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/type
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/avoid-inferring-the-response-mime-type-with-helmet-nosniff/
+
+April 20th
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-functions
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/prevent-ie-from-opening-untrusted-html-with-helmet-ienoopen/
+
+April 21st
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-modules
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/ask-browsers-to-access-your-site-via-https-only-with-helmet-hsts/
+
+April 22nd
+https://www.codecademy.com/courses/learn-python/lessons/functions/exercises/review-built-in-functions
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/disable-dns-prefetching-with-helmet-dnsprefetchcontrol/
+
+// computerphile
+Hyper History and Cyber War - Computerphile
+https://youtu.be/riT-ew7n7RU
+
+April 23rd
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/before-we-begin
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/disable-client-side-caching-with-helmet-nocache/
+
+// computerphile
+Why Internet Slows Down When it's Busy - Computerphile
+https://youtu.be/TSJw_oQklz8
+
+April 24th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/planning-your-trip-
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/set-a-content-security-policy-with-helmet-contentsecuritypolicy/
+
+April 25th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/getting-there
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/understand-bcrypt-hashes
+
+April 26th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/transportation-
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/hash-and-compare-passwords-asynchronously/
+
+How Intelligent is Artificial Intelligence? - Computerphile
+https://youtu.be/hcoa7OMAmRk
+&&
+Cracking Websites with Cross Site Scripting - Computerphile
+https://youtu.be/L5l9lSnNMxg
+
+April 27th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/pull-it-together-
+
+// fCC - info security
+https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/hash-and-compare-passwords-synchronously
+
+April 28th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/hey-you-never-know
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/learn-how-javascript-assertions-work/
+
+April 29th
+https://www.codecademy.com/courses/learn-python/lessons/taking-a-vacation/exercises/plan-your-trip
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-variable-or-function-is-defined/
+
+Writing tests in Postman -- with examples! Part 1 of 2
+https://youtu.be/pi9MxX0HSHU
+
+April 30th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/introduction-to-lists
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-assert-isok-and-assert-isnotok/
+
+// Javascript testing with Mocha and Chai
+https://teamtreehouse.com/library/javascript-unit-testing
+Introduction
+https://teamtreehouse.com/library/introduction-72
+Proving Our Code Works
+https://teamtreehouse.com/library/proving-our-code-works
+
+May 1st
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/access-by-index-1
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-for-truthiness/
+
+May 2nd
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/new-neighbors
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-double-equals-to-assert-equality/
+
+May 3rd
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/late-arrivals--list-length
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-triple-equals-to-assert-strict-equality/
+
+// treehouse on js testing
+Running Your First Automated Test
+https://teamtreehouse.com/library/running-your-first-automated-test
+https://teamtreehouse.com/library/javascript-unit-testing/introducing-unit-testing/running-an-automated-test
+Different Types of Testing
+https://teamtreehouse.com/library/different-types-of-testing
+Behavior Driven Development
+https://teamtreehouse.com/library/behavior-driven-development
+Red, Green, Refactor
+https://teamtreehouse.com/library/red-green-refactor
+
+May 4th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/list-slicing
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/slicing-lists-and-strings
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/assert-deep-equality-with--deepequal-and--notdeepequal/
+
+May 5th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/maintaining-order
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/compare-the-properties-of-two-elements
+
+May 6th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/for-one-and-all
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-one-value-is-below-or-at-least-as-large-as-another
+
+computerphile
+The Hair Algorithm - Computerphile
+https://youtu.be/CpXaH77B8xg
+
+May 7th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/more-with-for
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-value-falls-within-a-specific-range/
+
+// treehouse on js testing
+Greater Expectations
+https://teamtreehouse.com/library/greater-expectations
+https://teamtreehouse.com/library/javascript-unit-testing/introducing-unit-testing/review-types-of-testing
+Getting Started with Mocha and Chai
+https://teamtreehouse.com/library/getting-started-with-mocha-and-chai
+
+May 8th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/this-next-part-is-key
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-value-is-an-array/
+
+May 9th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/new-entries
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-an-array-contains-an-item/
+
+May 10th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/changing-your-mind
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-value-is-a-string
+
+May 11th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/remove-a-few-things
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-string-contains-a-substring/
+
+May 12th
+https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/its-dangerous-to-go-alone-take-this
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-regular-expressions-to-test-a-string/
+
+May 13th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/befor-we-begin
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-an-object-has-a-property/
+
+May 14th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/this-is-key
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-value-is-of-a-specific-data-structure-type/
+
+// mongodb uni
+// Chapater 1 vids
+// intro stuff
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594d88952fbb2cd3ae1081b7/lecture
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594d88952fbb2cd3ae1081b7/problem
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5c95643f4f70efbf7752274d/lecture
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5c95643f4f70efbf7752274d/problem
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5963b30cc1da5a32116dc5b3/lecture
+// connecting to compass
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594d8f1e8c07c3a9b60bdfb3/lecture
+
+May 15th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/control-flow-and-looping
+
+// fCC - Chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-an-object-is-an-instance-of-a-constructor/
+
+May 16th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/lists--functions
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/run-functional-tests-on-api-endpoints-using-chai-http
+
+May 17th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/string-looping
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/your-own-store
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/run-functional-tests-on-api-endpoints-using-chai-http-ii/
+
+May 18th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/investing-in-stock-
+
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/run-functional-tests-on-an-api-response-using-chai-http-iii---put-method/
+
+May 19th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/keeping-track-of-the-produce-
+
+// fCC futher node
+https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express
+https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/set-up-a-template-engine
+
+May 20th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/something-of-value-
+
+// fCC - node
+https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/use-a-template-engines-powers
+
+// mongo U course basics 101
+// rewatch and config Compass
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594d8f1e8c07c3a9b60bdfb3/lecture
+Chapter 1: Introduction
+Databases, Collections, and Documents
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594f8566a25de40c889d8a45/lecture
+Exploring Datasets in Compass
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594f8ee9e1c27e0eeecf6263/lecture
+Lab 1.1: Install Compass and Connect
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5950fb41e1cc4e7c95ead39d/problem
+Documents: Scalar Value Types
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/594fb325ec77764c7d8e260e/lecture
+MongoDB Documents: Fields with Documents as Values
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5950007af093fe03bc2783c8/lecture
+MongoDB Documents: Fields with Arrays as Values
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/595004afb39bd05a8382563a/lecture
+MongoDB Documents: Geospatial Data
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/595003bf818f923c99a4a4c8/lecture
+
+May 21st
+// mongodB course
+Filtering Collections with Queries
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/595006bc3442bae307601eff/lecture
+Geospatial Queries
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/59500a56ce2ea939b4b7058f/lecture
+Understanding JSON
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_1_Introduction/lesson/5950156a42874dda44aa1faa/lecture
+
+// plus all the Mongo Uni labs and quizes for Chapter 1
+
+//CodeCademy
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/shopping-at-the-market
+
+// fCC - more on node
+https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/set-up-passport
+
+May 22nd
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/making-a-purchase
+
+// fCC - more on node
+https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express/serialization-of-a-user-object/
+
+May 23rd
+//doing these daily as well, but a whole chapter at a time
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+May 24th
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// just taking a break from my streaks..
+
+May 25th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/stocking-out-
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+May 26th
+https://www.codecademy.com/courses/learn-python/lessons/a-day-at-the-supermarket/exercises/lets-check-out
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/lesson-number-one-
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+// mongodB course
+// Chapter 2: The MongoDB Query Language + Atlas
+Introduction to CRUD
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361a9/lecture
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361a9/problem
+Installing the mongo Shell (Windows)
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/5963b30cc1da5a32116dc5bb/lecture
+Connecting to Our Class Atlas Cluster from the mongo Shell
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361b9/lecture
+Connecting to Our Class Atlas Cluster from the mongo Shell - quiz
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361b9/problem
+
+May 27th
+// mongodB course
+// Chapter 2: The MongoDB Query Language + Atlas
+Creating an Atlas Sandbox Cluster
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ad/lecture
+Lab 2.0: Create an Atlas Sandbox Cluster (Ungraded)
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/5ccc5805fcdfc9cfbb5065c5/lecture
+Connecting to Your Sandbox Cluster from the mongo Shell
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/5963b30cc1da5a32116dc5be/lecture
+Loading Data into Your Sandbox Cluster
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ba/lecture
+Connecting to Your Sandbox Cluster from Compass
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/5963b30cc1da5a32116dc5b9/lecture
+Lab 2.1: How Many Comedies?
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361b1/problem
+Creating Documents: insertOne()
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361bf/lecture
+Creating Documents: insertMany()
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361c0/lecture
+Lab 2.2: How Many Inserted?
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361c4/problem
+Reading Documents: Scalar Fields
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361c7/lecture
+// quiz - Reading Documents: Scalar Fields
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361c7/problem
+Lab 2.3: Queries on Scalar Fields
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361cf/problem
+Reading Documents: Array Fields
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361cb/lecture
+Reading Documents: Array Fields
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361cb/problem
+Lab 2.4: Queries on Array Fields, Part 1
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ee/problem
+Lab 2.5: Queries on Array Fields, Part 2
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361d6/problem
+Cursors
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361d9/lecture
+Projections
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361de/lecture
+Updating Documents: updateOne()
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ea/lecture
+Update Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e8/lecture
+// quiz - Update Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e8/problem
+Updating Documents: updateMany()
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e6/lecture
+Upserts
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e4/lecture
+Updating Documents: replaceOne()
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e2/lecture
+Lab 2.6: Update Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ef/problem
+Deleting Documents
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361e0/lecture
+
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/whats-the-score
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+May 28th
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/put-it-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+May 29th
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/for-the-record
+
+// mongodB course
+Chapter 3: Deeper Dive on the MongoDB Query Language
+Introduction to Query Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361f4/lecture
+// quiz - Introduction to Query Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361f4/problem
+Comparison Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361f8/lecture
+
+May 30th
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/its-okay-to-be-average-
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+May 31st
+// mongodB uni
+// rewatched
+Comparison Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361f8/lecture
+// quiz - Comparison Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361f8/problem
+Element Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/5963b30cc1da5a32116dc59c/lecture
+// quiz - Element Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/5963b30cc1da5a32116dc59c/problem
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+// switch to some easy html for a bit
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/creating-form
+
+June 1st
+day off camping
+
+June 2nd
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/text-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+June 3rd
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/adding-label
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+// mongodB uni
+Logical Operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361fc/lecture
+// quiz - logical operators
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a361fc/problem
+Array Operators: $all
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36200/lecture
+// quiz - $all
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36200/problem
+Array Operators: $size
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36204/lecture
+// quiz - $size
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36204/problem
+
+
+June 4th
+// mongo dB 101 course
+Array Operators: $elemMatch
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36208/lecture
+// quiz - Array Operators: $elemMatch
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a36208/problem
+$regex Operator
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_3_Deeper_Dive_on_the_MongoDB_Query_Language/lesson/595aae2236942e83e9a3620c/lecture
+Final Exam: Question 1
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Final_Exam/lesson/5963b30cc1da5a32116dc59d/problem
+Q 2, 3, 4, 5, 6 --> PASSED!
+
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/password-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+June 5th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/number-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+// planning out next Postman, MongodB, Treehouse and other aux courses (sql, hyperledger) to get fCC projects done
+
+June 6th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/range-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// fCC - more node
+took another break
+
+June 7th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/checkbox-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 8th
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 9th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/radio-button-input
+
+June 10th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/dropdown-list
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 11th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/datalist-input
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 12th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/textarea-element
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 13th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/submit-form
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 14th
+https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/form-review
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 15th
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/validation-intro
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/required
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 16th
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/min-max
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 17th
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/minlength-maxlength
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 18th
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/pattern
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 19th
+https://www.codecademy.com/courses/learn-html/lessons/form-validation/exercises/validation-review
+- finished the html intro course
+
+new course - https://www.codecademy.com/learn/learn-how-to-code
+https://www.codecademy.com/courses/learn-how-to-code/articles/what-is-programming
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+and starting a new game called spac doggos to learn etherium contracts
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/#
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/intro
+
+June 20th
+// space doggo
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/contract
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/variables-intro
+
+June 21st
+// mongo dB 2nd course
+https://university.mongodb.com/mercury/M121/2019_June
+Chapter 0: Introduction and Aggregation Concepts: Introduction to the MongoDB Aggregation Framework
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59c918c51b9faad23c266d91/lecture
+Atlas Requirement
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59de3c10e433130e0a9628d2/lecture
+The Concept of Pipelines
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59c9190e0ddb4c1993b02599/lecture
+quiz - The Concept of Pipelines
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59c9190e0ddb4c1993b02599/problem
+Aggregation Structure and Syntax
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59ca5aff66d6f7a49c0c4fa5/lecture
+Aggregation Structure and Syntax
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_0_Introduction_and_Aggregation_Concepts/lesson/59ca5aff66d6f7a49c0c4fa5/problem
+
+// codecademy
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/variables-storing
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// the solidity game
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/variables
+
+June 22nd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/variables-changing
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/arithmetics
+
+June 23rd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/var-all-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/structs
+
+// mongodB aggregate course
+Chapter 1: Basic Aggregation - $match and $project
+$match: Filtering documents
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_1_Basic_Aggregation_-_match_and_project/lesson/59dbb62fe433135c3d5b858d/lecture
+quiz
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_1_Basic_Aggregation_-_match_and_project/lesson/59dbb62fe433135c3d5b858d/problem
+Lab - $match
+https://university.mongodb.com/mercury/M121/2019_June/chapter/Chapter_1_Basic_Aggregation_-_match_and_project/lesson/5970d8b78cf2c5580eef7d8b/lecture
+
+June 24th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-variables/exercises/review-var
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-variables-quiz
+
+// doggo course
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/mappings
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 25th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/datatypes
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/functions
+
+June 26th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/numbers
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/using-structs
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 27th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/strings
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/using-mappings
+
+June 28th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/boolean
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+https://www.bitdegree.org/courses/learn-solidity-space-doggos/lesson/1/hashes-typecasting
+
+June 29th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/datatypes-all-together
+
+// space doggos 2
+https://www.bitdegree.org/courses/coding-for-beginners/
+https://www.bitdegree.org/courses/coding-for-beginners/lesson/1/intro-html
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+June 30th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-datatypes/exercises/review
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 1st
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-datatypes-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// bitdegree doggo course
+https://www.bitdegree.org/courses/coding-for-beginners/lesson/1/structure-html
+
+July 2nd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/operators-intro
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 3rd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/arithmetic
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// bitdegree doggo course
+https://www.bitdegree.org/courses/coding-for-beginners/lesson/1/headings-paragraphs
+
+July 4th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/comparison
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// bitdegree doggo course
+https://www.bitdegree.org/courses/coding-for-beginners/lesson/1/multimedia
+
+July 5th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/logic
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 6th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/operators-all-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 7th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-operators/exercises/review-ii
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-operators-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 8th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/intro
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 9th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/reusability
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 10th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/flexibility
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 11th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/organization
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+//postman vids (api's testing)
+POSTMAN BEGINNER TUTORIAL 1 - Introduction | What is POSTMAN
+https://youtu.be/juldrxDrSH0
+POSTMAN BEGINNER TUTORIAL 2 ?? Understanding POSTMAN UI
+https://youtu.be/hHV0OZa4zrQ
+
+July 12th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/all-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 13th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-functions/exercises/review
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-functions-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 14th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/control-intro
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 15th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/conditional
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 16th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/loop
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 17th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/exception
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 18th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/control-all-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 19th
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+// felt like a break from codecademy
+
+July 20th
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 21st
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-control-flow/exercises/control-review
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-control-flow-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 22nd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-introduction
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 23rd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-accessing-items
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 24th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-adding-items
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 25th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-removing-items
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 26th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-putting-it-together
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 27th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-lists/exercises/bop-lists-review
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-lists-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 28th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/intro
+
+//some stuff on noSQL db's
+//lynda.com --> Business - Big Data - Learning NoSQL Databases
+welcome
+https://www.lynda.com/NoSQL-tutorials/Up-Running-NoSQL-Databases/111598-2.html
+What-you-should-know-before-watching-course
+https://www.lynda.com/Cassandra-tutorials/What-you-should-know-before-watching-course/111598/117564-4.html
+Using-exercise-files
+https://www.lynda.com/Cassandra-tutorials/Using-exercise-files/111598/117565-4.html
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+July 29th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/for-loops
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+//lynda.com --> Business - Big Data - Learning NoSQL Databases
+what is NoSQL
+https://www.lynda.com/Cassandra-tutorials/What-NoSQL/111598/117567-4.html
+Defining NoSQL database types
+https://www.lynda.com/Cassandra-tutorials/Defining-NoSQL-database-types/111598/117568-4.html
+Exploring NoSQL possibilities
+https://www.lynda.com/Cassandra-tutorials/Exploring-NoSQL-possibilities/111598/117569-4.html
+
+July 30th
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/while-loops
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+//lynda.com --> Business - Big Data - Learning NoSQL Databases
+Access overview
+https://www.lynda.com/Cassandra-tutorials/Access-overview/111598/117571-4.html
+Installing CouchDB Windows
+https://www.lynda.com/Cassandra-tutorials/Installing-CouchDB-Windows/111598/117572-4.html
+
+July 31st
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/for-each-loops
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+August 1st
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/bop-loops-putting-it-together
+https://www.codecademy.com/courses/learn-how-to-code/quizzes/bop-loops-quiz
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 2nd
+https://www.codecademy.com/courses/learn-how-to-code/lessons/bop-loops/exercises/bop-loops-review
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 3rd
+// taking myself into a slighty new direction
+// beta codecademy
+// electronics!!
+https://www.codecademy.com/courses/beta-content/lessons/logic-gates/exercises/introduction
+https://www.codecademy.com/courses/beta-content/lessons/logic-gates/exercises/truth-tables
+// also learn php
+https://www.codecademy.com/learn/learn-php
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/history-of-php
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/how-is-php-used-in-html
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/how-is-php-executed
+
+Aug 4th
+// electronics!!
+https://www.codecademy.com/courses/beta-content/lessons/logic-gates/exercises/nand-gate
+// also learn php
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/php-comments
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/todo-learn-php
+https://www.codecademy.com/courses/learn-php/lessons/intro-php/exercises/review
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 5th
+// electronics!!
+https://www.codecademy.com/courses/beta-content/lessons/logic-gates/exercises/not-gate
+// also learn php
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/strings
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/escape-sequences
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/string-concatenation
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/variables
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/creating-variables
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+//lynda.com --> Business - Big Data - Learning NoSQL Databases
+Signing up CouchDB
+https://www.lynda.com/Cassandra-tutorials/Signing-up-CouchDB-cloud/111598/117575-4.html
+// quiz
+https://www.lynda.com/Cassandra-tutorials/Signing-up-CouchDB-cloud/111598/117575-4.html
+Storing data
+https://www.lynda.com/Cassandra-tutorials/Storing-data/111598/117577-4.html
+
+Aug 6th
+// electronics!!
+https://www.codecademy.com/courses/beta-content/lessons/logic-gates/exercises/and-gate
+--> stuck on this one due to the code syntax for their gates
+// also learn php
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/using-variables
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 7th
+// learn php
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/variable-parsing
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 8th
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/variable-reassignment
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 9th
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/concatenating-assignment-operator
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+
+Aug 10th
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/assign-by-reference
+https://www.codecademy.com/courses/learn-php/lessons/php-strings-and-variables/exercises/review
+// new lesson - numbers
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/numbers
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/addition-and-subtraction
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/using-number-variables
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/multiplication-and-division
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/exponentiation
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/modulo
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/order-of-operations
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/mathematical-assignment-operators
+https://www.codecademy.com/courses/learn-php/lessons/php-numbers/exercises/review
+
+// the essential web devleoper course from upskill
+https://v1.upskillcourses.com/courses/enrolled/119763
+// doing the intro lessons but jumping to the core stuff - build a blogging platform
+Setting Up with Cloud9 IDE
+https://v1.upskillcourses.com/courses/119763/lectures/1747592
+Setup Your Free Cloud9 Account
+https://v1.upskillcourses.com/courses/119763/lectures/6210461
+New Cloud9 Signup Process
+https://v1.upskillcourses.com/courses/119763/lectures/4496208
+Create a Rails App
+https://v1.upskillcourses.com/courses/119763/lectures/4832945
+
+Aug 11th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/introduction
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/defining-functions
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 12th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/invoking-functions
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 13th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/using-return-statements
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 14th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/more-on-return
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 15th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/return-values
+
+learn to code Mimo exercises
+https://getmimo.com/learn/50
+
+Aug 16th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/returning-null
+
+Aug 17th - Aug 25th - vacation!!
+
+Aug 26th
+
+// Qwiklabs ML courses
+GCP Essentials
+https://google.qwiklabs.com/quests/23
+Create a Virtual Machine, GCP Essentials - Qwiklabs Preview
+https://youtu.be/ew-r46FmzSM
+A Tour of Qwiklabs and the Google Cloud Platform
+https://google.qwiklabs.com/focuses/2794?parent=catalog
+https://youtu.be/yF7EDXKTmoQ
+
+Aug 27th
+
+// the essential web devleoper course from upskill
+https://v1.upskillcourses.com/courses/enrolled/119763
+// doing the intro lessons but jumping to the core stuff as well - build a blogging platform
+// reread
+1c. Create a Rails App
+https://v1.upskillcourses.com/courses/119763/lectures/4832945
+
+// codecademy - back into it
+// semantic hmtl
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
+// review the blockchain stuff
+//https://www.codecademy.com/learn/introduction-to-blockchain
+https://www.codecademy.com/courses/introduction-to-blockchain/lessons/blockchain-in-python/exercises/transactions
+
+Aug 28th
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/header-and-nav
+
+Aug 29th
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/main-and-footer
+
+Aug 30th
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/article-and-section
+
+Aug 31st
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/aside-element
+
+con't (a ton of reading)
+A Tour of Qwiklabs and the Google Cloud Platform
+https://google.qwiklabs.com/focuses/2794?parent=catalog
+
+Sept 1st 2019
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/figure-and-figcaption
+
+con't (a ton of reading)
+A Tour of Qwiklabs and the Google Cloud Platform
+https://google.qwiklabs.com/focuses/2794?parent=catalog
+
+Sept 2nd
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/audio-and-attributes
+
+Sept 3rd
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/video-and-embed
+
+con't (the lab)
+A Tour of Qwiklabs and the Google Cloud Platform
+https://google.qwiklabs.com/focuses/2794?parent=catalog
+
+and intro to Creating a Virtual Machine
+https://google.qwiklabs.com/focuses/3563?parent=catalog
+and vid
+Create a Virtual Machine, GCP Essentials - Qwiklabs Preview
+https://youtu.be/ew-r46FmzSM
+
+Sept 4th
+https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review
+&& Java course
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/introduction-to-java
+
+Creating a Virtual Machine
+https://google.qwiklabs.com/focuses/3563?parent=catalog
+(read the steps)
+
+Sept 5th
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/hello-java-file
+
+Sept 6th
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/commenting-code
+
+Sept 7th
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/semicolons-and-whitespace
+
+Sept 8th
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/compilation-catching-errors
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/compilation-creating-executables
+https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/java-review-putting-it-all-together
+
+//upskill course on Web Dev
+First HTML Page
+https://v1.upskillcourses.com/courses/119763/lectures/1746974
+The HTML Page Structure
+https://v1.upskillcourses.com/courses/119763/lectures/1746975
+
+Sept 9th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/introduction
+
+//upskill course on Web Dev
+Text
+https://v1.upskillcourses.com/courses/119763/lectures/1746976
+
+Sept 10th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/ints
+
+Sept 11th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/doubles
+
+Lists
+https://v1.upskillcourses.com/courses/119763/lectures/1746977
+
+Creating a Virtual Machine
+https://google.qwiklabs.com/focuses/3563?parent=catalog
+(do it!)
+
+Sept 12th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/booleans
+
+// for work
+https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/
+(started in and it suggested HTML Injection tutorial)
+https://www.softwaretestinghelp.com/html-injection-tutorial/
+
+Launch a Windows Server Instance, GCP Essentials - Qwiklabs Preview
+https://youtu.be/EFPaP20APuw
+
+Sept 13th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/char
+
+// starting in on the P1xt learn to code material
+// from https://github.com/P1xt/p1xt-guides/blob/master/deprecated/job-ready-javascript-edition-3.0.md#tier-1---the-basics
+// https://www.khanacademy.org/computing/computer-programming/programming
+What is Programming?
+https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
+Learning programming on Khan Academy
+https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy
+
+//upskill course on Web Dev
+6. Images
+https://v1.upskillcourses.com/courses/119763/lectures/1746978
+
+Compute Engine: Qwik Start - Windows
+https://google.qwiklabs.com/focuses/560?parent=catalog
+(read it!)
+// and intro vid:
+Launch a Windows Server Instance, GCP Essentials - Qwiklabs Preview
+https://youtu.be/EFPaP20APuw
+
+Sept 14th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/string
+
+Compute Engine: Qwik Start - Windows
+https://google.qwiklabs.com/focuses/560?parent=catalog
+(do it!)
+
+Getting Started with Cloud Shell & gcloud
+https://google.qwiklabs.com/focuses/563?parent=catalog
+(read!)
+// and vid:
+Get Started with Cloud Shell, GCP Essentials - Qwiklabs Preview
+https://youtu.be/ZD1zvEyfpLI
+
+// Khan academy math exercises
+https://www.khanacademy.org/mission/math?ref=current_missions
+
+Sept 15th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/static-checking
+
+// upskill course on web design
+Tables
+https://v1.upskillcourses.com/courses/119763/lectures/1746979
+
+Sept 16th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/naming
+
+// postman training
+https://blog.getpostman.com/2016/10/06/it-starts-with-a-simple-rest-client-2/
+https://en.wikipedia.org/wiki/CURL
+
+// upskill web design course
+Links
+https://v1.upskillcourses.com/courses/119763/lectures/1746981
+
+Sept 17th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/exercises/review
+
+// upskill course
+Comments
+https://v1.upskillcourses.com/courses/119763/lectures/1746983
+
+Sept 18th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/introduction
+
+// try this out - service workers for offline apps
+https://serviceworkies.com/
+https://serviceworkies.mastery.games/chapter/1/level/1
+up to
+https://serviceworkies.mastery.games/chapter/1/level/10
+// I might not track levels since most are storyline - the gamification of coding
+// and some background reading
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+
+// cybrary vids on security
+Introduction to IT & Cybersecurity
+1.0 Introduction
+1.1 Intro to System Administration Part 1
+
+Sept 19th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/addition-and-subtraction
+
+// con't service worker game
+https://serviceworkies.mastery.games/chapter/1/level/10
+// in the middel of level 2
+
+Getting Started with Cloud Shell & gcloud
+https://google.qwiklabs.com/focuses/563?parent=catalog
+(did!)
+
+Sept 20th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/multiplication-and-division
+
+Kubernetes Engine: Qwik Start
+https://google.qwiklabs.com/focuses/878?parent=catalog
+Manage Containerized Apps with Kubernetes Engine | Google Cloud Labs
+https://youtu.be/u9nsngvmMK4
+( read && watched youtube )
+
+Sept 21st
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/modulo
+
+// con't cybrary vids on security
+Introduction to IT & Cybersecurity
+1.2 Intro to System Administration Part 2
+
+// lynda DevOps con't
+// DevOps Foundations
+// rewatch a few vids before continuing
+DevOPs Core Values - CAMS
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-core-values-CAMS/508618/555078-4.html
+the Three Ways
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-principles-three-ways/508618/555079-4.html
+DevOps Playbook
+https://www.lynda.com/Operating-Systems-tutorials/Your-DevOps-playbook/508618/555080-4.html
+DevOps Success Part 1
+https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-10-through-6/508618/555081-4.html
+DevOps Part 2
+https://www.lynda.com/Operating-Systems-tutorials/10-practices-DevOps-success-5-through-1/508618/555082-4.html
+DevOps - cart/horse
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-tools-cart-horse/508618/555083-4.html
+IT Crowd - culture
+https://www.lynda.com/Operating-Systems-tutorials/IT-crowd-coming-storm/508618/555085-4.html
+
+/ starting in on the P1xt learn to code material
+// from https://github.com/P1xt/p1xt-guides/blob/master/deprecated/job-ready-javascript-edition-3.0.md#tier-1---the-basics
+// https://www.khanacademy.org/computing/computer-programming/programming
+Making drawings with code
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code
+Quick tip: number scrubbing
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/a/quick-tip-number-scrubbing
+Challenge: Simple snowman
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-simple-snowman
+Drawing more shapes with code
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/drawing-more-shapes-with-code
+Challenge: Waving snowman
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-waving-snowman
+
+Sept 22nd
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/greater-than-and-less-than
+
+// con't cybrary vids on security
+Introduction to IT & Cybersecurity
+1.3 Intro to Network Engineering Part 1
+1.4 Intro to Network Engineering Part 2
+1.5 Intro to Network Engineering Part 3
+
+// lynda DevOps con't
+// DevOps Foundations
+// rewatch a few vids before continuing
+use your words
+https://www.lynda.com/Operating-Systems-tutorials/Use-your-words/508618/555086-4.html
+do unto others
+https://www.lynda.com/Operating-Systems-tutorials/Do-unto-others/508618/555087-4.html
+throwing things ovr walls
+https://www.lynda.com/Operating-Systems-tutorials/Throwing-things-over-walls/508618/555088-4.html
+
+// upskill
+8. Forms
+https://v1.upskillcourses.com/courses/119763/lectures/1746980
+// this can lead into finishing off the survey form fCC exercise
+
+Sept 23rd
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/equals-and-not-equals
+
+// lynda DevOps con't
+// DevOps Foundations
+// rewatch a few vids before continuing
+Kaizen
+https://www.lynda.com/Operating-Systems-tutorials/Kaizen-Continuous-improvement/508618/555089-4.html
+Agile
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-building-block-Agile/508618/555091-4.html
+Lean
+https://www.lynda.com/Operating-Systems-tutorials/DevOps-building-block-Lean/508618/555092-4.html
+old IT models (it's new vids from here)
+https://www.lynda.com/Operating-Systems-tutorials/ITIL-ITSM-SDLC/508618/555093-4.html
+Infrastructure as code
+https://www.lynda.com/Operating-Systems-tutorials/Infrastructure-code/508618/555095-4.html
+
+// con't cybrary vids on security
+Introduction to IT & Cybersecurity
+1.6 Intro to Incident Response and Forensics Part 1
+
+Sept 24th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/greater-less-than-or-equal-to
+
+// lynda DevOps con't
+// DevOps Foundations
+// new vids
+Foil Ball
+https://www.lynda.com/Operating-Systems-tutorials/Golden-image-foil-ball/508618/555096-4.html
+Immutable Deployment
+https://www.lynda.com/Operating-Systems-tutorials/Immutable-deployment/508618/555097-4.html
+
+Sept 25th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/equals
+
+// lynda DevOps con't
+// DevOps Foundations
+Infrastructure Toolchain
+https://www.lynda.com/Operating-Systems-tutorials/Your-infrastructure-toolchain/508618/555098-4.html
+
+Sept 26th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/string-concatenation
+
+// DevOps Foundations
+small fast better
+https://www.lynda.com/Operating-Systems-tutorials/Small-fast-better/508618/555100-4.html
+
+Sept 27th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/exercises/review
+
+// lynda DevOps con't
+// DevOps Foundations
+Continuous Integration
+https://www.lynda.com/Operating-Systems-tutorials/Continuous-integration-practices/508618/555101-
+Continous Delivery
+https://www.lynda.com/Operating-Systems-tutorials/continuous-delivery-pipeline/508618/555102-4.html
+Role of QA
+https://www.lynda.com/Operating-Systems-tutorials/role-QA/508618/555103-4.html
+
+// introduction to Digital Currencies
+Massive Open Online Course: Introduction to Digital Currencies (MOOC 12)
+https://courses.unic.ac.cy/course/view.php?id=7366
+
+Sept 28th
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/introduction-to-classes
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-syntax
+
+// lynda DevOps con't
+// DevOps Foundations
+CI Toolchain
+https://www.lynda.com/Operating-Systems-tutorials/Your-CI-toolchain/508618/555104-4.html
+
+Sept 29th
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-constructors
+
+// DevOps Foundations
+Engineering and Deployment (reliability)
+https://www.lynda.com/Operating-Systems-tutorials/Engineering-doesnt-end-deployment/508618/555106-4.html
+Design for Operations: Theory
+https://www.lynda.com/Operating-Systems-tutorials/Design-operation-Theory/508618/555107-4.html
+
+// cybrary vids on security
+Introduction to IT & Cybersecurity
+1.7 Intro to Incident Response and Forensics Part 2
+
+// starting in on the P1xt learn to code material
+// from https://github.com/P1xt/p1xt-guides/blob/master/deprecated/job-ready-javascript-edition-3.0.md#tier-1---the-basics
+// https://www.khanacademy.org/computing/computer-programming/programming
+Coloring with code
+https://www.khanacademy.org/computing/computer-programming/programming/coloring/pt/coloring-with-code
+Quick tip: color picking
+https://www.khanacademy.org/computing/computer-programming/programming/coloring/a/quick-tip-color-picking
+Challenge: Sunny snowy day
+https://www.khanacademy.org/computing/computer-programming/programming/coloring/pc/challenge-sunny-snowy-day
+
+Sept 30th
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-instance-fields
+
+// DevOps Foundations
+Design for Operations - Practice
+https://www.lynda.com/Operating-Systems-tutorials/Design-operation-Practice/508618/555108-4.html
+Metrics and Monitoring
+https://www.lynda.com/Operating-Systems-tutorials/Operate-design-Metrics-monitoring/508618/555109-4.html
+Logging
+https://www.lynda.com/Operating-Systems-tutorials/Operate-design-Logging/508618/555110-4.html
+
+Oct 1st
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-constructor-parameters
+
+// start in on sql course
+SQL for Data Analysis: Weekender Crash Course for Beginners
+https://www.udemy.com/course/sql-for-newbs/
+1. Introduction to the Course and Your Instructors
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/3953176#overview
+2. WATCH ME NOW!
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1150968#overview
+3. A Note from Your Humble Leaders
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/2109418#overview
+4. Getting Started (Downloading a Text Editor!) - All OS
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/2000536#overview
+5. Getting set up: No installation necessary!
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/12124418#overview
+
+Oct 2nd
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-assigning-values-to-instance-fields
+
+// udemy sql course
+6. What the heck is a relational database?
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1150972#overview
+[QUIZ] What the heck is a relational database?
+https://www.udemy.com/course/sql-for-newbs/learn/quiz/82392#overview
+
+Oct 3rd
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/objects-multiple-fields
+
+// DevOps Foundations
+SRE Toolchain
+https://www.lynda.com/Operating-Systems-tutorials/Your-SRE-toolchain/508618/555111-4.html
+
+// udemy sql course
+7. Da SQL Basics: Skeleton of a Query
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1150974#overview
+Quiz 2: SQL Query Skeleton
+https://www.udemy.com/course/sql-for-newbs/learn/quiz/82394#overview
+8. [Brainbuster] Build Your First Query!
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1819466#overview
+
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+The Power of the Docs
+https://www.khanacademy.org/computing/computer-programming/programming/coloring/v/the-power-of-the-docs
+
+Oct 4th
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-review
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/introduction
+
+// DevOps Foundations - Lynda
+Unicorns, Horses, Donkeys,
+https://www.lynda.com/Operating-Systems-tutorials/Unicorns-horses-donkeys-oh-my/508618/555113-4.html
+top 10 DevOps books
+https://www.lynda.com/Operating-Systems-tutorials/10-best-DevOps-books-you-need-read/508618/555114-4.html
+Navigating the tubes
+https://www.lynda.com/Operating-Systems-tutorials/Navigating-series-tubes/508618/555115-4.html
+Cloud to Containers to Serverless Solutions
+https://www.lynda.com/Operating-Systems-tutorials/Cloud-containers-serverless-solutions/508618/555117-4.html
+DevOps Security
+https://www.lynda.com/Operating-Systems-tutorials/rugged-frontier-DevOps-Security/508618/555118-4.html
+Am I DevOps now?
+https://www.lynda.com/Operating-Systems-tutorials/Next-steps-Am-I-DevOp-now/508618/555120-4.html
+- done course!
+
+Oct 5th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/defining-methods
+
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+Spin-off of "Project: What's for Dinner?"
+https://www.khanacademy.org/computing/computer-programming/programming/coloring/pp/project-whats-for-dinner
+
+Oct 6th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/calling-methods
+
+// conbase earn - learn and earn about crypto
+// DAI
+https://www.coinbase.com/earn/dai
+What is DAI?
+https://www.coinbase.com/earn/dai/lesson/1
+What is DAI used for?
+https://www.coinbase.com/earn/dai/lesson/2
+How does Dai stay stable?
+https://www.coinbase.com/earn/dai/lesson/3
+// EOS
+https://www.coinbase.com/earn/eos
+What are EOSIO and EOS?
+https://www.coinbase.com/earn/eos/lesson/1
+What is Delegated Proof of Stake?
+https://www.coinbase.com/earn/eos/lesson/2
+What is the EOS token?
+https://www.coinbase.com/earn/eos/lesson/3
+CPU, NET, and RAM: Resources on EOSIO
+https://www.coinbase.com/earn/eos/lesson/4
+Developing apps with EOSIO
+https://www.coinbase.com/earn/eos/lesson/5
+
+Oct 7th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/scope
+
+// udemy sql course
+9. COUNT() and GROUP BY
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1779582#overview
+
+Oct 8th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/adding-parameters
+
+Oct 9th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/reassigning-instance-fields
+
+// Lynda on Learning-OWASP-Top-10
+// https://www.lynda.com/Developer-Security-tutorials/Learning-OWASP-Top-10/
+Welcome
+https://www.lynda.com/Developer-Security-tutorials/Learning-OWASP-Top-10/642483-2.html
+OWASP and Top 10
+https://www.lynda.com/IT-Infrastructure-tutorials/OWASP-OWASP-Top-10/642483/712164-4.html
+Injection
+https://www.lynda.com/IT-Infrastructure-tutorials/Injection/642483/712166-4.html
+Broken Authentication and Session Management
+https://www.lynda.com/IT-Infrastructure-tutorials/Broken-authentication-session-management/642483/712167-4.html
+Sesitive Data Exposure
+https://www.lynda.com/IT-Infrastructure-tutorials/Sensitive-data-exposure/642483/712168-4.html
+XXE attacks
+https://www.lynda.com/IT-Infrastructure-tutorials/XML-external-entity-XXE/642483/712169-4.html
+
+Oct 10th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/returns
+
+// Lynda on Learning-OWASP-Top-10
+Broken Access Control
+https://www.lynda.com/IT-Infrastructure-tutorials/Broken-access-control/642483/712170-4.html
+Security Misconfiguration
+https://www.lynda.com/IT-Infrastructure-tutorials/Security-misconfiguration/642483/712171-4.html
+Cross Site Scripting
+https://www.lynda.com/IT-Infrastructure-tutorials/Cross-site-scripting/642483/712172-4.html
+Insecure Deserialization
+https://www.lynda.com/IT-Infrastructure-tutorials/Insecure-deserialization/642483/712173-4.html
+Known Vulnerabilities
+https://www.lynda.com/IT-Infrastructure-tutorials/Using-components-known-vulnerabilities/642483/712174-4.html
+Insufficient Logging
+https://www.lynda.com/IT-Infrastructure-tutorials/Insufficient-logging-monitoring/642483/712175-4.html
+Next Steps
+https://www.lynda.com/IT-Infrastructure-tutorials/Next-steps/642483/712177-4.html
+// next course Introduction to APIs
+What is an API
+https://www.lynda.com/REST-tutorials/Introduction-Web-APIs/5040403-2.html
+What you should know
+https://www.lynda.com/REST-tutorials/What-you-should-know/5040403/2250819-4.html
+What to expect
+https://www.lynda.com/REST-tutorials/What-expect-from-course/5040403/2251674-4.html
+APIs in Plain English
+https://www.lynda.com/REST-tutorials/APIs-plain-English/5040403/2248849-4.html
+Request Resonse Cycle
+https://www.lynda.com/REST-tutorials/request-response-cycle/5040403/2250820-4.html
+What is JSON
+https://www.lynda.com/REST-tutorials/What-JSON/5040403/2248850-4.html
+Parsing Data
+https://www.lynda.com/REST-tutorials/Parsing-data/5040403/2251675-4.html
+Working with Objects
+https://www.lynda.com/REST-tutorials/Working-objects/5040403/2250821-4.html
+Making a request - XMLHttpRequest
+https://www.lynda.com/REST-tutorials/Connect-API-using-XMLHttpRequest/5040403/2249855-4.html
+JQuery methods
+https://www.lynda.com/REST-tutorials/Connect-API-using-jQuery-methods/5040403/2248851-4.html
+Fetch
+https://www.lynda.com/REST-tutorials/Connect-API-using-Fetch/5040403/2250822-4.html
+
+Oct 11th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/the-tostring-method
+
+Oct 12th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/review
+
+// Lynda next course Introduction to APIs
+API Documentation
+https://www.lynda.com/REST-tutorials/API-documentation/5040403/2248852-4.html
+
+// and Introducing AI to your Organization
+Welcome
+https://www.lynda.com/IT-tutorials/Introducing-AI-Your-Organization/2804664-2.html
+What is AI
+https://www.lynda.com/IT-tutorials/What-AI/2804664/2247509-4.html
+Why Bother?
+https://www.lynda.com/IT-tutorials/Why-bother-introducing-AI-organization/2804664/2244945-4.html
+Application Examples
+https://www.lynda.com/IT-tutorials/Applications-AI/2804664/2249960-4.html
+Overall Framework
+https://www.lynda.com/IT-tutorials/Overall-framework/2804664/2245628-4.html
+
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+Intro to Variables
+https://www.khanacademy.org/computing/computer-programming/programming/variables/pt/intro-to-variables
+https://youtu.be/KpJ385shzgM
+Using variables
+https://www.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables
+
+Oct 13th
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/introduction-to-control-flow
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/if-then
+
+// udemy sql course
+10. Brainbuster TWEAK
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/3002388#overview
+Quiz 3: COUNT() and GROUP BY
+https://www.udemy.com/course/sql-for-newbs/learn/quiz/82400#overview
+
+// Lynda next course Introduction to APIs
+Make a Request to an API
+https://www.lynda.com/REST-tutorials/Make-request-API/5040403/2249856-4.html
+Filter Responses with Paramters
+https://www.lynda.com/REST-tutorials/Filter-responses-parameters/5040403/2250823-4.html
+Accessing data
+https://www.lynda.com/REST-tutorials/Access-data-response/5040403/2248853-4.html
+using the data in HTML
+https://www.lynda.com/REST-tutorials/Use-response-data-HTML/5040403/2251676-4.html
+Loop through the data
+https://www.lynda.com/REST-tutorials/Loop-through-response-data/5040403/2248854-4.html
+
+// and Introducing AI to your Organization
+Assessing readiness
+https://www.lynda.com/IT-tutorials/AI-assessment-readiness/2804664/2247510-4.html
+Presenting Business Case
+https://www.lynda.com/IT-tutorials/Developing-presenting-business-case/2804664/2246581-4.html
+
+Oct 14th
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/if-then-else
+
+// Lynda next course Introduction to APIs
+API key
+https://www.lynda.com/REST-tutorials/Authentication-API-key/5040403/2250824-4.html
+make a Request to Giphy
+https://www.lynda.com/REST-tutorials/Make-request-Giphy-API/5040403/2251677-4.html
+
+// scrimba course
+Welcome to Scrimba
+https://scrimba.com/c/c8gp4WfE
+
+Oct 15th
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/if-then-else-if
+
+// scrimba V School BootCamp Primer
+https://scrimba.com/p/pG66Msa/c66k2RCr
+
+// Lynda next course Introduction to APIs
+Filter response with parameters
+https://www.lynda.com/REST-tutorials/Filter-response-parameters/5040403/2250825-4.html
+Access data in the response
+https://www.lynda.com/REST-tutorials/Access-data-response/5040403/2250826-4.html
+use the response data
+https://www.lynda.com/REST-tutorials/Use-response-data-HTML/5040403/2248855-4.html
+response status codes
+https://www.lynda.com/REST-tutorials/Response-status-codes/5040403/2250827-4.html
+Handling errors
+https://www.lynda.com/REST-tutorials/How-handle-errors/5040403/2251678-4.html
+next steps
+https://www.lynda.com/REST-tutorials/Next-steps/5040403/2251679-4.html
+
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+Challenge: Bucktooth Bunny
+https://www.khanacademy.org/computing/computer-programming/programming/variables/pc/challenge-bucktooth-bunny
+
+// Postman play around
+Sending the first request
+https://learning.getpostman.com/docs/postman/launching_postman/sending_the_first_request
+Creating the first collection
+https://learning.getpostman.com/docs/postman/launching_postman/creating_the_first_collection
+Using Markdown for descriptions
+https://learning.getpostman.com/docs/postman/collections/using_markdown_for_descriptions/
+
+Oct 16th
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/switch
+
+Oct 17th
+https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/exercises/review
+to do:
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/introduction-to-conditional-operators
+
+// Lynda: Introducing AI to your Organization
+the AI Squad
+https://www.lynda.com/IT-tutorials/AI-squad/2804664/2247511-4.html
+Scrum Methodology
+https://www.lynda.com/IT-tutorials/Scrum-methodology/2804664/2245629-4.html
+Benefits of Scrum
+https://www.lynda.com/IT-tutorials/benefits-challenges-scrum-methodology/2804664/2246582-4.html
+
+Oct 18th
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/introduction-to-conditional-operators
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/conditional-and
+
+// Lynda: Introducing AI to your Organization
+Data Collection and Modelling
+https://www.lynda.com/IT-tutorials/Data-collection-AI-modelling/2804664/2246583-4.html
+Deploy and Optimize
+https://www.lynda.com/IT-tutorials/Deploy-optimize/2804664/2246584-4.html
+Why they fail
+https://www.lynda.com/IT-tutorials/Why-do-AI-initiatives-fail/2804664/2247512-4.html
+What's next?
+https://www.lynda.com/IT-tutorials/What-next/2804664/2244946-4.html
+// done
+
+Oct 19th
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/conditional-or
+
+// scrimba V School BootCamp Primer
+V School - Module 0 - V School Learning Philosophy
+https://scrimba.com/p/pG66Msa/ca3argsM
+
+Oct 20th
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/logical-not
+
+Oct 21st
+https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/exercises/review
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/introduction
+
+// try to get back into this Java gamification course
+https://codegym.cc/
+// redo lectures
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture00
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture01
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture02
+
+// Udemy sql weekender course
+11. [Brainbuster] Organize movies by rating!
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1819524#overview
+12. Connecting Tables
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1150978#overview
+Quiz 4: Connecting Tables (Warm-up for Brainbuster)
+https://www.udemy.com/course/sql-for-newbs/learn/quiz/113462#overview
+
+Oct 22nd
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/creating-an-array-explicitly
+
+// try to get back into this Java gamification course
+https://codegym.cc/
+// redo lectures
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture03
+
+Oct 23rd
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/importing-arrays
+
+Oct 24th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/get-element-by-index
+
+// App academy vids
+// Welcome to Programming
+https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open
+
+Oct 25th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/creating-an-empty-array
+
+Oct 26th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/length
+
+Oct 27th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/string-args
+
+/// from: https://teachyourselfcs.com/#why
+// suggested videos: https://teachyourselfcs.com/#programming
+Computer Science 61A, 001 - Spring 2011
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
+Computer Science 61A - Lecture 1: functional programming 1
+https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8
+up to 3:45 mins
+
+Oct 28th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/exercises/review
+
+Oct 29th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/introduction
+
+Oct 30th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/creating-arraylists
+
+Oct 31st
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists
+
+Nov 1st
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/arraylist-size
+
+Nov 2nd
+// study Java
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/accessing-an-index
+
+// and
+// try to get back into this Java gamification course
+https://codegym.cc/
+// redo lectures
+Ellie, variables, and data types
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture04
+Amigo is very smart
+https://codegym.cc/tasks/com.codegym.task.task01.task0142
+What are compilers?
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture05
+Introducing Kim
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture06
+// ok caught up, I think is all new stuff
+What they don't teach you in school
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture07
+"Code Stars" - Short Film
+https://youtu.be/dU1xS07N-FA
+Summary of Level 0
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture08
+Teacher zapp
+You've leveled up!
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture00
+Introducing the program
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture01
+An Offer
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture02
+// this is where the subscription part starts
+
+Nov 3rd
+// back to basics
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/changing-a-value
+
+// js course from Khan academy
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+More on Variables
+https://www.khanacademy.org/computing/computer-programming/programming/variables/pt/more-on-variables
+Challenge: Funky Frog
+https://www.khanacademy.org/computing/computer-programming/programming/variables/pc/challenge-funky-frog
+Review: Variables
+https://www.khanacademy.org/computing/computer-programming/programming/variables/a/review-variables
+
+Nov 4th
+// back to basics
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/removing-an-item
+
+Nov 5th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/getting-an-items-index
+
+Nov 6th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/exercises/review
+
+Nov 7th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/introduction-to-loops
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/while-loops
+
+Nov 8th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/incrementing-while-loops
+
+Nov 9th
+// read some articles
+SSL
+https://www.godaddy.com/garage/whats-an-ssl-port-a-technical-guide-for-https/
+https://www.godaddy.com/garage/a-brief-intro-to-https-seo/
+https://www.howtogeek.com/233383/why-was-80-chosen-as-the-default-http-port-and-443-as-the-default-https-port/
+https://techterms.com/definition/port
+https://en.wikipedia.org/wiki/Port_%28computer_networking%29
+// rabbit holed into Network protocals.. back to SSL
+https://www.godaddy.com/garage/does-your-website-need-an-ssl-certificate/
+What Is an SSL Certificate? Do You Need One?
+https://youtu.be/uNdYea6OCuA
+// testing http vs https
+https://www.httpvshttps.com/
+
+// fCC articles (and related rabbit holes)
+https://www.freecodecamp.org/news/frameworks-vs-libraries/
+https://www.freecodecamp.org/news/do-it-like-an-engineer/
+https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
+https://en.wikipedia.org/wiki/Service-oriented_architecture
+//RESTful
+https://en.wikipedia.org/wiki/Representational_state_transfer
+// back to the rabbit holes from fCC articles
+https://tomdale.net/2017/09/compilers-are-the-new-frameworks/
+https://webassembly.org/docs/use-cases/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics
+
+// back to basics
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/for-loops
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/using-for-loops
+
+Nov 10th
+// back to basics
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/iterating-over-arrays-and-arraylists
+
+Nov 11th
+// back to basics
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/for-each-loops
+
+Nov 12th
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/loops-review
+
+// fCC for backend challenges
+Timestamp Microservice Part 1: Free Code Camp API and Microservice Backend Development Certification
+// first 5 minutes of vid
+https://youtu.be/MXcwB0yM0Bk?t=292
+
+// more on the go-daddy SSL type investigation - webpages etc
+https://www.godaddy.com/garage/youve-registered-domain-name-now/
+
+Nov 13th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/introduction-to-strings
+
+Nov 14th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/length
+
+Nov 15th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/string-concatenation
+
+Nov 16th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/equals
+
+Nov 17th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/indexof
+
+// fCC for backend challenges
+Timestamp Microservice Part 1: Free Code Camp API and Microservice Backend Development Certification
+// watched the rest of the vid
+https://youtu.be/MXcwB0yM0Bk
+
+Nov 18th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/charat
+
+Nov 19th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/substring
+
+Nov 20th
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/touppercase-tolowercase
+
+Nov 21st
+https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/exercises/review
+
+Nov 22nd
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/introducing-inheritance
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/inheritance-in-practice
+
+// back to the secondary java course
+https://codegym.cc/
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture03
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture04
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture05
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture06
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture07
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture08
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture09
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture10
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture11
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture12
+
+Nov 23rd
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/inheriting-the-constructor
+
+Nov 24th
+// try out a new course
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/introduction
+// redo Codecademy on classes
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/introduction-to-classes
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-syntax
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-constructors
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-instance-fields
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-constructor-parameters
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-assigning-values-to-instance-fields
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/objects-multiple-fields
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/classes-review
+
+Nov 25th
+// try out a new course
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-budget
+
+// back to the secondary java course
+https://codegym.cc/
+// from the vid
+Steve Jobs' 2005 Stanford Commencement Address
+https://youtu.be/UF8uR6Z6KLc
+(first few minutes)
+
+MVC articles
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
+Nov 26th
+// try out a new course
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/what-is-credit-score
+// redo Codecademy on classes
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/introduction
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/defining-methods
+
+Nov 27th
+// codecademy
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/interest-loans
+// redo Codecademy on classes
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/calling-methods
+
+// rest of vid
+Steve Jobs' 2005 Stanford Commencement Address
+https://youtu.be/UF8uR6Z6KLc
+// the vid is on this page:
+https://codegym.cc/quests/lectures/questsyntax.level01.lecture12
+// levelled up!
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture00
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture01
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture02
+// various exercises within it
+
+Steve Wozniak Debunks One of Apple's Biggest Myths
+https://youtu.be/pJif4i9NRdI
+
+Nov 28th
+// more coding exercises in lecture
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture02
+
+// lynda about security
+Learn More
+https://www.lynda.com/IT-tutorials/Learn-more-about-security-LinkedIn-Learning/756318/2922500-4.html2
+Intro to security
+https://www.lynda.com/IT-tutorials/Security-Tips-Weekly/756318/796659-4.html
+
+Nov 28th
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-save-for-retirement
+// re-view
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/scope
+
+Nov 29th
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/pick-insurance-plan
+// re-view
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/adding-parameters
+
+Nov 30th
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-file-your-taxes
+// re-view
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/reassigning-instance-fields
+
+// back to the secondary java course
+https://codegym.cc/
+// con't exercises on this one
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture03
+https://codegym.cc/groups/posts/16-more-about-the-garbage-collector-
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture04
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture05
+// and 3 exercises for lecture 5
+
+Dec 1st
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-remove-stains
+
+// lynda get abstract shorts..
+Humble Inquiry
+https://www.lynda.com/Business-tutorials/art-asking-instead-telling/2242036/2257600-4.html
+https://www.lynda.com/Business-tutorials/three-forms-humility/2242036/2257601-4.html
+https://www.lynda.com/Business-tutorials/Humility-America-western-cultures/2242036/2258395-4.html
+https://www.lynda.com/Business-tutorials/Polish-your-humble-inquiry-skills/2242036/2258396-4.html
+
+// and re-view some of the Java
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/returns
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/the-tostring-method
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/exercises/review
+
+// fCC exercise
+Timestamp Microservice Part 2: Free Code Camp API and Microservice Backend Development Certification
+https://youtu.be/Iw1ZR92czdw
+// watched 8 minutes of it
+
+Dec 2nd
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-use-linkedin
+// re-view
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/introducing-inheritance
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/inheritance-in-practice
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/inheriting-the-constructor
+
+// https://www.lynda.com - help yourself tech tips
+dealing with a bad sign-in
+https://www.lynda.com/IT-Infrastructure-tutorials/Dealing-bad-sign/743167/785434-4.html
+Windows check-up
+https://www.lynda.com/IT-Infrastructure-tutorials/Doing-Windows-checkup/743167/785435-4.html
+
+// smartsheets
+Introduction to Smartsheets
+https://youtu.be/N-5ZTcKgo5c
+
+// back to the secondary java course
+https://codegym.cc/
+// con't exercises on this one
+https://codegym.cc/quests/lectures/questsyntax.level02.lecture06
+
+Dec 3rd
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/parent-class-aspect-modifiers
+
+// https://www.lynda.com - help yourself tech tips
+recovering deleted file
+https://www.lynda.com/IT-Infrastructure-tutorials/Recovering-deleted-file/743167/785436-4.html
+
+Dec 4th
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/introducing-polymorphism
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/method-overriding
+
+// https://www.lynda.com - help yourself tech tips
+locating a lost file
+https://www.lynda.com/IT-Infrastructure-tutorials/Locating-lost-file/743167/785437-4.html
+
+Dec 5th
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/using-child-class-as-parent-class
+
+// https://www.lynda.com - help yourself tech tips
+Rolling back and update
+https://www.lynda.com/IT-Infrastructure-tutorials/Rolling-back-update/743167/796645-4.html
+
+// lynda security
+welcome
+https://www.lynda.com/IT-Infrastructure-tutorials/OWASP-Top-10-1-Injection-2-Broken-Authentication/704143-2.html
+general concepts
+https://www.lynda.com/IT-Infrastructure-tutorials/General-concept/704143/752542-4.html
+Scenario one
+https://www.lynda.com/IT-Infrastructure-tutorials/Example-scenario-one/704143/752544-4.html
+Scenario two
+https://www.lynda.com/IT-Infrastructure-tutorials/Example-scenario-two/704143/752545-4.html
+
+Dec 6th
+https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/exercises/child-classes-in-arrays-and-arraylists
+
+// learn to earn
+https://go.learntocodewith.me/courses/enrolled/479952
+welcome!
+https://go.learntocodewith.me/courses/479952/lectures/9219664
+Student Questionaire
+https://go.learntocodewith.me/courses/479952/lectures/9657131
+What is a technical Side gig?
+https://go.learntocodewith.me/courses/479952/lectures/9099816
+
+Dec 7th
+//easy one
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-healthy-relationships
+
+Dec 8th
+// another easy one: javascript
+// learn Phaser
+https://www.codecademy.com/learn/learn-phaser
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/hello-world
+
+Dec 9th
+// phaser
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/draw-a-circle
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/draw-a-sprite
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/draw-a-background-image
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/create-a-config
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/start-making-a-scene
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/move-your-bodies
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/storing-state
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/input
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/keyboard-events
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/sounds
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics/exercises/review
+
+// lynda security
+input validation
+https://www.lynda.com/IT-Infrastructure-tutorials/Input-validation/704143/752547-4.html
+Prepared Statements and Stored Procedures
+https://www.lynda.com/IT-Infrastructure-tutorials/Prepared-statements-stored-procedures/704143/752548-4.html
+least priviledge
+https://www.lynda.com/IT-Infrastructure-tutorials/Least-privilege/704143/752549-4.html
+
+// https://www.lynda.com - help yourself tech tips
+fixing a full hardrive
+https://www.lynda.com/IT-Infrastructure-tutorials/Fixing-full-hard-drive/743167/796646-4.html
+
+// google course on - build your web presence (trying out some free google courses)
+Choosing your online presence
+https://learndigital.withgoogle.com/digitalgarage/course/business-online/lesson/30#/
+https://youtu.be/y_W4tFVQRkM
+https://learndigital.withgoogle.com/digitalgarage/course/business-online/lesson/30#/practice
+
+// Send Professional Emails
+// https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/send-professional-emails/overview.html
+https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/send-professional-emails/send-professional-emails/introduction-to-send-professional-emails.html
+SEND PROFESSIONAL EMAILS navigate_next LESSON 1: SEND PROFESSIONAL EMAILS 2. Review the Parts of an Email
+https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/send-professional-emails/send-professional-emails/review-the-parts-of-an-email.html
+3. Choose an Email Scenario to Write About 
+https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/send-professional-emails/send-professional-emails/choose-an-email-scenario-to-write-about.html
+request time off:
+https://storage.googleapis.com/files.cs-first.com/apski/videos/professionalemails/3B.mp4
+
+Dec 10th
+// phaser
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics-color-a-pegasus/exercises/introduction
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics-color-a-pegasus/exercises/coloring
+
+// security vids
+Broken Authentication - General Concept
+https://www.lynda.com/IT-Infrastructure-tutorials/General-concept/704143/752551-4.html
+variations
+https://www.lynda.com/IT-Infrastructure-tutorials/Variations-general-concept/704143/752552-4.html
+Impacts of Broken Authentication
+https://www.lynda.com/IT-Infrastructure-tutorials/Example-scenario-one/704143/752554-4.html
+example 2
+https://www.lynda.com/IT-Infrastructure-tutorials/Example-scenario-two/704143/752555-4.html
+prevent attacks
+https://www.lynda.com/IT-Infrastructure-tutorials/Use-complex-passwords/704143/752557-4.html
+encrypt storage
+https://www.lynda.com/IT-Infrastructure-tutorials/Store-passwords-proper-encryption/704143/752558-4.html
+multi-factor authentication
+https://www.lynda.com/IT-Infrastructure-tutorials/Use-multi-factor-authentication/704143/752559-4.html
+next steps
+https://www.lynda.com/IT-Infrastructure-tutorials/Next-steps/704143/752562-4.html
+
+// business stuff related to coding/start-ups
+https://medium.com/swlh/why-open-office-design-makes-you-less-productive-95d45ffba9eb
+
+Dec 11th
+// back to php
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/parameters
+
+// https://www.lynda.com - help yourself tech tips
+Controlling taskbar
+https://www.lynda.com/IT-Infrastructure-tutorials/Controlling-taskbar/743167/796647-4.html
+
+// learn to earn
+4 Proven Ways to Make Money With a Side Gig (AKA Side-Income Drivers)
+https://go.learntocodewith.me/courses/479952/lectures/9099884
+How These Types of Side Gigs Can Improve Your Technical Skills
+https://go.learntocodewith.me/courses/479952/lectures/9099893
+Pros and Cons to the 4 Types of Income Drivers
+https://go.learntocodewith.me/courses/479952/lectures/9099899
+Contract Work: Your First Step into Side Gig World
+https://go.learntocodewith.me/courses/479952/lectures/9099902
+What My Own Side Gig Journey Looked Like
+https://go.learntocodewith.me/courses/479952/lectures/9099907
+Mindset Message: Why You Are Ready to Get a Technical Side Gig
+https://go.learntocodewith.me/courses/479952/lectures/9099885
+
+Dec 12th
+// codecademy - do php
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/multiple-parameters
+
+// IT Helpdesk tips - help Yourself
+Speed up the computer
+https://www.lynda.com/IT-Infrastructure-tutorials/Speeding-up-slow-computer/743167/796648-4.html
+Uninstall software
+https://www.lynda.com/IT-Infrastructure-tutorials/Uninstalling-software/743167/796649-4.html
+
+// OWASP top 10 - #3 Sensitive Data Exposuer, && #4 External Entities (XXE)
+Prevent Common vulnerabilities
+https://www.lynda.com/IT-tutorials/Prevent-common-software-vulnerabilities/806158/2811755-4.html
+Sensitive Data - How does it work?
+https://www.lynda.com/IT-tutorials/General-concept/806158/2811756-4.html
+example 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/806158/2810637-4.html
+
+JSON Web Token
+How to send JSON Web Token (JWT Token) as header with Postman
+https://youtu.be/SKswJH7_plQ
+
+// learn to side gig
+Module #1 Introduction
+https://go.learntocodewith.me/courses/479952/lectures/9317445
+// read the handouts on 13 tech tasks cheat sheet, and 35 places to apply for work
+Story: Your Ultimate Career Vision
+https://go.learntocodewith.me/courses/479952/lectures/9317449
+
+Dec 13th
+// codecademy - do php
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/default-parameters
+
+Dec 14th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/pass-by-reference
+
+Dec 15th
+https://www.codecademy.com/courses/learn-php/lessons/introduction-to-php-functions/exercises/review
+
+Dec 16th
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/introduction
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/working-with-variables
+
+// OWASP vids lynda
+Sensitive Data Exposure - scenario 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/806158/2810638-4.html
+laws and regulation
+https://www.lynda.com/IT-tutorials/Laws-regulations/806158/2810639-4.html
+reducing scope
+https://www.lynda.com/IT-tutorials/Reducing-scope/806158/2809603-4.html
+
+Dec 17th
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/string-functions
+
+// more on smartsheets
+How to Set Up a Sheet
+https://youtu.be/cJUlyPt3zq4
+
+Dec 18th
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/working-with-substrings
+
+// OWASP vids
+encryption
+https://www.lynda.com/IT-tutorials/Encryption-TLS-HSTS/806158/2809604-4.html
+quiz
+https://www.lynda.com/IT-tutorials/Encryption-TLS-HSTS/806158/2809604-4.html
+4th item in OWASP top 10 XXE
+https://www.lynda.com/IT-tutorials/General-concept/806158/2809605-4.html
+quiz
+https://www.lynda.com/IT-tutorials/General-concept/806158/2809605-4.html
+impact of XXE example 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/806158/2809606-4.html
+example 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/806158/2810640-4.html
+
+// vids on AI from coursera course on AI
+AI for Everyone - https://www.coursera.org/learn/ai-for-everyone/home/welcome
+what is AI - introduction
+https://www.coursera.org/learn/ai-for-everyone/lecture/SRwLN
+machine learning
+https://www.coursera.org/learn/ai-for-everyone/lecture/5TPFo/machine-learning
+What is Data
+https://www.coursera.org/learn/ai-for-everyone/lecture/dLSWR/what-is-data
+
+Dec 19th
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/number-functions
+
+// vids on AI from coursera course on AI
+AI for Everyone - https://www.coursera.org/learn/ai-for-everyone/home/welcome
+terminology of AI
+https://www.coursera.org/learn/ai-for-everyone/lecture/Q1EJD/the-terminology-of-ai
+What makes an AI company
+https://www.coursera.org/learn/ai-for-everyone/lecture/KpuJd/what-makes-an-ai-company
+What ML can and can't do
+https://www.coursera.org/learn/ai-for-everyone/lecture/rv1fW/what-machine-learning-can-and-cannot-do
+
+Dec 20th
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/generating-random-numbers
+
+// OWASP vids
+XXE Processing
+https://www.lynda.com/IT-tutorials/Disable-XML-XXE-processing/806158/2811757-4.html
+Whitelisting and validation
+https://www.lynda.com/IT-tutorials/Whitelisting-validating-input/806158/2809607-4.html
+patching and upgrading libraries
+https://www.lynda.com/IT-tutorials/Whitelisting-validating-input/806158/2809607-4.html
+Upgrading XML processors
+https://www.lynda.com/IT-tutorials/Upgrade-all-XML-processors-libraries/806158/2809608-4.html
+quiz
+https://www.lynda.com/IT-tutorials/Upgrade-all-XML-processors-libraries/806158/2809608-4.html
+next steps
+https://www.lynda.com/IT-tutorials/Next-steps/806158/2810641-4.html
+
+Dec 21st
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/documentation
+
+// Coursera AI course
+what AI can and cannot do
+https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do
+Non-technical explanation of deep learning (Part 1, optional)
+https://www.coursera.org/learn/ai-for-everyone/lecture/p457x/non-technical-explanation-of-deep-learning-part-1-optional
+Non-technical explanation of deep learning (Part 2, optional)
+https://www.coursera.org/learn/ai-for-everyone/lecture/QGsla/non-technical-explanation-of-deep-learning-part-2-optional
+quiz
+https://www.coursera.org/learn/ai-for-everyone/exam/xMfOj/week-1-quiz
+building AI projects
+https://www.coursera.org/learn/ai-for-everyone/lecture/fsbCO/week-2-introduction
+Workflow of a machine learning project
+https://www.coursera.org/learn/ai-for-everyone/lecture/z6hU1/workflow-of-a-machine-learning-project
+
+// lynda on MS Team bots dev
+https://www.lynda.com/Office-365-tutorials/Welcome/659282/711733-4.html
+what you should know
+https://www.lynda.com/Office-365-tutorials/What-you-should-know/659282/711734-4.html
+exercise files
+https://www.lynda.com/Office-365-tutorials/Using-exercise-files/659282/711735-4.html
+
+Dec 22nd
+// redo C++ hello world
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/introduction
+
+// MS Team bots
+What is MS Teams?
+https://www.lynda.com/Office-365-tutorials/What-Microsoft-Teams/659282/711737-4.html
+Team Demo
+https://www.lynda.com/Office-365-tutorials/Teams-demo/659282/711738-4.html
+Dev story for teams
+https://www.lynda.com/Office-365-tutorials/Dev-story-Teams/659282/711739-4.html
+What are bots?
+https://www.lynda.com/Office-365-tutorials/What-bots/659282/711740-4.html
+Bot Builder SDK
+https://www.lynda.com/Office-365-tutorials/Bot-Builder-SDK/659282/711741-4.html
+
+Dec 23rd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/hello-world
+
+// OWASP vids
+// #5 Broken Access Control && #6 Security Misconfiguration
+Prevent common vulnerabilities
+https://www.lynda.com/IT-tutorials/Prevent-common-security-vulnerabilities/806159/2810599-4.html
+Broken Access Control
+https://www.lynda.com/IT-tutorials/General-concept/806159/2809555-4.html
+quiz
+https://www.lynda.com/IT-tutorials/General-concept/806159/2809555-4.html
+Example Scenario 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/806159/2811654-4.html
+example 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/806159/2810600-4.html
+quiz
+https://www.lynda.com/IT-tutorials/Example-scenario-2/806159/2810600-4.html
+
+Dec 24th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/console-output
+
+// hyperskill for Java
+https://hi.hyperskill.org/
+projects Simple Chat Bot
+https://hyperskill.org/projects?goal=7
+https://hyperskill.org/curriculum
+Theory: Introduction to Java
+https://hyperskill.org/learn/step/3500
+Introduction to Java --> Memory cleaning
+https://hyperskill.org/learn/step/3745
+Introduction to Java --> Running a program on different platforms
+https://hyperskill.org/learn/step/3741
+
+Dec 25th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/pattern
+
+Dec 26th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/review
+
+//jetbrains on java
+introduction
+https://hyperskill.org/learn/step/4709
+Theory: Basic literals
+https://hyperskill.org/learn/step/3522
+Basic literals --> A literal for an address
+https://hyperskill.org/learn/step/3229
+Basic literals --> Groups of literals
+https://hyperskill.org/learn/step/3224
+Basic literals --> Latin capital letters
+https://hyperskill.org/learn/step/5644
+Basic literals --> Number literals
+https://hyperskill.org/learn/step/3221
+Basic literals --> Character literals
+https://hyperskill.org/learn/step/3222
+
+Dec 27th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/introduction
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/compile-execute
+
+ // bots for MS Teams
+Key concepts
+https://www.lynda.com/Office-365-tutorials/Key-concepts-bots/659282/711742-4.html
+basics of a bot
+https://www.lynda.com/Office-365-tutorials/Introduction/659282/711744-4.html
+setting up your project
+https://www.lynda.com/Office-365-tutorials/Setting-up-your-project/659282/711745-4.html
+
+Dec 28th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/compile-execute2
+
+// overview of simple coding of my bot - will code it later
+
+Dec 29th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/comments
+
+// jetbrain academy java course
+Basic literals --> Find an invalid literal
+https://hyperskill.org/learn/step/3227
+Basic literals --> Invalid string literals
+https://hyperskill.org/learn/step/3228
+Basic literals --> Find the correct ones
+https://hyperskill.org/learn/step/3230
+Basic literals --> Incorrect statements
+https://hyperskill.org/learn/step/3232
+Basic literals --> A valid string
+https://hyperskill.org/learn/step/3480
+Basic literals --> String literals
+https://hyperskill.org/learn/step/3223
+Basic literals --> Check for mistakes
+https://hyperskill.org/learn/step/3231
+Theory: Overview of the basic program
+https://hyperskill.org/learn/step/3521
+Overview of the basic program --> Match terms and their definitions
+https://hyperskill.org/learn/step/3756
+Overview of the basic program --> Elements of a program
+https://hyperskill.org/learn/step/3757
+Overview of the basic program --> Hello, Java
+https://hyperskill.org/learn/step/2303
+Overview of the basic program --> Cats are robots
+https://hyperskill.org/learn/step/2506
+Overview of the basic program --> The Hello World program
+https://hyperskill.org/learn/step/3233
+Overview of the basic program --> Statements
+https://hyperskill.org/learn/step/3240
+Overview of the basic program --> Construct a program
+https://hyperskill.org/learn/step/3737
+Overview of the basic program --> Keywords
+https://hyperskill.org/learn/step/3758
+Overview of the basic program --> Find a keyword
+https://hyperskill.org/learn/step/3772
+Overview of the basic program --> Find a word that is not a keyword
+https://hyperskill.org/learn/step/3773
+
+// Lynda.com brainstorming videos
+
+// fCC youtubes on microservices.. the UNIX timecode
+Timestamp Microservice Part 2: Free Code Camp API and Microservice Backend Development Certification
+https://youtu.be/Iw1ZR92czdw
+
+Dec 30th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-compile-execute/exercises/review
+
+// deep dive on programming
+/// from: https://teachyourselfcs.com/#why
+// suggested videos: https://teachyourselfcs.com/#programming
+Computer Science 61A, 001 - Spring 2011
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+Computer Science 61A - Lecture 1: functional programming 1
+https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8
+up to 29:29 mins
+
+Dec 31st
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/introduction
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/declare
+
+// becoming an effective team member - lynda.com course
+
+Computer Science 61A - Lecture 1: functional programming 1
+https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8
+from 29:29 mins to end
+
+Jan 1st
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/assign
+
+// lynda.com 'effective teams' stuff for my new role
+
+Jan 2nd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/initialize
+
+// OWASP lynda.com vids
+//Top 10 - #5 Broken Access Control and #6 Security Misconfiguration
+Properly Impliment controls
+https://www.lynda.com/IT-tutorials/Properly-implement-access-controls/806159/2809556-4.html
+Loggin/Alerting
+https://www.lynda.com/IT-tutorials/Logging-alerting/806159/2811655-4.html
+Manual testing of controls
+https://www.lynda.com/IT-tutorials/Manual-testing/806159/2809557-4.html
+quiz
+https://www.lynda.com/IT-tutorials/Manual-testing/806159/2809557-4.html
+
+Jan 3rd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/arithmetic
+
+// OWASP vids
+Security Misconfiguration: general concepts
+https://www.lynda.com/IT-tutorials/General-concept/806159/2809558-4.html
+quiz
+https://www.lynda.com/IT-tutorials/General-concept/806159/2809558-4.html
+example of breaches
+https://www.lynda.com/IT-tutorials/Example-scenario-1/806159/2809559-4.html
+example 2 and quiz
+https://www.lynda.com/IT-tutorials/Example-scenario-2/806159/2809560-4.html
+hardening all systems
+https://www.lynda.com/IT-tutorials/Harden-all-systems/806159/2809561-4.html
+patch and upgrade software
+https://www.lynda.com/IT-tutorials/Patch-update-software/806159/2811656-4.html
+test configurations and quiz
+https://www.lynda.com/IT-tutorials/Test-configurations/806159/2811657-4.html
+next steps
+https://www.lynda.com/IT-tutorials/Next-steps/806159/2811658-4.html
+
+// next vids
+https://www.lynda.com/IT-tutorials/OWASP-Top-10-7-XSS-8-Insecure-Deserialization/2807862-2.html
+
+Jan 4th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/chaining
+
+Jan 5th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/cin
+
+Jan 6th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/temperature
+
+// OWASP vids lynda.com
+// https://www.lynda.com/IT-tutorials/OWASP-Top-10-7-XSS-8-Insecure-Deserialization/2807862-2.html
+Common Software Vulnerabilities
+https://www.lynda.com/IT-tutorials/Common-software-vulnerabilities/2807862/2245653-4.html
+Cross Site Scrpting - how does it work- general concepts
+https://www.lynda.com/IT-tutorials/General-concept/2807862/2245654-4.html
+example 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/2807862/2247544-4.html
+example 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/2807862/2247545-4.html
+enable a content security policy
+https://www.lynda.com/IT-tutorials/Enable-content-security-policy/2807862/2245655-4.html
+apply context sensitive encoding
+https://www.lynda.com/IT-tutorials/Apply-context-sensitive-encoding/2807862/2247546-4.html
+escape untrusted HTTP data
+https://www.lynda.com/IT-tutorials/Escape-untrusted-HTTP-data/2807862/2245656-4.html
+
+Jan 7th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/temperature2
+
+Jan 8th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/review
+
+Jan 9th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/introduction
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/coinflip
+
+OWASP vids con't
+Insecure Deserialization - How it works
+General Concepts
+https://www.lynda.com/IT-tutorials/General-concept/2807862/2247547-4.html
+Impact - Example Scenario 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/2807862/2247548-4.html
+example 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/2807862/2246601-4.html
+Preventing Inzsecure Deserialization
+Integrity Checks & encryption
+https://www.lynda.com/IT-tutorials/Use-integrity-checks-encrypt/2807862/2247549-4.html
+Logs
+https://www.lynda.com/IT-tutorials/Log-detect-insecure-deserialization/2807862/2247550-4.html
+Isolate code that deserializes
+https://www.lynda.com/IT-tutorials/Isolate-code-deserializes/2807862/2247551-4.html
+Next Steps
+https://www.lynda.com/IT-tutorials/Next-steps/2807862/2245657-4.html
+
+// next course is 9 and #10
+https://www.lynda.com/IT-tutorials/OWASP-Top-10-9-Components-Known-Vulnerabilities-10-Insufficient-Logging-Monitoring/2808546-2.html
+
+Jan 10th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/if-statement
+
+Jan 11th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/relational-operators
+
+Jan 12th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/else
+
+Jan 13th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/else-if
+
+// OWASP vids
+https://www.lynda.com/IT-tutorials/OWASP-Top-10-9-Components-Known-Vulnerabilities-10-Insufficient-Logging-Monitoring/2808546-2.html
+prevent software vulnerablilities
+https://www.lynda.com/IT-tutorials/Prevent-common-software-vulnerabilities/2808546/2250182-4.html
+known vulnerabilities - general concepts
+https://www.lynda.com/IT-tutorials/General-concept/2808546/2249203-4.html
+impact - example scenario 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/2808546/2250183-4.html
+example 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/2808546/2250184-4.html
+prevention - monitoring
+https://www.lynda.com/IT-tutorials/Continuously-inventory-monitor/2808546/2250185-4.html
+Apply virtual patches
+https://www.lynda.com/IT-tutorials/Apply-virtual-patches/2808546/2251058-4.html
+
+Jan 14th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/switch
+
+// OWASP vids
+insufficient logging and Monitoring - General Concept
+https://www.lynda.com/IT-tutorials/General-concept/2808546/2251059-4.html
+example scenario 1
+https://www.lynda.com/IT-tutorials/Example-scenario-1/2808546/2249204-4.html
+scenario 2
+https://www.lynda.com/IT-tutorials/Example-scenario-2/2808546/2250186-4.html
+logs - user context
+https://www.lynda.com/IT-tutorials/Ensure-logs-have-sufficient-user-context/2808546/2252251-4.html
+timely detection and response
+https://www.lynda.com/IT-tutorials/Ensure-timely-detection-response/2808546/2249206-4.html
+incidence response plan
+https://www.lynda.com/IT-tutorials/Establish-incident-response-plan/2808546/2249207-4.html
+Next Steps
+https://www.lynda.com/IT-tutorials/Next-steps/2808546/2250187-4.html
+
+Jan 15th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/review
+
+// lynda on cybersecurity
+https://www.lynda.com/Security-tutorials/Reasonable-Cybersecurity-Business-Leaders/782140-2.html
+Practicing it
+https://www.lynda.com/IT-Infrastructure-tutorials/Practice-reasonable-cybersecurity/782140/5000193-4.html
+CyberSecurity Framework
+https://www.lynda.com/IT-Infrastructure-tutorials/Cybersecurity-framework/782140/5002842-4.html
+What is Reasonable CyberSecurity
+https://www.lynda.com/IT-Infrastructure-tutorials/What-reasonable-cybersecurity/782140/5000195-4.html
+Equifax and reasonableness
+https://www.lynda.com/IT-Infrastructure-tutorials/Equifax-reasonableness/782140/5000196-4.html
+What Happened?
+https://www.lynda.com/IT-Infrastructure-tutorials/What-happened/782140/5000197-4.html
+Equifax Practice
+https://www.lynda.com/IT-Infrastructure-tutorials/Equifax-practice/782140/5000198-4.html
+Identify
+https://www.lynda.com/IT-Infrastructure-tutorials/Identify/782140/5000200-4.html
+Protect
+https://www.lynda.com/IT-Infrastructure-tutorials/Protect/782140/5000201-4.html
+Detect
+https://www.lynda.com/IT-Infrastructure-tutorials/Detect/782140/5000202-4.html
+
+Jan 16th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-logical-operators/exercises/introduction
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-logical-operators/exercises/and
+
+// lynda security vids
+respond
+https://www.lynda.com/IT-Infrastructure-tutorials/Respond/782140/5000203-4.html
+recover
+https://www.lynda.com/IT-Infrastructure-tutorials/Recover/782140/5000204-4.html
+How to Practice Reasonable CyberSecurity
+https://www.lynda.com/IT-Infrastructure-tutorials/How-practice-reasonable-cybersecurity/782140/5000205-4.html
+next steps
+https://www.lynda.com/IT-Infrastructure-tutorials/Next-steps/782140/5000207-4.html
+// new vids - Leading and Working wiht Teams
+https://www.lynda.com/Business-Skills-tutorials/Leading-Working-Teams/175129-2.html
+effective teams introduction
+https://www.lynda.com/Business-tutorials/Effective-work-requires-teaming/175129/2232358-4.html
+
+Jan 17th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-logical-operators/exercises/or
+
+// website on coding challenges - review it
+https://dev.to/camfilho/get-better-at-html-and-css-by-cloning-these-10-minimalist-ish-websites-4pij
+
+// Cybersecurity vids
+Cybersecurity awareness - Security Overview
+https://www.lynda.com/IT-Infrastructure-tutorials/Cybersecurity-Awareness-Security-Overview/606078-2.html
+Welcome
+https://www.lynda.com/IT-Infrastructure-tutorials/Welcome/606078/617471-4.html
+What the C Suite wants to know
+CIO Top Priorities
+https://www.lynda.com/IT-Infrastructure-tutorials/CIO-top-priorities/606078/617473-4.html
+Board Priorities Survey
+https://www.lynda.com/IT-Infrastructure-tutorials/Board-priorities-survey/606078/617474-4.html
+executive driven issue
+https://www.lynda.com/IT-Infrastructure-tutorials/executive-driven-issue/606078/617475-4.html
+quiz
+https://www.lynda.com/IT-Infrastructure-tutorials/executive-driven-issue/606078/617475-4.html
+What are the threats
+changing landscape
+https://www.lynda.com/IT-Infrastructure-tutorials/Changing-landscape/606078/617477-4.html
+Technology advance
+https://www.lynda.com/IT-Infrastructure-tutorials/Technology-advance/606078/617478-4.html
+Advanced Malware
+https://www.lynda.com/IT-Infrastructure-tutorials/Advanced-malware/606078/617479-4.html
+quiz
+https://www.lynda.com/IT-Infrastructure-tutorials/Advanced-malware/606078/617479-4.html
+Where are the Threats coming from?
+Nation-State hacking!
+https://www.lynda.com/IT-Infrastructure-tutorials/Nation-state-hacking/606078/617481-4.html
+Russia
+https://www.lynda.com/IT-Infrastructure-tutorials/Russia/606078/617482-4.html
+for profit groups
+https://www.lynda.com/IT-Infrastructure-tutorials/profit-groups/606078/617483-4.html
+quiz
+https://www.lynda.com/IT-Infrastructure-tutorials/profit-groups/606078/617483-4.html
+Cyber attacks are here to stay
+Today's reality
+https://www.lynda.com/IT-Infrastructure-tutorials/Todays-reality/606078/617485-4.html
+attack timeline
+https://www.lynda.com/IT-Infrastructure-tutorials/Attack-timeline/606078/617486-4.html
+quiz
+https://www.lynda.com/IT-Infrastructure-tutorials/Attack-timeline/606078/617486-4.html
+Conclusion
+Summary
+https://www.lynda.com/IT-Infrastructure-tutorials/Summary/606078/617488-4.html
+
+Jan 18th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-logical-operators/exercises/logical-operator-not
+
+Jan 19th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-logical-operators/exercises/review
+
+// lynda vids - Cybersecurity - malware
+https://www.lynda.com/IT-Infrastructure-tutorials/Cybersecurity-Awareness-Malware-Explained/648924-2.html
+Welcome
+https://www.lynda.com/IT-Infrastructure-tutorials/Welcome/648924/656247-4.html
+Introduction to Malware
+https://www.lynda.com/IT-Infrastructure-tutorials/Introduction-malware/648924/656248-4.html
+Malware Background
+What is Malware
+https://www.lynda.com/IT-Infrastructure-tutorials/What-malware/648924/656250-4.html
+Is this a virus
+https://www.lynda.com/IT-Infrastructure-tutorials/virus/648924/656251-4.html
+How does Malware work?
+https://www.lynda.com/IT-Infrastructure-tutorials/How-does-malware-work/648924/656252-4.html
+How do infections occur?
+https://www.lynda.com/IT-Infrastructure-tutorials/How-do-infections-occur/648924/656253-4.html
+
+Jan 20th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/introduction
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/while
+
+Jan 21st
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/guess-number
+
+// lynda.com vids
+CyberSecurity Awareness: Malware Explained
+malware and smartphones
+https://www.lynda.com/IT-Infrastructure-tutorials/Malware-smartphones/648924/656254-4.html
+Malware Risks and Implications
+Risks of Malware
+https://www.lynda.com/IT-Infrastructure-tutorials/Risks-malware/648924/656256-4.html
+Case Studies
+https://www.lynda.com/IT-Infrastructure-tutorials/Case-studies/648924/656257-4.html
+Real World Implications
+https://www.lynda.com/IT-Infrastructure-tutorials/Real-world-implications/648924/656258-4.html
+Protection from Malware
+What are we up against?
+https://www.lynda.com/IT-Infrastructure-tutorials/What-we-really-up-against/648924/656260-4.html
+How do we stop malware?
+https://www.lynda.com/IT-Infrastructure-tutorials/How-do-we-stop-malware/648924/656261-4.html
+Protecting ourselves and the Company
+https://www.lynda.com/IT-Infrastructure-tutorials/Protecting-ourselves-our-company/648924/656262-4.html
+Conclusion - Educate, separate and mitigate
+https://www.lynda.com/IT-Infrastructure-tutorials/Educate-separate-mitigate/648924/656264-4.html
+
+Jan 22nd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/while-loop
+
+// lynda deep dive on security
+Cybersecurity Awareness: Building Your Cybersecurity Vocabulary
+https://www.lynda.com/IT-Infrastructure-tutorials/Cybersecurity-Awareness-Building-Your-Cybersecurity-Vocabulary/651212-2.html
+Welcome
+https://www.lynda.com/IT-Infrastructure-tutorials/Welcome/651212/664282-4.html
+Overview and Background
+https://www.lynda.com/IT-Infrastructure-tutorials/Cybersecurity-overview-background/651212/664284-4.html
+Importance of CyberSecurity
+https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html
+Course Objectives
+https://www.lynda.com/IT-Infrastructure-tutorials/Course-objectives/651212/664286-4.html
+
+Jan 23rd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/for
+
+// lynda vids on CyberSecurity
+Information Security
+Common terminology
+https://www.lynda.com/IT-Infrastructure-tutorials/Common-cybersecurity-terminology/651212/664288-4.html
+Security Industries
+https://www.lynda.com/IT-Infrastructure-tutorials/Security-industries/651212/664289-4.html
+the Human Element
+https://www.lynda.com/IT-Infrastructure-tutorials/human-element/651212/664290-4.html
+Building you Vocabulary
+Threats, risks, vulnerabilities, and exploits
+https://www.lynda.com/IT-Infrastructure-tutorials/Threats-risks-vulnerabilities-exploits/651212/664292-4.html
+Common acronyms
+https://www.lynda.com/IT-Infrastructure-tutorials/Common-acronyms/651212/664293-4.html
+Less common acronyms
+https://www.lynda.com/IT-Infrastructure-tutorials/Less-common-acronyms/651212/664294-4.html
+
+Jan 24th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/99-bottles
+
+// lynda.com
+Utilizing your new vocabulary
+https://www.lynda.com/IT-Infrastructure-tutorials/Utilizing-your-new-vocabulary/651212/664296-4.html
+Common pitfalls
+https://www.lynda.com/IT-Infrastructure-tutorials/Common-pitfalls/651212/664297-4.html
+Cybersecurity landscape
+https://www.lynda.com/IT-Infrastructure-tutorials/cybersecurity-landscape/651212/664298-4.html
+
+Jan 25th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-loops/exercises/review
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/intro
+
+// lynda
+Demo
+https://www.lynda.com/IT-Infrastructure-tutorials/Demo/651212/664299-4.html
+Summary
+https://www.lynda.com/IT-Infrastructure-tutorials/Summary/651212/664301-4.html
+
+Jan 26th
+took a day off
+
+Jan 27th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/intro
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/compile-time
+
+// lynda vids
+Ethical Hacking - Introduction
+https://www.lynda.com/IT-tutorials/Ethical-Hacking-Introduction-Ethical-Hacking-2019-Revision/5010653-2.html
+Lock down the org
+https://www.lynda.com/IT-tutorials/Lock-down-organization/5010653/5036818-4.html
+What to know
+https://www.lynda.com/IT-tutorials/What-you-should-know/5010653/5036819-4.html
+Hacking Ethically
+https://www.lynda.com/IT-tutorials/Hacking-ethically/5010653/5036820-4.html
+Ethical Hacking Overview
+Information security overview
+https://www.lynda.com/IT-tutorials/Information-security-overview/5010653/5036822-4.html
+Today's threat landscape
+https://www.lynda.com/IT-tutorials/Todays-threat-landscape/5010653/5036823-4.html
+Threats and attack vectors
+https://www.lynda.com/IT-tutorials/Threats-attack-vectors/5010653/5036824-4.html
+Comparing attack types
+https://www.lynda.com/IT-tutorials/Comparing-attack-types/5010653/5036825-4.html
+
+Jan 28th
+no codecademy today
+
+// ethical hacking
+Information Security Controls
+Defining ethical hacking
+https://www.lynda.com/IT-tutorials/Defining-ethical-hacking/5010653/5036827-4.html
+Defense in depth
+https://www.lynda.com/IT-tutorials/Defense-depth/5010653/5036828-4.html
+
+Jan 29th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/link-time
+
+Jan 30th
+no codecamp today
+
+// ethical hacking
+Managing incidents
+https://www.lynda.com/IT-tutorials/Managing-incidents/5010653/5036829-4.html
+
+Jan 31st
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/run-time
+
+Feb 1st
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/logical
+
+// Project management
+note taking for Business Professionals
+https://www.lynda.com/Business-Skills-tutorials/Note-Taking-Business-Professionals/373782-2.html
+Welcome
+https://www.lynda.com/Business-Skills-tutorials/Note-Taking-Business-Professionals/373782-2.html
+
+Feb 2nd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/review
+
+Feb 3rd
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/introduction-to-vectors?action=resume_content_item
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/creating-a-vector?action=resume_content_item
+
+Feb 4th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/creating-a-vector?action=resume_content_item
+
+Feb 5th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/initializing-a-vector?action=resume_content_item
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/index?action=resume_content_item
+
+// note taking for business professionals
+what you should know
+https://www.lynda.com/Business-Skills-tutorials/What-you-should-know-before-watching-course/373782/459912-4.html
+using the exercise files
+https://www.lynda.com/Business-Skills-tutorials/Using-exercise-files/373782/459913-4.html
+using the challenges
+https://www.lynda.com/Business-Skills-tutorials/Using-challenges/373782/459914-4.html
+becoming and active listener
+https://www.lynda.com/Business-Skills-tutorials/Exploring-keys-active-listening/373782/459916-4.html
+
+// ethical hacking
+Exploring Security Policies
+https://www.lynda.com/IT-tutorials/Exploring-security-policies/5010653/5036830-4.html
+Creating policies
+https://www.lynda.com/IT-tutorials/Creating-security-policies/5010653/5036831-4.html
+
+Feb 6th
+// note taking course
+ideas
+https://www.lynda.com/Business-Skills-tutorials/Focusing-ideas-instead-sentences/373782/459917-4.html
+Action plan
+https://www.lynda.com/Business-Skills-tutorials/Capturing-action-plan-your-meeting-minutes/373782/459918-4.html
+Cornell note taking system
+https://www.lynda.com/Business-Skills-tutorials/Cornell-note-taking-system/373782/459919-4.html
+Brainstorming and collecting ideas
+https://www.lynda.com/Business-Skills-tutorials/Brainstorming-collecting-ideas/373782/459920-4.html
+quiz
+
+// ethical hacking
+security policy
+https://www.lynda.com/IT-tutorials/Components-security-policy/5010653/5036832-4.html
+quiz
+
+Feb 7th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/push-back
+
+// ethical hacking
+Data Protection in a Digital World
+Protecting the Data
+https://www.lynda.com/IT-tutorials/Protecting-data/5010653/5036834-4.html
+Standards and Regulations
+https://www.lynda.com/IT-tutorials/Standards-regulations/5010653/5036835-4.html
+COBIT Framework
+https://www.lynda.com/IT-tutorials/COBIT-framework/5010653/5036836-4.html
+Quiz
+Supporting Ethical Hacking
+Understanding Vulnerabilities
+https://www.lynda.com/IT-tutorials/Understanding-vulnerabilities/5010653/5036838-4.html
+
+// note taking course (Proj Coord)
+Excessive highlighting or too many notes
+https://www.lynda.com/Business-Skills-tutorials/Avoiding-excessive-highlighting-too-many-notes/373782/459922-4.html
+
+Feb 8th
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/push-back
+
+// ethical hacking
+Pen Testing Methodology
+https://www.lynda.com/IT-tutorials/Penetration-testing-methodology/5010653/5036839-4.html
+Hacking Concepts
+https://www.lynda.com/IT-tutorials/Hacking-concepts/5010653/5036840-4.html
+
+// google cloud environment training (Qwiklabs)
+A Tour of Qwiklabs and the Google Cloud Platform
+https://google-run.qwiklabs.com/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4608340
+// read this material
+APIs Explorer: Qwik Start
+https://google.qwiklabs.com/focuses/2457?parent=catalog
+
+Feb 9th
+// Ethical Hacking
+the Human Factor
+https://www.lynda.com/IT-tutorials/human-factor-ethical-hacking/5010653/5036841-4.html
+
+Feb 10th
+// Ethical Hacking
+Hacking Phases
+https://www.lynda.com/IT-tutorials/Hacking-phases/5010653/5036842-4.html
+Next Steps
+https://www.lynda.com/IT-tutorials/Next-steps/5010653/5036844-4.html
+
+Feb 11th
+// google cloud on APIs
+//read the material first
+Introduction to APIs in Google (read half)
+https://google.qwiklabs.com/focuses/3473?parent=catalog
+// read
+Cloud Storage: Qwik Start - Console
+https://google.qwiklabs.com/focuses/1760?parent=catalog
+
+Feb 12th
+// lynda deep dive
+Ethical Hacking: Cryptogrpahy
+https://www.lynda.com/IT-tutorials/Ethical-Hacking-Cryptography/2813285-2.html
+Why become an ethical hacker?
+https://www.lynda.com/IT-tutorials/Why-become-ethical-hacker/2813285/2263306-4.html
+What you should know
+https://www.lynda.com/IT-tutorials/What-you-should-know/2813285/2265188-4.html
+What does it mean?
+https://www.lynda.com/IT-tutorials/What-does-cryptography-mean/2813285/2264237-4.html
+Different Types of cryptography
+https://www.lynda.com/IT-tutorials/Different-types-cryptography/2813285/2265189-4.html
+quiz
+
+Feb 13th
+// google cloud training
+// do this one:
+Cloud Storage: Qwik Start - Console
+https://google.qwiklabs.com/focuses/1760?parent=catalog
+
+Feb 14th
+
+//Bitbucket training
+A brief overview of Bitbucket
+https://bitbucket.org/product/guides/getting-started/overview
+Meet the Bitbucket interface
+https://bitbucket.org/product/guides/basics/bitbucket-interface
+Better code with Bitbucket: 4 starting steps
+https://bitbucket.org/product/guides/basics/four-starting-steps
+
+// ethical hacking
+different types of cyphers
+https://www.lynda.com/IT-tutorials/Different-types-ciphers/2813285/2265190-4.html
+
+Feb 15th
+// ethical hacking
+Symmetrical encryption
+https://www.lynda.com/IT-tutorials/Symmetric-encryption/2813285/2265191-4.html
+
+Feb 16th
+// ethical hacking
+Asymmetrick encryption
+https://www.lynda.com/IT-tutorials/Asymmetric-encryption/2813285/2265192-4.html
+mixing symmetric and asymmetric
+https://www.lynda.com/IT-tutorials/Mixing-asymmetric-symmetric/2813285/2264238-4.html
+quiz
+
+Feb 17th
+// Ethical Hacking - cryptography
+//Hashing
+Cryptographic hashing
+https://www.lynda.com/IT-tutorials/Cryptographic-hashing/2813285/2261836-4.html
+quiz
+
+Feb 18th
+//Ethical Hacking - con't
+//Digital Certificates
+How they are used
+https://www.lynda.com/IT-tutorials/How-used/2813285/2265193-4.html
+
+Feb 19th
+// redo the Java stuff
+https://hyperskill.org/curriculum
+What you'll do in this stage 1/4: Hello! What’s your name?
+https://hyperskill.org/projects/31/stages/165/preview
+Introduction to Java -> Hello!
+https://hyperskill.org/learn/step/4709
+// new stuff
+Theory: Printing data
+https://hyperskill.org/learn/step/3749
+Printing data -> What does the code print
+https://hyperskill.org/learn/step/3763
+Printing data -> Stars
+https://hyperskill.org/learn/step/3764
+Printing data -> First, second, third
+https://hyperskill.org/learn/step/2509
+Printing data -> We need to learn Java
+https://hyperskill.org/learn/step/3760
+Printing data -> Digits from 0 to 9 in a single line
+https://hyperskill.org/learn/step/3759
+
+//Ethical Hacking - con't
+//Digital Certificates
+Trusted Models
+https://www.lynda.com/IT-tutorials/Trust-models/2813285/2265194-4.html
+Quiz
+
+Feb 20th
+//Ethical Hacking
+//Public Key Infrastructure (PKI)
+Summary of exam expectations
+https://www.lynda.com/IT-tutorials/Summary-exam-expectations/2813285/2264239-4.html
+Digital certificates and signing
+https://www.lynda.com/IT-tutorials/Digital-certificates-signing/2813285/2261837-4.html
+Cryptographic key escrow
+https://www.lynda.com/IT-tutorials/Cryptographic-key-escrow/2813285/2265195-4.html
+Quiz
+//Applied Uses of Cryptography
+Protocols that use cryptography
+https://www.lynda.com/IT-tutorials/Protocols-use-cryptography/2813285/2264240-4.html
+Why encrypt your filesystem?
+https://www.lynda.com/IT-tutorials/Why-encrypt-your-filesystem/2813285/2264241-4.html
+quiz
+
+// lynda.com on Jenkins
+// Learning Jenkins
+https://www.lynda.com/Developer-tutorials/Learning-Jenkins/677177-2.html
+Welcome
+https://www.lynda.com/Developer-tutorials/Welcome/677177/729035-4.html
+What you should know
+https://www.lynda.com/Developer-tutorials/What-you-should-know/677177/729036-4.html
+Why choose jenkins?
+https://www.lynda.com/Developer-tutorials/Why-choose-Jenkins/677177/729037-4.html
+Key Terminology
+https://www.lynda.com/Developer-tutorials/Key-terminology/677177/729038-4.html
+Quiz
+
+Feb 21st
+// lynda.com on Jenkins
+// Learning Jenkins
+System requirements
+https://www.lynda.com/Developer-tutorials/System-requirements/677177/729040-4.html
+// switch to 'Jobs in Jenkins'
+Create a job
+https://www.lynda.com/Developer-tutorials/Create-job/677177/729051-4.html
+Your first Jenkins job
+https://www.lynda.com/Developer-tutorials/Your-first-Jenkins-job/677177/729052-4.html
+instal Jenkins on Windows
+https://www.lynda.com/Developer-tutorials/Install-Jenkins-Windows/677177/729041-4.html
+Jenkins user interface
+https://www.lynda.com/Developer-tutorials/Jenkins-user-interface/677177/729045-4.html
+suggested plugins
+https://www.lynda.com/Developer-tutorials/suggested-plugins/677177/729046-4.html
+Install and uninstall plugins
+https://www.lynda.com/Developer-tutorials/Install-uninstall-plugins/677177/729047-4.html
+Update plugins
+https://www.lynda.com/Developer-tutorials/Update-plugins/677177/729048-4.html
+Global tool configuration
+https://www.lynda.com/Developer-tutorials/Global-tool-configuration/677177/729049-4.html
+quiz
+
+Feb 22nd
+//Ethical Hacking
+// Cryptographic Attacks
+Types of attacks
+https://www.lynda.com/IT-tutorials/Types-attacks/2813285/2265196-4.html
+
+Feb 23rd
+//Ethical Hacking
+// Cryptographic Attacks
+real-time exports
+https://www.lynda.com/IT-tutorials/Real-world-exploits/2813285/2265197-4.html
+
+Feb 24th
+//Jobs in Jenkins con't
+Basic Job Configuration
+https://www.lynda.com/Developer-tutorials/Basic-job-configuration/677177/729053-4.html
+
+Feb 25th
+//Ethical Hacking
+// Cryptographic Attacks
+Code breaking methodologies
+https://www.lynda.com/IT-tutorials/Code-breaking-methodologies/2813285/2265198-4.html
+Quiz
+
+Feb 26th
+//Ethical Hacking - Conclusion
+Summary of exam
+https://www.lynda.com/IT-tutorials/Summary-exam-expectations/2813285/2268429-4.html
+// next Course - FootPrint and Reconnaissance
+https://www.lynda.com/Linux-tutorials/Ethical-Hacking-Footprinting-Reconnaissance/455717-2.html
+Scouting the Target
+https://www.lynda.com/Linux-tutorials/Scouting-target/455717/5027597-4.html
+What you should know
+https://www.lynda.com/Linux-tutorials/What-you-should-know/455717/5027873-4.html
+Disclaimer
+https://www.lynda.com/Linux-tutorials/Disclaimer/455717/5027874-4.html
+
+Feb 27th
+// Reconnaissance overview
+Footprinting and reconnaissance
+https://www.lynda.com/Linux-tutorials/Footprinting-reconnaissance/455717/5027599-4.html
+
+// lynda Proj Coord clourse - notetaking
+effective notetaking while reading
+https://www.lynda.com/Business-Skills-tutorials/Taking-more-effective-notes-while-reading/373782/459923-4.html
+mind mapping while reading
+https://www.lynda.com/Business-Skills-tutorials/Mind-mapping-while-reading/373782/459924-4.html
+
+// google cloud courses - this one on API's
+APIs Explorer: Qwik Start
+https://google.qwiklabs.com/focuses/2457?parent=catalog
+
+Feb 28th - March 2nd
+read mostly online and blog junk about coding.. nothing worth noting
+
+March 3rd
+// next Course con't - FootPrint and Reconnaissance
+// Reconnaissance overview
+Using competitive intelligence
+https://www.lynda.com/Linux-tutorials/Using-competitive-intelligence/455717/490868-4.html
+
+March 4th
+search engines and Google hacking
+https://www.lynda.com/Linux-tutorials/Search-engines-Google-hacking/455717/490869-4.html
+
+March 5th
+getting social
+https://www.lynda.com/Linux-tutorials/Getting-social/455717/5027602-4.html
+Searching public records online 1st half
+https://www.lynda.com/Linux-tutorials/Using-AnyWho-Spokeo-Yansi/455717/5027603-4.html
+
+March 6th
+Searching public records online 2nd half
+https://www.lynda.com/Linux-tutorials/Using-AnyWho-Spokeo-Yansi/455717/5027603-4.html
+
+March 7th
+tracking online reputation
+https://www.lynda.com/Linux-tutorials/Tracking-online-reputation/455717/5027604-4.html
+Quiz
+micro
+March 8th
+// email and websites
+Websites and email footprinting
+https://www.lynda.com/Linux-tutorials/Website-email-footprinting/455717/5027606-4.html
+
+March 9th 2020
+// self taught programmer Ubemy course from Lawrence
+Welcome
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/17100674#overview
+the self-taught programmer community
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/16893354#overview
+exercise solutions
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/17340448#overview
+inspriation
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/17100694#overview
+installing python
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/17100746#overview
+
+March 10th
+// google qwiklabs HTTP load balancing
+Set Up Network and HTTP Load Balancers
+https://google.qwiklabs.com/focuses/558?parent=catalog
+Set Up Network & HTTP Load Balancers, GCP Essentials - Qwiklabs Preview
+https://youtu.be/1ZW59HrRUzw
+
+March 11th
+// self taught programmer Ubemy course from Lawrence
+Getting started
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/17100742#overview
+coding exercise 1: your first program
+https://www.udemy.com/course/self-taught-programmer/learn/quiz/4751918#overview
+Win One
+https://www.udemy.com/course/self-taught-programmer/learn/lecture/16692014#overview
+
+March 12th
+
+
+//Jobs in Jenkins con't
+
+
+// rewatch this
+https://www.lynda.com/IT-tutorials/Types-attacks/2813285/2265196-4.html
+
+// for Jenkins
+//go back and do 'get installed on Mac' and containers etc
+
+// java course
+
+
+
+
+
+
+
+// to do:
+https://www.codecademy.com/courses/learn-php/lessons/intro-to-built-in-php-functions/exercises/finding-functions
+https://www.codecademy.com/courses/learn-phaser/lessons/learn-phaser-basics-color-a-pegasus/exercises/updating-color
+
+
+to do:
+// SQL catch-up
+
+to DO: 
+
+// Udemy sql weekender course
+11. [Brainbuster] Organize movies by rating!
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1819524#overview
+12. Connecting Tables
+https://www.udemy.com/course/sql-for-newbs/learn/lecture/1150978#overview
+Quiz 4: Connecting Tables (Warm-up for Brainbuster)
+https://www.udemy.com/course/sql-for-newbs/learn/quiz/113462#overview
+
+// fCC exercise
+Timestamp Microservice Part 2: Free Code Camp API and Microservice Backend Development Certification
+https://youtu.be/Iw1ZR92czdw
+// watched 8 minutes of it
+
+
+/// from: https://teachyourselfcs.com/#why
+// suggested videos: https://teachyourselfcs.com/#programming
+Computer Science 61A, 001 - Spring 2011
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
+Computer Science 61A - Lecture 1: functional programming 1
+https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8
+up to 3:45 mins
+
+to DO:
+// next 'new' one:
+https://www.codecademy.com/courses/nontech-life-skills/lessons/how-to-adult/exercises/how-to-healthy-relationships
+
+
+to do:
+// Udemy sql weekender course
+// scrimba V School BootCamp Primer
+
+// starting in on the P1xt learn to code material
+// https://www.khanacademy.org/computing/computer-programming/programming
+
+// Postman Play around
+Using Markdown for descriptions
+https://learning.getpostman.com/docs/postman/collections/using_markdown_for_descriptions/
+
+// the other course stuff - Odin etc
+
+
+to do today!
+// try to get back into this Java gamification course
+https://codegym.cc/
+// redo lectures
+https://codegym.cc/quests/lectures/questsyntax.level00.lecture03
+
+to do:
+get Laurence learn to code logins and info
+
+move wordpress blog: https://scottbolinger.com/jamstack-so-hot-right-now/
+
+/ starting in on the P1xt learn to code material
+// from https://github.com/P1xt/p1xt-guides/blob/master/deprecated/job-ready-javascript-edition-3.0.md#tier-1---the-basics
+// https://www.khanacademy.org/computing/computer-programming/programming
+
+// brush up on my sql
+https://www.udemy.com/course/sql-for-newbs/
+
+// skillcrush
+
+// upskill
+
+// blockchain stuff
+// python
+// php
+
+post to narrative...
+
+
+// to do
+https://www.codecademy.com/courses/learn-python/lessons/student-becomes-the-teacher/exercises/just-weight-and-see
+
+
+to watch later
+Installing the mongo Shell (OSX / Linux)
+https://university.mongodb.com/mercury/M001/2019_May/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/5963b30cc1da5a32116dc5b5/lecture
+
+
+// to do final 2 tests
+// fCC - chai testing
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/run-functional-tests-using-a-headless-browser
+
+
+to do
+https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/run-functional-tests-on-an-api-response-using-chai-http-iv---put-method/
+
+
+
+to do
+you need to start in on thee webpage design course - Lynda, skillshare (the UI/UX one) and the other one with ruby (upskill)
+then the P1xt and watchandcode on js, hackerrank, and the viking prep stuff from whatshisface in fCC
+
+to do stilll:
+// fCC - express
+https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests
+
+to do:
+https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements/
 
 =====
 to do:
@@ -2957,4 +6621,9 @@ FCC Test Challengs Prototype
 https://glitch.com/edit/#!/deluxe-point
 ack! no lessons yet
 
+
+// save this one for later:
+https://webkit.org/blog/7846/concurrent-javascript-it-can-work/
+
+// list of java books in here --> https://codegym.cc/quests/lectures/questsyntax.level01.lecture09
 
